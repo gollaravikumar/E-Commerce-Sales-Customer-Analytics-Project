@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,Quantity,Unit_Price,Discount,Sales,Payment_Method,Customer_Segment
+ORD10001,2025-06-10,CUST1185,Perfume,Beauty,West,3,2887,0.0,8661.0,Debit Card,Regular
+ORD10002,2025-05-27,CUST1288,Hoodie,Fashion,South,1,1815,0.1,1633.5,UPI,Regular
+ORD10003,2025-10-30,CUST1024,Smart Watch,Electronics,Central,2,5726,0.05,10879.4,Debit Card,Regular
+ORD10004,2025-12-03,CUST1261,Hoodie,Fashion,Central,1,1605,0.1,1444.5,UPI,Regular
+ORD10005,2025-03-11,CUST1198,Denim Jeans,Fashion,South,1,2190,0.0,2190.0,Debit Card,Premium
+ORD10006,2025-11-24,CUST1101,Storage Box Set,Home & Kitchen,West,3,1257,0.05,3582.45,UPI,Regular
+ORD10007,2025-10-15,CUST1195,Mechanical Keyboard,Electronics,East,2,3407,0.1,6132.6,UPI,Regular
+ORD10008,2025-07-29,CUST1223,Backpack,Fashion,East,2,1818,0.1,3272.4,Credit Card,Regular
+ORD10009,2025-06-09,CUST1013,Bluetooth Speaker,Electronics,North,1,1871,0.15,1590.35,UPI,Regular
+ORD10010,2025-05-30,CUST1143,Running Shoes,Fashion,West,2,3135,0.1,5643.0,UPI,Regular
+ORD10011,2025-09-21,CUST1329,Mechanical Keyboard,Electronics,West,1,3120,0.05,2964.0,Credit Card,Regular
+ORD10012,2025-05-06,CUST1042,Water Bottle,Home & Kitchen,Central,2,684,0.0,1368.0,Cash on Delivery,Premium
+ORD10013,2025-12-20,CUST1258,Storage Box Set,Home & Kitchen,North,3,1241,0.05,3536.85,Cash on Delivery,Regular
+ORD10014,2025-06-19,CUST1300,Bluetooth Speaker,Electronics,West,1,1923,0.0,1923.0,Debit Card,Regular
+ORD10015,2025-08-02,CUST1276,Casual Shirt,Fashion,East,2,1213,0.05,2304.7,UPI,Regular
+ORD10016,2025-12-28,CUST1204,Wireless Mouse,Electronics,South,2,852,0.15,1448.4,Credit Card,Regular
+ORD10017,2025-06-26,CUST1235,Fiction Novel,Books,Central,3,466,0.05,1328.1,Credit Card,Regular
+ORD10018,2025-04-14,CUST1008,Coffee Maker,Home & Kitchen,West,1,4313,0.05,4097.35,Debit Card,Regular
+ORD10019,2025-02-09,CUST1256,Running Shoes,Fashion,West,2,2894,0.1,5209.2,UPI,New
+ORD10020,2025-04-24,CUST1291,Mechanical Keyboard,Electronics,West,1,3328,0.05,3161.6,UPI,New
+ORD10021,2025-07-07,CUST1187,Storage Box Set,Home & Kitchen,South,1,1283,0.0,1283.0,Cash on Delivery,New
+ORD10022,2025-06-21,CUST1111,Face Wash,Beauty,West,3,530,0.05,1510.5,Credit Card,Regular
+ORD10023,2025-09-30,CUST1012,Mechanical Keyboard,Electronics,West,1,3530,0.05,3353.5,UPI,Regular
+ORD10024,2025-12-31,CUST1273,Casual Shirt,Fashion,Central,3,1236,0.05,3522.6,Credit Card,Regular
+ORD10025,2025-03-25,CUST1104,Wireless Mouse,Electronics,West,1,925,0.0,925.0,Credit Card,Regular
+ORD10026,2025-06-08,CUST1044,Hair Dryer,Beauty,Central,2,2491,0.0,4982.0,UPI,Regular
+ORD10027,2025-08-30,CUST1175,Backpack,Fashion,East,4,1738,0.15,5909.2,Credit Card,Regular
+ORD10028,2025-03-08,CUST1327,Wireless Mouse,Electronics,West,1,966,0.1,869.4,Credit Card,Premium
+ORD10029,2025-02-09,CUST1117,Mechanical Keyboard,Electronics,East,3,3456,0.0,10368.0,Debit Card,Premium
+ORD10030,2025-12-18,CUST1304,Coffee Maker,Home & Kitchen,South,1,4248,0.1,3823.2,UPI,Regular
+ORD10031,2025-10-26,CUST1126,Body Lotion,Beauty,West,1,651,0.1,585.9,UPI,Regular
+ORD10032,2025-06-16,CUST1041,Data Analytics Book,Books,North,1,868,0.0,868.0,UPI,Regular
+ORD10033,2025-08-04,CUST1345,USB-C Hub,Electronics,Central,2,1473,0.05,2798.7,Debit Card,Regular
+ORD10034,2025-12-13,CUST1146,USB-C Hub,Electronics,North,1,1439,0.1,1295.1,UPI,Regular
+ORD10035,2025-11-01,CUST1293,Wireless Mouse,Electronics,Central,1,960,0.0,960.0,Cash on Delivery,New
+ORD10036,2025-10-29,CUST1188,Body Lotion,Beauty,East,2,730,0.0,1460.0,Debit Card,Regular
+ORD10037,2025-08-22,CUST1058,Storage Box Set,Home & Kitchen,South,1,1130,0.05,1073.5,UPI,Regular
+ORD10038,2025-10-17,CUST1333,Coffee Maker,Home & Kitchen,Central,1,4427,0.05,4205.65,Credit Card,Regular
+ORD10039,2025-11-06,CUST1269,Hoodie,Fashion,South,2,1782,0.1,3207.6,Debit Card,Regular
+ORD10040,2025-08-21,CUST1034,Perfume,Beauty,West,3,2634,0.1,7111.8,UPI,New
+ORD10041,2025-12-16,CUST1349,Smart Watch,Electronics,Central,3,5581,0.1,15068.7,UPI,Premium
+ORD10042,2025-01-03,CUST1201,Mechanical Keyboard,Electronics,South,2,3125,0.1,5625.0,Credit Card,Premium
+ORD10043,2025-06-29,CUST1276,Hair Dryer,Beauty,North,2,2565,0.0,5130.0,Credit Card,Regular
+ORD10044,2025-10-26,CUST1267,Face Wash,Beauty,South,2,486,0.15,826.2,UPI,Regular
+ORD10045,2025-02-23,CUST1045,Smart Watch,Electronics,East,4,5444,0.05,20687.2,Cash on Delivery,Premium
+ORD10046,2025-11-05,CUST1333,Denim Jeans,Fashion,North,1,2370,0.1,2133.0,Debit Card,Premium
+ORD10047,2025-08-03,CUST1253,USB-C Hub,Electronics,South,2,1382,0.05,2625.8,Credit Card,Regular
+ORD10048,2025-05-23,CUST1349,Electric Kettle,Home & Kitchen,Central,4,2089,0.0,8356.0,UPI,New
+ORD10049,2025-12-31,CUST1239,Mechanical Keyboard,Electronics,North,2,3378,0.0,6756.0,UPI,Regular
+ORD10050,2025-11-28,CUST1013,Body Lotion,Beauty,North,1,745,0.1,670.5,UPI,Premium
+ORD10051,2025-03-29,CUST1339,Body Lotion,Beauty,West,3,649,0.1,1752.3,Debit Card,New
+ORD10052,2025-07-17,CUST1261,Smart Watch,Electronics,West,1,5169,0.05,4910.55,Debit Card,Regular
+ORD10053,2025-03-12,CUST1263,Face Wash,Beauty,North,1,516,0.2,412.8,Credit Card,Regular
+ORD10054,2025-10-09,CUST1065,Self Help Book,Books,Central,2,568,0.0,1136.0,Credit Card,Premium
+ORD10055,2025-07-28,CUST1147,Hoodie,Fashion,West,1,1820,0.05,1729.0,Credit Card,New
+ORD10056,2025-02-17,CUST1042,USB-C Hub,Electronics,North,2,1476,0.05,2804.4,UPI,Regular
+ORD10057,2025-08-12,CUST1295,Storage Box Set,Home & Kitchen,East,2,1182,0.05,2245.8,UPI,Regular
+ORD10058,2025-05-09,CUST1199,Air Fryer,Home & Kitchen,West,2,6214,0.1,11185.2,Credit Card,Premium
+ORD10059,2025-10-15,CUST1185,Air Fryer,Home & Kitchen,East,2,6428,0.1,11570.4,Debit Card,New
+ORD10060,2025-03-31,CUST1111,Business Book,Books,West,2,701,0.1,1261.8,Credit Card,Regular
+ORD10061,2025-11-04,CUST1171,Smart Watch,Electronics,South,1,5306,0.05,5040.7,Debit Card,Regular
+ORD10062,2025-03-29,CUST1211,Data Analytics Book,Books,North,3,881,0.0,2643.0,UPI,New
+ORD10063,2025-10-09,CUST1264,Fiction Novel,Books,West,1,514,0.1,462.6,UPI,Regular
+ORD10064,2025-12-02,CUST1347,Running Shoes,Fashion,East,1,2839,0.15,2413.15,Debit Card,New
+ORD10065,2025-06-13,CUST1015,USB-C Hub,Electronics,South,1,1398,0.1,1258.2,UPI,Regular
+ORD10066,2025-03-12,CUST1172,Fiction Novel,Books,East,1,478,0.05,454.1,Credit Card,Regular
+ORD10067,2025-11-04,CUST1279,Electric Kettle,Home & Kitchen,North,2,2047,0.1,3684.6,UPI,Regular
+ORD10068,2025-09-09,CUST1299,Storage Box Set,Home & Kitchen,East,3,1196,0.1,3229.2,Cash on Delivery,Premium
+ORD10069,2025-05-05,CUST1008,Business Book,Books,Central,2,703,0.0,1406.0,Credit Card,Regular
+ORD10070,2025-09-10,CUST1157,Air Fryer,Home & Kitchen,South,1,6005,0.15,5104.25,Credit Card,Regular
+ORD10071,2025-09-14,CUST1308,Water Bottle,Home & Kitchen,West,2,753,0.1,1355.4,Cash on Delivery,Premium
+ORD10072,2025-07-05,CUST1257,Fiction Novel,Books,South,3,528,0.0,1584.0,Credit Card,Premium
+ORD10073,2025-12-26,CUST1223,Data Analytics Book,Books,North,1,933,0.1,839.7,UPI,Premium
+ORD10074,2025-03-30,CUST1145,Running Shoes,Fashion,West,5,2982,0.2,11928.0,UPI,Regular
+ORD10075,2025-12-04,CUST1334,Skin Care Kit,Beauty,North,3,1481,0.05,4220.85,Credit Card,Premium
+ORD10076,2025-05-20,CUST1018,Face Wash,Beauty,South,3,518,0.1,1398.6,Credit Card,New
+ORD10077,2025-07-07,CUST1245,Smart Watch,Electronics,West,2,5085,0.05,9661.5,UPI,New
+ORD10078,2025-06-13,CUST1139,Electric Kettle,Home & Kitchen,South,3,1935,0.1,5224.5,Debit Card,Regular
+ORD10079,2025-05-05,CUST1224,Mechanical Keyboard,Electronics,South,2,3461,0.2,5537.6,UPI,Regular
+ORD10080,2025-06-30,CUST1321,Business Book,Books,East,2,710,0.05,1349.0,UPI,Regular
+ORD10081,2025-03-15,CUST1309,Bluetooth Speaker,Electronics,South,1,1885,0.1,1696.5,Cash on Delivery,Premium
+ORD10082,2025-07-24,CUST1114,Running Shoes,Fashion,Central,1,3189,0.0,3189.0,Credit Card,Premium
+ORD10083,2025-08-27,CUST1063,Denim Jeans,Fashion,Central,1,2108,0.05,2002.6,UPI,Regular
+ORD10084,2025-12-13,CUST1349,Face Wash,Beauty,West,3,494,0.05,1407.9,Debit Card,New
+ORD10085,2025-03-09,CUST1112,Hair Dryer,Beauty,East,2,2246,0.1,4042.8,Credit Card,Regular
+ORD10086,2025-07-28,CUST1023,Programming Book,Books,South,1,1018,0.05,967.1,Credit Card,Regular
+ORD10087,2025-02-10,CUST1158,Smart Watch,Electronics,South,1,5112,0.1,4600.8,UPI,Regular
+ORD10088,2025-02-10,CUST1178,Bluetooth Speaker,Electronics,East,1,2009,0.0,2009.0,UPI,Regular
+ORD10089,2025-11-04,CUST1320,Hair Dryer,Beauty,West,1,2331,0.05,2214.45,UPI,Regular
+ORD10090,2025-03-11,CUST1053,Fiction Novel,Books,North,1,496,0.1,446.4,UPI,New
+ORD10091,2025-03-10,CUST1167,Smart Watch,Electronics,East,1,5156,0.1,4640.4,Credit Card,New
+ORD10092,2025-11-24,CUST1271,Bluetooth Speaker,Electronics,West,3,1935,0.0,5805.0,UPI,New
+ORD10093,2025-08-09,CUST1052,Hoodie,Fashion,West,5,1661,0.15,7059.25,Credit Card,Regular
+ORD10094,2025-09-26,CUST1122,Air Fryer,Home & Kitchen,North,1,6060,0.0,6060.0,UPI,Premium
+ORD10095,2025-09-27,CUST1083,Skin Care Kit,Beauty,North,1,1699,0.1,1529.1,Debit Card,Regular
+ORD10096,2025-07-21,CUST1348,Casual Shirt,Fashion,East,5,1196,0.0,5980.0,UPI,New
+ORD10097,2025-07-15,CUST1157,Fiction Novel,Books,South,2,481,0.0,962.0,Credit Card,New
+ORD10098,2025-11-03,CUST1089,USB-C Hub,Electronics,East,2,1435,0.15,2439.5,Credit Card,Regular
+ORD10099,2025-09-22,CUST1053,Hair Dryer,Beauty,East,2,2498,0.2,3996.8,UPI,Premium
+ORD10100,2025-08-28,CUST1139,Backpack,Fashion,West,1,1682,0.15,1429.7,UPI,New
+ORD10101,2025-03-14,CUST1120,Mechanical Keyboard,Electronics,West,3,3517,0.0,10551.0,Debit Card,Regular
+ORD10102,2025-12-13,CUST1200,Backpack,Fashion,North,2,1866,0.1,3358.8,Cash on Delivery,New
+ORD10103,2025-02-06,CUST1074,Hair Dryer,Beauty,South,1,2493,0.0,2493.0,Debit Card,New
+ORD10104,2025-05-21,CUST1144,Electric Kettle,Home & Kitchen,East,1,2034,0.1,1830.6,Cash on Delivery,Regular
+ORD10105,2025-05-18,CUST1108,Bluetooth Speaker,Electronics,South,1,1787,0.0,1787.0,Cash on Delivery,Regular
+ORD10106,2025-06-24,CUST1071,Mechanical Keyboard,Electronics,North,2,3500,0.05,6650.0,Credit Card,Regular
+ORD10107,2025-01-17,CUST1236,Water Bottle,Home & Kitchen,North,2,750,0.1,1350.0,UPI,Regular
+ORD10108,2025-08-13,CUST1344,Hair Dryer,Beauty,Central,3,2553,0.2,6127.2,UPI,Regular
+ORD10109,2025-07-21,CUST1141,Air Fryer,Home & Kitchen,North,1,6859,0.1,6173.1,UPI,Regular
+ORD10110,2025-11-06,CUST1130,Fiction Novel,Books,South,2,518,0.05,984.2,Debit Card,Premium
+ORD10111,2025-12-10,CUST1135,Mechanical Keyboard,Electronics,West,1,3508,0.0,3508.0,UPI,Regular
+ORD10112,2025-07-29,CUST1307,Air Fryer,Home & Kitchen,South,1,6718,0.15,5710.3,Credit Card,Regular
+ORD10113,2025-02-28,CUST1115,Air Fryer,Home & Kitchen,East,4,6902,0.1,24847.2,Credit Card,Regular
+ORD10114,2025-02-02,CUST1169,Coffee Maker,Home & Kitchen,Central,1,4042,0.2,3233.6,UPI,Regular
+ORD10115,2025-04-03,CUST1001,Wireless Mouse,Electronics,East,1,844,0.15,717.4,Credit Card,Regular
+ORD10116,2025-10-26,CUST1260,Running Shoes,Fashion,South,1,3233,0.15,2748.05,UPI,New
+ORD10117,2025-01-19,CUST1019,Coffee Maker,Home & Kitchen,West,1,4502,0.1,4051.8,UPI,New
+ORD10118,2025-04-13,CUST1099,Storage Box Set,Home & Kitchen,North,2,1104,0.2,1766.4,Credit Card,Regular
+ORD10119,2025-08-19,CUST1145,Mechanical Keyboard,Electronics,South,1,3522,0.05,3345.9,Credit Card,Premium
+ORD10120,2025-02-03,CUST1238,Denim Jeans,Fashion,West,4,2144,0.0,8576.0,UPI,Regular
+ORD10121,2025-10-01,CUST1061,Self Help Book,Books,Central,5,602,0.1,2709.0,UPI,Premium
+ORD10122,2025-09-22,CUST1318,Air Fryer,Home & Kitchen,South,2,6728,0.05,12783.2,Credit Card,Regular
+ORD10123,2025-06-10,CUST1046,Coffee Maker,Home & Kitchen,West,1,4018,0.1,3616.2,UPI,Regular
+ORD10124,2025-11-30,CUST1234,Mechanical Keyboard,Electronics,North,3,3489,0.05,9943.65,UPI,Regular
+ORD10125,2025-09-04,CUST1192,Air Fryer,Home & Kitchen,Central,4,6190,0.1,22284.0,Credit Card,Regular
+ORD10126,2025-06-10,CUST1240,Denim Jeans,Fashion,North,1,2367,0.05,2248.65,UPI,New
+ORD10127,2025-06-12,CUST1300,Running Shoes,Fashion,East,4,3169,0.05,12042.2,Credit Card,Regular
+ORD10128,2025-12-08,CUST1343,Coffee Maker,Home & Kitchen,West,4,4591,0.15,15609.4,Debit Card,Premium
+ORD10129,2025-06-16,CUST1107,Denim Jeans,Fashion,East,1,2250,0.05,2137.5,UPI,Regular
+ORD10130,2025-01-15,CUST1118,Skin Care Kit,Beauty,West,3,1514,0.0,4542.0,Debit Card,Regular
+ORD10131,2025-02-12,CUST1332,Perfume,Beauty,South,1,3022,0.0,3022.0,Credit Card,New
+ORD10132,2025-04-02,CUST1095,Data Analytics Book,Books,Central,1,847,0.1,762.3,Credit Card,Regular
+ORD10133,2025-03-06,CUST1104,Fiction Novel,Books,West,1,503,0.05,477.85,Cash on Delivery,New
+ORD10134,2025-04-27,CUST1112,Denim Jeans,Fashion,South,1,2279,0.2,1823.2,Credit Card,Regular
+ORD10135,2025-05-09,CUST1328,Perfume,Beauty,South,3,2948,0.15,7517.4,Debit Card,New
+ORD10136,2025-12-01,CUST1034,Backpack,Fashion,North,3,1697,0.15,4327.35,Credit Card,Regular
+ORD10137,2025-01-01,CUST1119,Bluetooth Speaker,Electronics,West,1,1982,0.0,1982.0,UPI,Regular
+ORD10138,2025-01-16,CUST1033,Self Help Book,Books,South,3,603,0.15,1537.65,Debit Card,Regular
+ORD10139,2025-07-04,CUST1145,Skin Care Kit,Beauty,South,2,1590,0.05,3021.0,Debit Card,Regular
+ORD10140,2025-01-23,CUST1140,Bluetooth Speaker,Electronics,Central,1,1800,0.15,1530.0,UPI,Premium
+ORD10141,2025-05-24,CUST1160,Electric Kettle,Home & Kitchen,South,3,2151,0.15,5485.05,Credit Card,Regular
+ORD10142,2025-05-16,CUST1249,Face Wash,Beauty,North,2,503,0.15,855.1,UPI,Premium
+ORD10143,2025-04-05,CUST1122,Denim Jeans,Fashion,South,1,2290,0.15,1946.5,UPI,Regular
+ORD10144,2025-05-13,CUST1001,Coffee Maker,Home & Kitchen,South,2,4421,0.0,8842.0,Debit Card,Premium
+ORD10145,2025-11-21,CUST1167,Smart Watch,Electronics,South,1,5478,0.15,4656.3,Credit Card,Regular
+ORD10146,2025-02-08,CUST1148,Face Wash,Beauty,North,1,467,0.0,467.0,UPI,New
+ORD10147,2025-05-12,CUST1326,Air Fryer,Home & Kitchen,South,1,6351,0.05,6033.45,Debit Card,New
+ORD10148,2025-05-29,CUST1043,Mechanical Keyboard,Electronics,West,1,3096,0.1,2786.4,Debit Card,New
+ORD10149,2025-12-30,CUST1164,Casual Shirt,Fashion,East,1,1278,0.05,1214.1,Debit Card,Regular
+ORD10150,2025-12-16,CUST1134,Programming Book,Books,South,2,1098,0.2,1756.8,Credit Card,Regular
+ORD10151,2025-03-12,CUST1203,Air Fryer,Home & Kitchen,South,1,6880,0.1,6192.0,Credit Card,Premium
+ORD10152,2025-04-09,CUST1158,Business Book,Books,East,4,687,0.05,2610.6,Credit Card,Premium
+ORD10153,2025-04-28,CUST1107,Running Shoes,Fashion,West,1,2941,0.0,2941.0,UPI,Regular
+ORD10154,2025-12-21,CUST1325,Casual Shirt,Fashion,East,2,1249,0.15,2123.3,Credit Card,Regular
+ORD10155,2025-05-24,CUST1216,Programming Book,Books,West,4,1113,0.0,4452.0,Credit Card,Regular
+ORD10156,2025-06-15,CUST1002,Face Wash,Beauty,West,3,499,0.05,1422.15,UPI,New
+ORD10157,2025-07-26,CUST1053,Electric Kettle,Home & Kitchen,East,1,1890,0.1,1701.0,Cash on Delivery,New
+ORD10158,2025-07-31,CUST1132,Fiction Novel,Books,North,1,507,0.15,430.95,Debit Card,Regular
+ORD10159,2025-12-25,CUST1045,Denim Jeans,Fashion,North,2,2173,0.05,4128.7,Debit Card,New
+ORD10160,2025-12-10,CUST1183,Coffee Maker,Home & Kitchen,South,1,4556,0.0,4556.0,Debit Card,Regular
+ORD10161,2025-05-18,CUST1337,Casual Shirt,Fashion,South,2,1203,0.05,2285.7,UPI,Regular
+ORD10162,2025-03-23,CUST1284,Coffee Maker,Home & Kitchen,Central,1,4607,0.05,4376.65,UPI,Premium
+ORD10163,2025-08-20,CUST1072,Programming Book,Books,Central,1,1087,0.0,1087.0,Cash on Delivery,Regular
+ORD10164,2025-04-24,CUST1328,Hair Dryer,Beauty,West,1,2554,0.0,2554.0,UPI,Regular
+ORD10165,2025-02-26,CUST1248,Programming Book,Books,South,2,1172,0.1,2109.6,UPI,New
+ORD10166,2025-03-14,CUST1034,Air Fryer,Home & Kitchen,Central,1,6277,0.2,5021.6,Debit Card,New
+ORD10167,2025-11-04,CUST1106,Self Help Book,Books,East,4,563,0.1,2026.8,Debit Card,New
+ORD10168,2025-04-13,CUST1127,Hair Dryer,Beauty,South,2,2382,0.05,4525.8,UPI,Regular
+ORD10169,2025-06-12,CUST1111,Perfume,Beauty,South,4,2849,0.0,11396.0,Cash on Delivery,Regular
+ORD10170,2025-07-25,CUST1018,Casual Shirt,Fashion,North,4,1398,0.0,5592.0,UPI,Regular
+ORD10171,2025-11-30,CUST1178,Running Shoes,Fashion,East,2,3059,0.0,6118.0,Debit Card,New
+ORD10172,2025-08-15,CUST1331,Electric Kettle,Home & Kitchen,South,1,1911,0.05,1815.45,Debit Card,Regular
+ORD10173,2025-04-28,CUST1283,Mechanical Keyboard,Electronics,West,2,3390,0.05,6441.0,UPI,New
+ORD10174,2025-01-12,CUST1178,Bluetooth Speaker,Electronics,South,1,1898,0.05,1803.1,Cash on Delivery,Regular
+ORD10175,2025-06-03,CUST1252,Hoodie,Fashion,North,1,1724,0.0,1724.0,Cash on Delivery,Regular
+ORD10176,2025-09-20,CUST1227,Self Help Book,Books,West,2,557,0.15,946.9,Credit Card,Premium
+ORD10177,2025-08-19,CUST1326,Self Help Book,Books,South,1,615,0.1,553.5,Credit Card,New
+ORD10178,2025-08-07,CUST1261,Hoodie,Fashion,North,2,1688,0.0,3376.0,UPI,Premium
+ORD10179,2025-11-23,CUST1281,Skin Care Kit,Beauty,North,1,1499,0.2,1199.2,UPI,Regular
+ORD10180,2025-10-02,CUST1126,Data Analytics Book,Books,East,3,929,0.0,2787.0,UPI,Regular
+ORD10181,2025-02-16,CUST1148,Air Fryer,Home & Kitchen,West,2,6712,0.0,13424.0,Debit Card,New
+ORD10182,2025-03-08,CUST1062,Coffee Maker,Home & Kitchen,South,3,4121,0.05,11744.85,UPI,Regular
+ORD10183,2025-04-25,CUST1246,Face Wash,Beauty,South,1,470,0.05,446.5,UPI,Premium
+ORD10184,2025-08-16,CUST1350,Business Book,Books,East,2,715,0.15,1215.5,Debit Card,New
+ORD10185,2025-06-18,CUST1165,Skin Care Kit,Beauty,South,1,1475,0.05,1401.25,Credit Card,Regular
+ORD10186,2025-01-26,CUST1297,Fiction Novel,Books,Central,1,477,0.1,429.3,Debit Card,New
+ORD10187,2025-05-27,CUST1152,Water Bottle,Home & Kitchen,East,1,711,0.15,604.35,UPI,Regular
+ORD10188,2025-01-22,CUST1292,Bluetooth Speaker,Electronics,West,1,2036,0.05,1934.2,UPI,Regular
+ORD10189,2025-04-07,CUST1350,Body Lotion,Beauty,South,4,659,0.1,2372.4,UPI,New
+ORD10190,2025-10-11,CUST1272,Electric Kettle,Home & Kitchen,West,1,1977,0.05,1878.15,UPI,New
+ORD10191,2025-01-02,CUST1074,Mechanical Keyboard,Electronics,East,2,3560,0.0,7120.0,Debit Card,Regular
+ORD10192,2025-03-05,CUST1069,Air Fryer,Home & Kitchen,South,2,6365,0.0,12730.0,Credit Card,New
+ORD10193,2025-09-09,CUST1086,Denim Jeans,Fashion,South,5,2168,0.05,10298.0,Debit Card,Premium
+ORD10194,2025-05-28,CUST1163,Smart Watch,Electronics,South,1,5236,0.0,5236.0,Debit Card,New
+ORD10195,2025-04-08,CUST1009,Perfume,Beauty,South,1,2689,0.0,2689.0,UPI,New
+ORD10196,2025-06-08,CUST1275,Electric Kettle,Home & Kitchen,South,1,1891,0.1,1701.9,Cash on Delivery,New
+ORD10197,2025-03-25,CUST1035,Data Analytics Book,Books,West,1,952,0.05,904.4,UPI,Premium
+ORD10198,2025-03-10,CUST1185,Self Help Book,Books,West,2,593,0.15,1008.1,Debit Card,Premium
+ORD10199,2025-02-13,CUST1177,Coffee Maker,Home & Kitchen,South,1,4301,0.05,4085.95,Debit Card,New
+ORD10200,2025-10-18,CUST1066,Coffee Maker,Home & Kitchen,West,2,4421,0.05,8399.9,Cash on Delivery,Premium
+ORD10201,2025-12-26,CUST1025,Data Analytics Book,Books,North,1,919,0.05,873.05,UPI,New
+ORD10202,2025-06-25,CUST1310,Electric Kettle,Home & Kitchen,South,3,1962,0.2,4708.8,Debit Card,Regular
+ORD10203,2025-08-29,CUST1322,Running Shoes,Fashion,East,3,2771,0.0,8313.0,Credit Card,Regular
+ORD10204,2025-06-01,CUST1331,Storage Box Set,Home & Kitchen,North,3,1109,0.05,3160.65,Debit Card,Regular
+ORD10205,2025-09-30,CUST1144,Business Book,Books,South,3,667,0.1,1800.9,UPI,Regular
+ORD10206,2025-12-05,CUST1187,Self Help Book,Books,East,2,612,0.1,1101.6,Credit Card,Premium
+ORD10207,2025-11-21,CUST1045,Wireless Mouse,Electronics,Central,3,877,0.1,2367.9,Cash on Delivery,New
+ORD10208,2025-03-10,CUST1043,Water Bottle,Home & Kitchen,North,1,667,0.0,667.0,Cash on Delivery,Regular
+ORD10209,2025-10-29,CUST1144,USB-C Hub,Electronics,West,2,1565,0.1,2817.0,Credit Card,Premium
+ORD10210,2025-06-03,CUST1279,Electric Kettle,Home & Kitchen,South,1,1989,0.0,1989.0,UPI,Regular
+ORD10211,2025-05-01,CUST1309,Self Help Book,Books,South,2,633,0.0,1266.0,UPI,Premium
+ORD10212,2025-05-04,CUST1194,Self Help Book,Books,East,1,606,0.05,575.7,Credit Card,Premium
+ORD10213,2025-09-11,CUST1263,Bluetooth Speaker,Electronics,South,2,1954,0.0,3908.0,UPI,Regular
+ORD10214,2025-06-19,CUST1192,Coffee Maker,Home & Kitchen,West,2,4118,0.15,7000.6,Credit Card,Regular
+ORD10215,2025-12-05,CUST1350,Denim Jeans,Fashion,North,2,2209,0.1,3976.2,Credit Card,Regular
+ORD10216,2025-07-07,CUST1158,Self Help Book,Books,North,2,596,0.2,953.6,UPI,Regular
+ORD10217,2025-06-07,CUST1076,Mechanical Keyboard,Electronics,North,3,3422,0.0,10266.0,Cash on Delivery,Regular
+ORD10218,2025-04-16,CUST1266,Backpack,Fashion,South,1,1840,0.05,1748.0,Cash on Delivery,Regular
+ORD10219,2025-11-07,CUST1123,Hair Dryer,Beauty,South,5,2293,0.05,10891.75,Credit Card,New
+ORD10220,2025-05-27,CUST1327,Business Book,Books,South,2,715,0.15,1215.5,Credit Card,New
+ORD10221,2025-06-10,CUST1204,Electric Kettle,Home & Kitchen,South,5,2154,0.15,9154.5,UPI,Regular
+ORD10222,2025-09-05,CUST1263,Denim Jeans,Fashion,South,2,2247,0.05,4269.3,UPI,Regular
+ORD10223,2025-11-07,CUST1345,USB-C Hub,Electronics,North,1,1434,0.1,1290.6,UPI,Regular
+ORD10224,2025-12-03,CUST1204,Backpack,Fashion,North,1,1674,0.0,1674.0,Debit Card,Regular
+ORD10225,2025-06-12,CUST1220,Running Shoes,Fashion,North,1,2794,0.1,2514.6,UPI,New
+ORD10226,2025-02-21,CUST1254,Hoodie,Fashion,East,1,1618,0.1,1456.2,Cash on Delivery,Regular
+ORD10227,2025-06-24,CUST1037,Electric Kettle,Home & Kitchen,West,1,1911,0.0,1911.0,UPI,Regular
+ORD10228,2025-03-22,CUST1250,Running Shoes,Fashion,North,2,3132,0.15,5324.4,Credit Card,Premium
+ORD10229,2025-01-16,CUST1030,Water Bottle,Home & Kitchen,West,1,694,0.05,659.3,Cash on Delivery,Regular
+ORD10230,2025-07-05,CUST1005,Data Analytics Book,Books,West,1,960,0.2,768.0,Cash on Delivery,New
+ORD10231,2025-07-20,CUST1329,Data Analytics Book,Books,South,1,949,0.1,854.1,Credit Card,Regular
+ORD10232,2025-07-11,CUST1166,Perfume,Beauty,East,1,2902,0.15,2466.7,UPI,New
+ORD10233,2025-05-15,CUST1208,Face Wash,Beauty,West,1,477,0.05,453.15,UPI,New
+ORD10234,2025-06-24,CUST1325,Electric Kettle,Home & Kitchen,South,3,1916,0.1,5173.2,Debit Card,New
+ORD10235,2025-02-02,CUST1146,USB-C Hub,Electronics,West,2,1461,0.0,2922.0,UPI,Regular
+ORD10236,2025-10-20,CUST1334,Fiction Novel,Books,West,2,526,0.05,999.4,UPI,New
+ORD10237,2025-02-21,CUST1190,Running Shoes,Fashion,North,1,3089,0.0,3089.0,Credit Card,Regular
+ORD10238,2025-04-22,CUST1131,Running Shoes,Fashion,West,1,2774,0.1,2496.6,UPI,Regular
+ORD10239,2025-06-16,CUST1297,Air Fryer,Home & Kitchen,East,1,6822,0.05,6480.9,UPI,Regular
+ORD10240,2025-11-01,CUST1330,Coffee Maker,Home & Kitchen,North,1,4024,0.1,3621.6,Credit Card,Premium
+ORD10241,2025-10-15,CUST1258,Storage Box Set,Home & Kitchen,South,2,1281,0.2,2049.6,Credit Card,Regular
+ORD10242,2025-02-07,CUST1295,Water Bottle,Home & Kitchen,South,5,645,0.05,3063.75,Credit Card,New
+ORD10243,2025-02-17,CUST1277,Casual Shirt,Fashion,North,1,1392,0.05,1322.4,Credit Card,New
+ORD10244,2025-09-23,CUST1301,Backpack,Fashion,South,5,1730,0.05,8217.5,UPI,New
+ORD10245,2025-07-13,CUST1070,Air Fryer,Home & Kitchen,South,5,6173,0.05,29321.75,UPI,Premium
+ORD10246,2025-05-27,CUST1123,Wireless Mouse,Electronics,West,2,865,0.05,1643.5,Credit Card,Regular
+ORD10247,2025-07-28,CUST1260,Data Analytics Book,Books,East,1,957,0.05,909.15,UPI,Regular
+ORD10248,2025-03-24,CUST1213,Face Wash,Beauty,West,1,524,0.15,445.4,Debit Card,New
+ORD10249,2025-03-01,CUST1158,Coffee Maker,Home & Kitchen,North,2,4322,0.0,8644.0,Cash on Delivery,Regular
+ORD10250,2025-10-28,CUST1012,Mechanical Keyboard,Electronics,South,1,3162,0.05,3003.9,UPI,Regular
+ORD10251,2025-05-04,CUST1080,Electric Kettle,Home & Kitchen,West,1,1868,0.0,1868.0,Cash on Delivery,New
+ORD10252,2025-01-25,CUST1268,Running Shoes,Fashion,West,2,2910,0.1,5238.0,Debit Card,Regular
+ORD10253,2025-10-22,CUST1325,Perfume,Beauty,West,1,2991,0.0,2991.0,UPI,Premium
+ORD10254,2025-07-09,CUST1300,Smart Watch,Electronics,North,3,5762,0.1,15557.4,UPI,Regular
+ORD10255,2025-06-13,CUST1017,Mechanical Keyboard,Electronics,South,1,3242,0.05,3079.9,Debit Card,Regular
+ORD10256,2025-05-17,CUST1176,Electric Kettle,Home & Kitchen,North,2,1973,0.05,3748.7,UPI,Regular
+ORD10257,2025-10-28,CUST1174,Coffee Maker,Home & Kitchen,West,1,4622,0.1,4159.8,UPI,Regular
+ORD10258,2025-03-02,CUST1326,Smart Watch,Electronics,North,3,5573,0.05,15883.05,Credit Card,Premium
+ORD10259,2025-08-07,CUST1104,Bluetooth Speaker,Electronics,West,3,1768,0.05,5038.8,UPI,New
+ORD10260,2025-05-02,CUST1252,Business Book,Books,South,1,679,0.1,611.1,UPI,Regular
+ORD10261,2025-06-16,CUST1323,Self Help Book,Books,North,3,597,0.15,1522.35,Cash on Delivery,New
+ORD10262,2025-04-23,CUST1067,Water Bottle,Home & Kitchen,Central,1,694,0.05,659.3,UPI,Premium
+ORD10263,2025-01-15,CUST1157,USB-C Hub,Electronics,Central,2,1460,0.1,2628.0,Debit Card,New
+ORD10264,2025-06-20,CUST1104,Wireless Mouse,Electronics,North,1,880,0.1,792.0,UPI,Regular
+ORD10265,2025-03-13,CUST1086,Water Bottle,Home & Kitchen,East,1,713,0.05,677.35,Debit Card,Regular
+ORD10266,2025-11-29,CUST1278,Running Shoes,Fashion,North,4,3010,0.15,10234.0,Credit Card,Premium
+ORD10267,2025-06-17,CUST1247,Programming Book,Books,East,1,1110,0.0,1110.0,Debit Card,New
+ORD10268,2025-07-11,CUST1305,Denim Jeans,Fashion,North,2,2289,0.15,3891.3,Credit Card,Regular
+ORD10269,2025-08-25,CUST1247,Self Help Book,Books,South,1,569,0.05,540.55,UPI,New
+ORD10270,2025-03-02,CUST1248,Perfume,Beauty,East,1,2706,0.2,2164.8,UPI,Regular
+ORD10271,2025-09-23,CUST1346,Wireless Mouse,Electronics,West,1,828,0.1,745.2,Credit Card,Regular
+ORD10272,2025-04-17,CUST1210,Electric Kettle,Home & Kitchen,Central,1,2006,0.05,1905.7,Cash on Delivery,Regular
+ORD10273,2025-03-07,CUST1036,Water Bottle,Home & Kitchen,East,1,675,0.0,675.0,Cash on Delivery,Regular
+ORD10274,2025-05-26,CUST1346,Mechanical Keyboard,Electronics,South,1,3077,0.05,2923.15,UPI,Regular
+ORD10275,2025-07-31,CUST1258,Hoodie,Fashion,West,1,1788,0.0,1788.0,Debit Card,Regular
+ORD10276,2025-07-08,CUST1255,Backpack,Fashion,South,1,1704,0.0,1704.0,Debit Card,Regular
+ORD10277,2025-11-01,CUST1191,Self Help Book,Books,South,1,553,0.0,553.0,Credit Card,Regular
+ORD10278,2025-05-27,CUST1053,Body Lotion,Beauty,West,2,699,0.2,1118.4,UPI,Regular
+ORD10279,2025-08-31,CUST1022,Data Analytics Book,Books,East,2,865,0.05,1643.5,Credit Card,Regular
+ORD10280,2025-10-22,CUST1306,Air Fryer,Home & Kitchen,East,1,6359,0.0,6359.0,UPI,Premium
+ORD10281,2025-03-28,CUST1104,Data Analytics Book,Books,Central,1,828,0.0,828.0,UPI,Premium
+ORD10282,2025-07-24,CUST1004,Mechanical Keyboard,Electronics,East,2,3434,0.05,6524.6,Cash on Delivery,Regular
+ORD10283,2025-02-15,CUST1243,USB-C Hub,Electronics,Central,2,1522,0.1,2739.6,Debit Card,Regular
+ORD10284,2025-07-16,CUST1239,Denim Jeans,Fashion,Central,1,2139,0.15,1818.15,UPI,Regular
+ORD10285,2025-02-09,CUST1298,Running Shoes,Fashion,North,1,3012,0.0,3012.0,UPI,Premium
+ORD10286,2025-01-21,CUST1243,Smart Watch,Electronics,West,4,5698,0.0,22792.0,Debit Card,New
+ORD10287,2025-08-02,CUST1021,Body Lotion,Beauty,West,1,721,0.2,576.8,Credit Card,Premium
+ORD10288,2025-05-04,CUST1169,Fiction Novel,Books,East,1,475,0.1,427.5,UPI,Regular
+ORD10289,2025-08-02,CUST1100,Denim Jeans,Fashion,East,2,2276,0.1,4096.8,Credit Card,Premium
+ORD10290,2025-07-22,CUST1238,Mechanical Keyboard,Electronics,North,1,3313,0.15,2816.05,Credit Card,Regular
+ORD10291,2025-10-30,CUST1255,Body Lotion,Beauty,Central,2,709,0.05,1347.1,Debit Card,Regular
+ORD10292,2025-02-28,CUST1131,Coffee Maker,Home & Kitchen,Central,1,4053,0.0,4053.0,Credit Card,Regular
+ORD10293,2025-05-04,CUST1281,Bluetooth Speaker,Electronics,North,3,1864,0.1,5032.8,Credit Card,New
+ORD10294,2025-08-25,CUST1183,Electric Kettle,Home & Kitchen,East,1,2134,0.15,1813.9,UPI,New
+ORD10295,2025-01-13,CUST1251,Casual Shirt,Fashion,North,2,1393,0.15,2368.1,Cash on Delivery,New
+ORD10296,2025-11-15,CUST1042,Running Shoes,Fashion,North,2,2981,0.05,5663.9,UPI,New
+ORD10297,2025-03-24,CUST1140,Wireless Mouse,Electronics,South,2,858,0.0,1716.0,Credit Card,New
+ORD10298,2025-04-04,CUST1221,USB-C Hub,Electronics,East,4,1596,0.15,5426.4,Credit Card,Premium
+ORD10299,2025-12-16,CUST1116,Wireless Mouse,Electronics,East,2,939,0.05,1784.1,Credit Card,Regular
+ORD10300,2025-01-18,CUST1340,Water Bottle,Home & Kitchen,North,1,702,0.05,666.9,UPI,Regular
+ORD10301,2025-07-02,CUST1193,Running Shoes,Fashion,North,2,3215,0.05,6108.5,UPI,Regular
+ORD10302,2025-04-01,CUST1181,Mechanical Keyboard,Electronics,East,2,3393,0.1,6107.4,UPI,Regular
+ORD10303,2025-08-28,CUST1225,USB-C Hub,Electronics,West,5,1383,0.1,6223.5,Credit Card,Premium
+ORD10304,2025-05-20,CUST1010,Perfume,Beauty,West,3,2630,0.15,6706.5,UPI,Regular
+ORD10305,2025-06-12,CUST1031,Mechanical Keyboard,Electronics,West,1,3123,0.05,2966.85,Debit Card,Premium
+ORD10306,2025-05-16,CUST1143,USB-C Hub,Electronics,Central,1,1598,0.0,1598.0,Cash on Delivery,Regular
+ORD10307,2025-06-16,CUST1162,Backpack,Fashion,South,2,1664,0.0,3328.0,Credit Card,Regular
+ORD10308,2025-02-01,CUST1095,Self Help Book,Books,East,3,598,0.1,1614.6,UPI,New
+ORD10309,2025-11-26,CUST1205,Programming Book,Books,East,3,1180,0.0,3540.0,Credit Card,Regular
+ORD10310,2025-08-03,CUST1174,Electric Kettle,Home & Kitchen,Central,1,1916,0.0,1916.0,Credit Card,Regular
+ORD10311,2025-06-19,CUST1250,Air Fryer,Home & Kitchen,West,1,6835,0.0,6835.0,Credit Card,New
+ORD10312,2025-01-02,CUST1233,Storage Box Set,Home & Kitchen,West,3,1243,0.1,3356.1,Cash on Delivery,Regular
+ORD10313,2025-09-29,CUST1144,Skin Care Kit,Beauty,North,1,1708,0.05,1622.6,UPI,New
+ORD10314,2025-07-25,CUST1283,Coffee Maker,Home & Kitchen,Central,1,4124,0.05,3917.8,UPI,Regular
+ORD10315,2025-08-13,CUST1109,Running Shoes,Fashion,East,1,2950,0.05,2802.5,Credit Card,New
+ORD10316,2025-04-10,CUST1054,Hair Dryer,Beauty,East,1,2514,0.15,2136.9,UPI,Premium
+ORD10317,2025-09-03,CUST1137,Mechanical Keyboard,Electronics,Central,1,3305,0.15,2809.25,Cash on Delivery,New
+ORD10318,2025-12-08,CUST1305,Bluetooth Speaker,Electronics,West,3,1757,0.05,5007.45,Credit Card,Regular
+ORD10319,2025-09-16,CUST1124,Hair Dryer,Beauty,West,1,2550,0.0,2550.0,Cash on Delivery,Regular
+ORD10320,2025-05-02,CUST1177,Water Bottle,Home & Kitchen,Central,1,739,0.0,739.0,UPI,Regular
+ORD10321,2025-10-22,CUST1090,Hoodie,Fashion,West,1,1675,0.0,1675.0,UPI,Regular
+ORD10322,2025-01-13,CUST1117,Self Help Book,Books,South,1,580,0.1,522.0,Credit Card,Regular
+ORD10323,2025-09-15,CUST1187,Running Shoes,Fashion,West,2,2804,0.15,4766.8,UPI,Premium
+ORD10324,2025-12-12,CUST1079,Wireless Mouse,Electronics,West,1,899,0.0,899.0,Debit Card,Regular
+ORD10325,2025-10-19,CUST1199,Fiction Novel,Books,West,3,515,0.1,1390.5,Cash on Delivery,Regular
+ORD10326,2025-02-02,CUST1237,Coffee Maker,Home & Kitchen,West,1,4605,0.05,4374.75,Cash on Delivery,Regular
+ORD10327,2025-11-20,CUST1230,Skin Care Kit,Beauty,East,1,1664,0.05,1580.8,UPI,Regular
+ORD10328,2025-04-25,CUST1076,Mechanical Keyboard,Electronics,West,1,3372,0.05,3203.4,Credit Card,Regular
+ORD10329,2025-05-21,CUST1079,Fiction Novel,Books,West,3,465,0.1,1255.5,Credit Card,Premium
+ORD10330,2025-01-04,CUST1173,Electric Kettle,Home & Kitchen,North,2,2085,0.2,3336.0,Credit Card,Regular
+ORD10331,2025-05-01,CUST1008,Storage Box Set,Home & Kitchen,Central,2,1138,0.0,2276.0,Debit Card,Regular
+ORD10332,2025-04-03,CUST1153,Wireless Mouse,Electronics,Central,2,868,0.1,1562.4,UPI,Premium
+ORD10333,2025-12-15,CUST1086,Smart Watch,Electronics,West,5,5709,0.05,27117.75,Debit Card,Regular
+ORD10334,2025-05-09,CUST1226,Running Shoes,Fashion,West,1,3156,0.1,2840.4,UPI,Regular
+ORD10335,2025-10-15,CUST1266,Wireless Mouse,Electronics,East,1,890,0.05,845.5,UPI,Regular
+ORD10336,2025-04-24,CUST1286,Skin Care Kit,Beauty,South,1,1568,0.05,1489.6,Debit Card,New
+ORD10337,2025-06-07,CUST1240,Hoodie,Fashion,South,2,1688,0.05,3207.2,UPI,Regular
+ORD10338,2025-03-23,CUST1013,USB-C Hub,Electronics,East,1,1513,0.15,1286.05,Credit Card,Regular
+ORD10339,2025-02-13,CUST1116,Electric Kettle,Home & Kitchen,North,1,1927,0.05,1830.65,UPI,Regular
+ORD10340,2025-05-30,CUST1009,Backpack,Fashion,Central,1,1813,0.0,1813.0,UPI,Regular
+ORD10341,2025-12-25,CUST1257,Smart Watch,Electronics,Central,2,5596,0.2,8953.6,UPI,Premium
+ORD10342,2025-06-06,CUST1349,Water Bottle,Home & Kitchen,South,1,747,0.0,747.0,Credit Card,New
+ORD10343,2025-12-03,CUST1181,USB-C Hub,Electronics,West,2,1548,0.0,3096.0,Credit Card,Regular
+ORD10344,2025-10-12,CUST1350,Coffee Maker,Home & Kitchen,North,3,3979,0.1,10743.3,UPI,Premium
+ORD10345,2025-08-04,CUST1120,Wireless Mouse,Electronics,East,2,912,0.05,1732.8,UPI,Regular
+ORD10346,2025-09-17,CUST1031,Self Help Book,Books,South,2,596,0.05,1132.4,UPI,New
+ORD10347,2025-10-25,CUST1044,Wireless Mouse,Electronics,West,1,868,0.05,824.6,Cash on Delivery,New
+ORD10348,2025-10-18,CUST1182,Bluetooth Speaker,Electronics,South,3,1792,0.15,4569.6,UPI,Regular
+ORD10349,2025-11-30,CUST1261,Storage Box Set,Home & Kitchen,South,3,1289,0.0,3867.0,Credit Card,Regular
+ORD10350,2025-03-14,CUST1228,Coffee Maker,Home & Kitchen,North,2,4081,0.05,7753.9,Cash on Delivery,Regular
+ORD10351,2025-08-27,CUST1062,Face Wash,Beauty,South,2,516,0.15,877.2,UPI,Premium
+ORD10352,2025-12-07,CUST1057,Mechanical Keyboard,Electronics,East,1,3067,0.1,2760.3,Debit Card,New
+ORD10353,2025-07-20,CUST1047,Electric Kettle,Home & Kitchen,Central,2,1990,0.1,3582.0,UPI,New
+ORD10354,2025-05-25,CUST1272,Running Shoes,Fashion,East,1,3117,0.0,3117.0,UPI,Regular
+ORD10355,2025-04-17,CUST1185,Skin Care Kit,Beauty,West,3,1666,0.1,4498.2,Cash on Delivery,Regular
+ORD10356,2025-08-05,CUST1166,Air Fryer,Home & Kitchen,East,1,6388,0.1,5749.2,UPI,Regular
+ORD10357,2025-11-10,CUST1133,Electric Kettle,Home & Kitchen,South,2,1960,0.1,3528.0,UPI,New
+ORD10358,2025-07-30,CUST1223,Face Wash,Beauty,South,2,459,0.0,918.0,Cash on Delivery,Premium
+ORD10359,2025-10-01,CUST1239,Air Fryer,Home & Kitchen,South,5,6458,0.1,29061.0,Debit Card,Regular
+ORD10360,2025-06-18,CUST1217,Hoodie,Fashion,North,3,1730,0.05,4930.5,UPI,Regular
+ORD10361,2025-06-11,CUST1025,Hoodie,Fashion,South,1,1803,0.05,1712.85,UPI,Premium
+ORD10362,2025-07-16,CUST1254,Coffee Maker,Home & Kitchen,Central,1,4618,0.15,3925.3,Cash on Delivery,Regular
+ORD10363,2025-08-11,CUST1088,Casual Shirt,Fashion,West,1,1241,0.0,1241.0,Debit Card,Regular
+ORD10364,2025-05-23,CUST1307,Mechanical Keyboard,Electronics,Central,1,3324,0.15,2825.4,Debit Card,New
+ORD10365,2025-01-18,CUST1056,Hoodie,Fashion,Central,1,1669,0.05,1585.55,UPI,New
+ORD10366,2025-09-17,CUST1227,Face Wash,Beauty,North,2,513,0.05,974.7,Cash on Delivery,Regular
+ORD10367,2025-09-17,CUST1054,Air Fryer,Home & Kitchen,West,2,6448,0.1,11606.4,UPI,Regular
+ORD10368,2025-01-23,CUST1067,Wireless Mouse,Electronics,North,1,875,0.05,831.25,Credit Card,Regular
+ORD10369,2025-12-11,CUST1243,Perfume,Beauty,West,1,2979,0.0,2979.0,Debit Card,New
+ORD10370,2025-08-06,CUST1061,Wireless Mouse,Electronics,Central,3,881,0.05,2510.85,UPI,New
+ORD10371,2025-09-26,CUST1118,Casual Shirt,Fashion,East,2,1373,0.0,2746.0,UPI,Regular
+ORD10372,2025-10-13,CUST1321,Wireless Mouse,Electronics,South,1,837,0.0,837.0,Cash on Delivery,New
+ORD10373,2025-09-18,CUST1024,Wireless Mouse,Electronics,North,2,926,0.0,1852.0,Credit Card,New
+ORD10374,2025-05-05,CUST1015,Face Wash,Beauty,Central,2,538,0.1,968.4,UPI,Regular
+ORD10375,2025-12-09,CUST1010,Denim Jeans,Fashion,North,1,2196,0.0,2196.0,Debit Card,New
+ORD10376,2025-03-31,CUST1194,Wireless Mouse,Electronics,West,1,855,0.0,855.0,Credit Card,Regular
+ORD10377,2025-02-04,CUST1109,Backpack,Fashion,Central,1,1923,0.1,1730.7,Credit Card,New
+ORD10378,2025-12-25,CUST1034,Electric Kettle,Home & Kitchen,South,1,1859,0.0,1859.0,Debit Card,Premium
+ORD10379,2025-02-23,CUST1287,Denim Jeans,Fashion,South,2,2148,0.0,4296.0,UPI,New
+ORD10380,2025-12-25,CUST1238,Skin Care Kit,Beauty,North,2,1507,0.1,2712.6,Credit Card,Regular
+ORD10381,2025-02-10,CUST1006,Air Fryer,Home & Kitchen,Central,2,6083,0.0,12166.0,UPI,Regular
+ORD10382,2025-10-15,CUST1105,Water Bottle,Home & Kitchen,North,3,706,0.15,1800.3,Credit Card,Regular
+ORD10383,2025-11-17,CUST1145,Perfume,Beauty,East,2,3010,0.1,5418.0,UPI,New
+ORD10384,2025-01-02,CUST1028,Bluetooth Speaker,Electronics,West,1,1919,0.0,1919.0,UPI,Regular
+ORD10385,2025-03-25,CUST1114,Water Bottle,Home & Kitchen,Central,1,728,0.2,582.4,Credit Card,Premium
+ORD10386,2025-06-01,CUST1187,Face Wash,Beauty,South,2,525,0.05,997.5,UPI,Premium
+ORD10387,2025-04-11,CUST1011,Wireless Mouse,Electronics,South,1,855,0.1,769.5,UPI,Regular
+ORD10388,2025-03-28,CUST1171,Storage Box Set,Home & Kitchen,Central,2,1214,0.05,2306.6,Debit Card,Regular
+ORD10389,2025-01-10,CUST1305,Casual Shirt,Fashion,West,4,1261,0.05,4791.8,UPI,Regular
+ORD10390,2025-10-22,CUST1328,Smart Watch,Electronics,East,2,5122,0.15,8707.4,Credit Card,Regular
+ORD10391,2025-09-27,CUST1115,Wireless Mouse,Electronics,South,1,839,0.05,797.05,Debit Card,New
+ORD10392,2025-11-20,CUST1178,Casual Shirt,Fashion,South,3,1280,0.15,3264.0,Cash on Delivery,Regular
+ORD10393,2025-03-30,CUST1197,Wireless Mouse,Electronics,South,1,878,0.05,834.1,Credit Card,Regular
+ORD10394,2025-06-14,CUST1236,Programming Book,Books,West,1,1029,0.05,977.55,Credit Card,Premium
+ORD10395,2025-01-12,CUST1071,Electric Kettle,Home & Kitchen,South,1,1851,0.05,1758.45,Credit Card,Regular
+ORD10396,2025-04-11,CUST1205,Hair Dryer,Beauty,East,2,2329,0.05,4425.1,UPI,Regular
+ORD10397,2025-08-25,CUST1185,Skin Care Kit,Beauty,West,1,1584,0.15,1346.4,UPI,Regular
+ORD10398,2025-04-19,CUST1334,Water Bottle,Home & Kitchen,South,1,745,0.05,707.75,Debit Card,New
+ORD10399,2025-03-15,CUST1183,Backpack,Fashion,South,2,1813,0.15,3082.1,UPI,Premium
+ORD10400,2025-11-07,CUST1027,Fiction Novel,Books,North,1,518,0.15,440.3,Debit Card,Premium
+ORD10401,2025-11-01,CUST1286,USB-C Hub,Electronics,East,2,1597,0.15,2714.9,UPI,Regular
+ORD10402,2025-07-16,CUST1020,Smart Watch,Electronics,South,2,5177,0.05,9836.3,UPI,Premium
+ORD10403,2025-01-21,CUST1096,Perfume,Beauty,South,3,2961,0.05,8438.85,UPI,Regular
+ORD10404,2025-09-23,CUST1197,Mechanical Keyboard,Electronics,East,3,3523,0.15,8983.65,Cash on Delivery,Regular
+ORD10405,2025-07-25,CUST1209,Wireless Mouse,Electronics,South,1,873,0.0,873.0,UPI,Regular
+ORD10406,2025-09-13,CUST1265,Coffee Maker,Home & Kitchen,South,3,4187,0.1,11304.9,Debit Card,Premium
+ORD10407,2025-01-01,CUST1104,Denim Jeans,Fashion,Central,1,2372,0.1,2134.8,UPI,Premium
+ORD10408,2025-09-24,CUST1263,Hoodie,Fashion,West,3,1565,0.05,4460.25,Credit Card,Regular
+ORD10409,2025-12-19,CUST1164,Storage Box Set,Home & Kitchen,East,1,1189,0.1,1070.1,Credit Card,New
+ORD10410,2025-05-05,CUST1247,Fiction Novel,Books,West,4,504,0.05,1915.2,Credit Card,Premium
+ORD10411,2025-09-04,CUST1103,Skin Care Kit,Beauty,North,2,1524,0.05,2895.6,Debit Card,Premium
+ORD10412,2025-05-05,CUST1138,USB-C Hub,Electronics,West,3,1551,0.1,4187.7,UPI,Regular
+ORD10413,2025-08-24,CUST1151,Mechanical Keyboard,Electronics,West,2,3334,0.05,6334.6,UPI,New
+ORD10414,2025-11-22,CUST1265,Body Lotion,Beauty,East,5,752,0.15,3196.0,UPI,Regular
+ORD10415,2025-07-10,CUST1280,Hair Dryer,Beauty,South,3,2249,0.05,6409.65,UPI,Regular
+ORD10416,2025-01-10,CUST1166,Fiction Novel,Books,North,2,463,0.0,926.0,Debit Card,Premium
+ORD10417,2025-08-05,CUST1257,Mechanical Keyboard,Electronics,Central,1,3195,0.15,2715.75,UPI,Regular
+ORD10418,2025-03-31,CUST1299,Backpack,Fashion,Central,2,1942,0.0,3884.0,Credit Card,Regular
+ORD10419,2025-04-17,CUST1180,Running Shoes,Fashion,East,3,2998,0.15,7644.9,Debit Card,Regular
+ORD10420,2025-10-14,CUST1302,Self Help Book,Books,East,1,644,0.15,547.4,Debit Card,Regular
+ORD10421,2025-02-21,CUST1210,Body Lotion,Beauty,West,1,693,0.05,658.35,UPI,Premium
+ORD10422,2025-08-04,CUST1253,Bluetooth Speaker,Electronics,Central,3,1988,0.05,5665.8,Debit Card,Regular
+ORD10423,2025-10-12,CUST1081,Denim Jeans,Fashion,North,1,2306,0.05,2190.7,UPI,New
+ORD10424,2025-09-06,CUST1101,Programming Book,Books,North,3,1178,0.05,3357.3,Credit Card,Regular
+ORD10425,2025-01-02,CUST1089,Self Help Book,Books,West,1,575,0.0,575.0,UPI,Premium
+ORD10426,2025-05-09,CUST1056,Business Book,Books,South,2,721,0.05,1369.9,Cash on Delivery,Premium
+ORD10427,2025-06-14,CUST1272,Storage Box Set,Home & Kitchen,West,3,1231,0.1,3323.7,Credit Card,Regular
+ORD10428,2025-06-22,CUST1207,Smart Watch,Electronics,North,4,5586,0.05,21226.8,Debit Card,Regular
+ORD10429,2025-07-15,CUST1231,Hair Dryer,Beauty,North,1,2219,0.15,1886.15,Debit Card,Regular
+ORD10430,2025-12-11,CUST1074,Water Bottle,Home & Kitchen,South,1,739,0.05,702.05,UPI,Regular
+ORD10431,2025-02-27,CUST1078,USB-C Hub,Electronics,Central,1,1590,0.0,1590.0,Debit Card,Premium
+ORD10432,2025-12-20,CUST1133,Air Fryer,Home & Kitchen,East,1,6199,0.0,6199.0,UPI,Premium
+ORD10433,2025-05-07,CUST1324,Water Bottle,Home & Kitchen,South,3,741,0.05,2111.85,UPI,Premium
+ORD10434,2025-10-05,CUST1034,USB-C Hub,Electronics,South,1,1496,0.0,1496.0,Cash on Delivery,Premium
+ORD10435,2025-01-15,CUST1084,Storage Box Set,Home & Kitchen,South,2,1121,0.1,2017.8,UPI,Regular
+ORD10436,2025-06-03,CUST1201,Mechanical Keyboard,Electronics,West,1,3501,0.05,3325.95,UPI,Regular
+ORD10437,2025-09-02,CUST1065,Air Fryer,Home & Kitchen,Central,1,6743,0.15,5731.55,Debit Card,New
+ORD10438,2025-08-03,CUST1167,Self Help Book,Books,West,2,628,0.15,1067.6,Credit Card,New
+ORD10439,2025-10-27,CUST1198,Storage Box Set,Home & Kitchen,West,3,1288,0.05,3670.8,Cash on Delivery,New
+ORD10440,2025-03-22,CUST1090,Denim Jeans,Fashion,West,2,2082,0.2,3331.2,Debit Card,Regular
+ORD10441,2025-03-10,CUST1040,USB-C Hub,Electronics,South,3,1502,0.0,4506.0,Debit Card,Regular
+ORD10442,2025-02-27,CUST1263,Mechanical Keyboard,Electronics,South,1,3305,0.05,3139.75,UPI,Regular
+ORD10443,2025-12-05,CUST1142,Water Bottle,Home & Kitchen,South,1,754,0.05,716.3,UPI,Premium
+ORD10444,2025-08-28,CUST1329,Casual Shirt,Fashion,Central,1,1333,0.1,1199.7,Credit Card,New
+ORD10445,2025-06-29,CUST1037,Skin Care Kit,Beauty,North,2,1491,0.1,2683.8,Debit Card,New
+ORD10446,2025-07-12,CUST1045,Smart Watch,Electronics,South,2,5875,0.2,9400.0,Debit Card,Regular
+ORD10447,2025-01-09,CUST1191,Water Bottle,Home & Kitchen,West,1,706,0.1,635.4,UPI,Regular
+ORD10448,2025-04-10,CUST1008,Mechanical Keyboard,Electronics,North,1,3200,0.0,3200.0,Credit Card,Premium
+ORD10449,2025-10-19,CUST1078,Business Book,Books,South,2,658,0.1,1184.4,UPI,Regular
+ORD10450,2025-06-02,CUST1220,Water Bottle,Home & Kitchen,East,2,737,0.1,1326.6,UPI,Premium
+ORD10451,2025-04-09,CUST1215,Running Shoes,Fashion,East,1,3208,0.1,2887.2,UPI,Regular
+ORD10452,2025-10-05,CUST1279,Coffee Maker,Home & Kitchen,South,1,4427,0.0,4427.0,Credit Card,Premium
+ORD10453,2025-08-10,CUST1224,Casual Shirt,Fashion,South,4,1301,0.1,4683.6,UPI,Regular
+ORD10454,2025-04-07,CUST1077,Storage Box Set,Home & Kitchen,West,1,1178,0.1,1060.2,Credit Card,Premium
+ORD10455,2025-06-21,CUST1078,Wireless Mouse,Electronics,South,1,924,0.05,877.8,Credit Card,Regular
+ORD10456,2025-03-01,CUST1040,Hoodie,Fashion,North,1,1664,0.0,1664.0,Cash on Delivery,Regular
+ORD10457,2025-12-14,CUST1184,Wireless Mouse,Electronics,West,1,887,0.1,798.3,Credit Card,New
+ORD10458,2025-06-03,CUST1090,Smart Watch,Electronics,North,5,5806,0.15,24675.5,Credit Card,Regular
+ORD10459,2025-12-04,CUST1306,Hoodie,Fashion,North,2,1648,0.05,3131.2,UPI,New
+ORD10460,2025-02-05,CUST1285,Face Wash,Beauty,Central,2,489,0.1,880.2,Credit Card,New
+ORD10461,2025-06-23,CUST1063,Casual Shirt,Fashion,East,3,1275,0.05,3633.75,Credit Card,Premium
+ORD10462,2025-04-10,CUST1324,Air Fryer,Home & Kitchen,South,1,6880,0.05,6536.0,Credit Card,Regular
+ORD10463,2025-02-20,CUST1083,Data Analytics Book,Books,North,4,904,0.1,3254.4,Credit Card,Regular
+ORD10464,2025-05-12,CUST1026,Coffee Maker,Home & Kitchen,North,2,4297,0.0,8594.0,UPI,Premium
+ORD10465,2025-11-18,CUST1300,Bluetooth Speaker,Electronics,South,1,1775,0.15,1508.75,Cash on Delivery,New
+ORD10466,2025-02-18,CUST1332,Skin Care Kit,Beauty,North,1,1623,0.2,1298.4,UPI,Regular
+ORD10467,2025-09-11,CUST1149,Wireless Mouse,Electronics,North,1,877,0.0,877.0,Credit Card,Regular
+ORD10468,2025-07-31,CUST1027,Fiction Novel,Books,South,1,501,0.0,501.0,UPI,Regular
+ORD10469,2025-08-26,CUST1074,Hoodie,Fashion,South,1,1683,0.1,1514.7,UPI,Regular
+ORD10470,2025-07-18,CUST1149,Running Shoes,Fashion,North,5,3237,0.2,12948.0,UPI,Regular
+ORD10471,2025-02-04,CUST1227,Mechanical Keyboard,Electronics,South,1,3214,0.0,3214.0,Debit Card,Regular
+ORD10472,2025-05-30,CUST1057,Denim Jeans,Fashion,East,1,2197,0.0,2197.0,UPI,Regular
+ORD10473,2025-01-16,CUST1285,Fiction Novel,Books,North,2,503,0.05,955.7,Debit Card,Regular
+ORD10474,2025-04-03,CUST1332,USB-C Hub,Electronics,West,1,1596,0.1,1436.4,Credit Card,Regular
+ORD10475,2025-07-06,CUST1285,Business Book,Books,South,1,715,0.1,643.5,UPI,New
+ORD10476,2025-09-11,CUST1048,Water Bottle,Home & Kitchen,Central,3,693,0.1,1871.1,Credit Card,Regular
+ORD10477,2025-04-07,CUST1064,Air Fryer,Home & Kitchen,East,1,6725,0.15,5716.25,Credit Card,New
+ORD10478,2025-06-04,CUST1281,Self Help Book,Books,Central,1,642,0.05,609.9,Debit Card,Regular
+ORD10479,2025-02-13,CUST1286,Running Shoes,Fashion,North,3,2894,0.1,7813.8,UPI,Premium
+ORD10480,2025-06-09,CUST1228,Electric Kettle,Home & Kitchen,East,1,1848,0.05,1755.6,UPI,Regular
+ORD10481,2025-04-11,CUST1309,Air Fryer,Home & Kitchen,East,2,6301,0.1,11341.8,Credit Card,Regular
+ORD10482,2025-06-09,CUST1066,Smart Watch,Electronics,South,1,5732,0.15,4872.2,UPI,Premium
+ORD10483,2025-09-08,CUST1154,Running Shoes,Fashion,South,4,2901,0.1,10443.6,Cash on Delivery,Regular
+ORD10484,2025-04-25,CUST1113,Hair Dryer,Beauty,West,2,2558,0.05,4860.2,Debit Card,Regular
+ORD10485,2025-04-08,CUST1183,Skin Care Kit,Beauty,Central,2,1692,0.05,3214.8,Debit Card,New
+ORD10486,2025-10-22,CUST1168,Coffee Maker,Home & Kitchen,West,5,4060,0.05,19285.0,Cash on Delivery,Premium
+ORD10487,2025-06-06,CUST1044,Casual Shirt,Fashion,West,2,1301,0.0,2602.0,Debit Card,Premium
+ORD10488,2025-07-06,CUST1167,Coffee Maker,Home & Kitchen,South,2,3978,0.05,7558.2,UPI,Premium
+ORD10489,2025-06-01,CUST1166,Water Bottle,Home & Kitchen,East,1,703,0.05,667.85,UPI,New
+ORD10490,2025-08-21,CUST1099,USB-C Hub,Electronics,Central,1,1429,0.05,1357.55,UPI,Premium
+ORD10491,2025-01-08,CUST1310,Storage Box Set,Home & Kitchen,West,1,1206,0.05,1145.7,Cash on Delivery,Regular
+ORD10492,2025-12-07,CUST1229,Body Lotion,Beauty,Central,2,711,0.2,1137.6,Debit Card,Regular
+ORD10493,2025-06-26,CUST1321,Skin Care Kit,Beauty,North,4,1678,0.0,6712.0,Credit Card,Regular
+ORD10494,2025-12-29,CUST1182,Face Wash,Beauty,North,2,526,0.05,999.4,Debit Card,Regular
+ORD10495,2025-03-16,CUST1011,Mechanical Keyboard,Electronics,West,3,3091,0.1,8345.7,UPI,Regular
+ORD10496,2025-01-25,CUST1158,Storage Box Set,Home & Kitchen,North,1,1237,0.05,1175.15,Credit Card,Regular
+ORD10497,2025-01-26,CUST1108,Skin Care Kit,Beauty,South,5,1646,0.0,8230.0,UPI,Regular
+ORD10498,2025-05-30,CUST1090,Data Analytics Book,Books,Central,2,852,0.1,1533.6,UPI,Premium
+ORD10499,2025-01-25,CUST1162,Perfume,Beauty,West,1,2747,0.15,2334.95,Debit Card,New
+ORD10500,2025-06-17,CUST1300,Backpack,Fashion,North,2,1862,0.05,3537.8,UPI,New
+ORD10501,2025-02-24,CUST1237,Air Fryer,Home & Kitchen,North,1,6531,0.15,5551.35,Credit Card,New
+ORD10502,2025-07-06,CUST1286,Water Bottle,Home & Kitchen,West,4,742,0.05,2819.6,Credit Card,Regular
+ORD10503,2025-10-17,CUST1045,Hair Dryer,Beauty,Central,2,2590,0.05,4921.0,UPI,Regular
+ORD10504,2025-12-20,CUST1003,Electric Kettle,Home & Kitchen,South,3,1932,0.1,5216.4,Credit Card,Regular
+ORD10505,2025-02-27,CUST1316,Programming Book,Books,North,4,1049,0.2,3356.8,UPI,Regular
+ORD10506,2025-03-05,CUST1207,Denim Jeans,Fashion,East,3,2165,0.05,6170.25,Credit Card,Regular
+ORD10507,2025-12-31,CUST1137,Face Wash,Beauty,South,1,460,0.0,460.0,Cash on Delivery,Premium
+ORD10508,2025-04-13,CUST1002,Backpack,Fashion,East,3,1730,0.15,4411.5,Cash on Delivery,Premium
+ORD10509,2025-05-25,CUST1239,Self Help Book,Books,South,3,604,0.1,1630.8,Credit Card,Regular
+ORD10510,2025-08-25,CUST1329,Face Wash,Beauty,North,3,533,0.0,1599.0,Credit Card,New
+ORD10511,2025-01-07,CUST1314,Bluetooth Speaker,Electronics,North,1,1902,0.15,1616.7,Credit Card,Regular
+ORD10512,2025-09-23,CUST1182,Face Wash,Beauty,West,4,520,0.15,1768.0,UPI,Regular
+ORD10513,2025-01-19,CUST1181,Backpack,Fashion,East,3,1854,0.2,4449.6,Debit Card,Regular
+ORD10514,2025-08-07,CUST1042,Running Shoes,Fashion,East,2,3229,0.1,5812.2,Credit Card,Regular
+ORD10515,2025-04-14,CUST1330,Water Bottle,Home & Kitchen,North,1,700,0.0,700.0,Debit Card,Regular
+ORD10516,2025-04-20,CUST1079,Fiction Novel,Books,East,1,501,0.05,475.95,Debit Card,New
+ORD10517,2025-02-26,CUST1043,Coffee Maker,Home & Kitchen,East,2,4355,0.0,8710.0,Credit Card,Regular
+ORD10518,2025-11-06,CUST1273,Storage Box Set,Home & Kitchen,West,1,1248,0.0,1248.0,Debit Card,Regular
+ORD10519,2025-06-20,CUST1131,Storage Box Set,Home & Kitchen,North,2,1279,0.05,2430.1,UPI,Regular
+ORD10520,2025-12-15,CUST1188,Body Lotion,Beauty,North,1,672,0.1,604.8,UPI,Regular
+ORD10521,2025-03-07,CUST1090,Storage Box Set,Home & Kitchen,North,2,1147,0.1,2064.6,UPI,Regular
+ORD10522,2025-02-06,CUST1131,Bluetooth Speaker,Electronics,East,1,2021,0.15,1717.85,Credit Card,New
+ORD10523,2025-04-19,CUST1054,Bluetooth Speaker,Electronics,Central,1,1759,0.05,1671.05,UPI,Regular
+ORD10524,2025-02-17,CUST1295,Electric Kettle,Home & Kitchen,Central,2,2017,0.0,4034.0,Credit Card,Premium
+ORD10525,2025-05-03,CUST1247,Running Shoes,Fashion,South,1,3039,0.0,3039.0,UPI,Regular
+ORD10526,2025-05-12,CUST1231,Programming Book,Books,Central,1,1038,0.0,1038.0,UPI,New
+ORD10527,2025-08-25,CUST1130,Water Bottle,Home & Kitchen,South,1,699,0.1,629.1,Debit Card,New
+ORD10528,2025-05-26,CUST1303,Backpack,Fashion,South,2,1883,0.05,3577.7,Debit Card,Regular
+ORD10529,2025-07-14,CUST1262,Storage Box Set,Home & Kitchen,South,2,1266,0.2,2025.6,UPI,Regular
+ORD10530,2025-09-03,CUST1160,Casual Shirt,Fashion,East,3,1355,0.0,4065.0,Credit Card,Regular
+ORD10531,2025-05-31,CUST1264,Storage Box Set,Home & Kitchen,East,1,1248,0.05,1185.6,Debit Card,Regular
+ORD10532,2025-08-14,CUST1268,USB-C Hub,Electronics,South,1,1483,0.05,1408.85,UPI,Regular
+ORD10533,2025-11-07,CUST1339,Body Lotion,Beauty,South,2,705,0.1,1269.0,Credit Card,Premium
+ORD10534,2025-02-11,CUST1032,Storage Box Set,Home & Kitchen,West,2,1195,0.05,2270.5,Debit Card,Regular
+ORD10535,2025-01-18,CUST1051,Electric Kettle,Home & Kitchen,South,1,2156,0.05,2048.2,Cash on Delivery,Regular
+ORD10536,2025-03-27,CUST1001,Skin Care Kit,Beauty,West,1,1489,0.1,1340.1,UPI,Premium
+ORD10537,2025-09-22,CUST1350,Hair Dryer,Beauty,South,1,2477,0.2,1981.6,Debit Card,Regular
+ORD10538,2025-12-03,CUST1202,Running Shoes,Fashion,South,2,2777,0.1,4998.6,Debit Card,Regular
+ORD10539,2025-11-06,CUST1292,Coffee Maker,Home & Kitchen,North,1,4520,0.0,4520.0,Credit Card,Premium
+ORD10540,2025-01-27,CUST1178,Fiction Novel,Books,Central,5,513,0.1,2308.5,Credit Card,New
+ORD10541,2025-07-01,CUST1047,Smart Watch,Electronics,South,2,5237,0.0,10474.0,UPI,Regular
+ORD10542,2025-05-14,CUST1229,Electric Kettle,Home & Kitchen,West,2,2134,0.2,3414.4,UPI,New
+ORD10543,2025-02-08,CUST1026,Mechanical Keyboard,Electronics,South,5,3491,0.05,16582.25,UPI,Regular
+ORD10544,2025-04-14,CUST1076,Mechanical Keyboard,Electronics,Central,2,3271,0.05,6214.9,Credit Card,New
+ORD10545,2025-08-16,CUST1063,Mechanical Keyboard,Electronics,South,3,3210,0.0,9630.0,Credit Card,Regular
+ORD10546,2025-01-25,CUST1242,Air Fryer,Home & Kitchen,North,2,6034,0.05,11464.6,UPI,Regular
+ORD10547,2025-06-22,CUST1243,Wireless Mouse,Electronics,South,1,866,0.2,692.8,UPI,Regular
+ORD10548,2025-08-31,CUST1146,Programming Book,Books,Central,3,1033,0.0,3099.0,Debit Card,Regular
+ORD10549,2025-02-26,CUST1058,Backpack,Fashion,East,2,1919,0.05,3646.1,UPI,New
+ORD10550,2025-06-13,CUST1108,Water Bottle,Home & Kitchen,North,3,674,0.0,2022.0,UPI,Premium
+ORD10551,2025-02-10,CUST1251,Wireless Mouse,Electronics,North,1,838,0.15,712.3,Debit Card,Premium
+ORD10552,2025-06-03,CUST1300,Programming Book,Books,West,1,1061,0.05,1007.95,Credit Card,Regular
+ORD10553,2025-11-08,CUST1059,Perfume,Beauty,East,1,2874,0.05,2730.3,Debit Card,New
+ORD10554,2025-11-04,CUST1104,Coffee Maker,Home & Kitchen,North,1,4212,0.0,4212.0,Credit Card,Regular
+ORD10555,2025-10-17,CUST1154,Coffee Maker,Home & Kitchen,North,1,4376,0.15,3719.6,UPI,Premium
+ORD10556,2025-09-30,CUST1094,Backpack,Fashion,East,1,1784,0.1,1605.6,UPI,Regular
+ORD10557,2025-04-05,CUST1141,Skin Care Kit,Beauty,South,2,1576,0.05,2994.4,UPI,New
+ORD10558,2025-04-17,CUST1224,Body Lotion,Beauty,South,2,649,0.0,1298.0,UPI,Premium
+ORD10559,2025-01-27,CUST1139,Coffee Maker,Home & Kitchen,North,1,4260,0.1,3834.0,UPI,Regular
+ORD10560,2025-06-23,CUST1146,Electric Kettle,Home & Kitchen,Central,2,2135,0.1,3843.0,UPI,New
+ORD10561,2025-07-03,CUST1237,Hoodie,Fashion,West,4,1701,0.05,6463.8,Credit Card,Regular
+ORD10562,2025-01-07,CUST1157,Skin Care Kit,Beauty,North,2,1573,0.0,3146.0,UPI,Regular
+ORD10563,2025-04-11,CUST1324,Mechanical Keyboard,Electronics,East,2,3198,0.2,5116.8,Cash on Delivery,New
+ORD10564,2025-06-15,CUST1172,Electric Kettle,Home & Kitchen,North,2,1883,0.1,3389.4,UPI,New
+ORD10565,2025-03-08,CUST1196,Air Fryer,Home & Kitchen,South,1,6477,0.15,5505.45,UPI,Regular
+ORD10566,2025-09-24,CUST1209,Denim Jeans,Fashion,South,3,2280,0.05,6498.0,Credit Card,Regular
+ORD10567,2025-07-05,CUST1078,Body Lotion,Beauty,East,4,691,0.0,2764.0,Credit Card,Regular
+ORD10568,2025-12-24,CUST1144,Skin Care Kit,Beauty,South,1,1641,0.1,1476.9,UPI,Regular
+ORD10569,2025-11-28,CUST1213,Perfume,Beauty,South,2,2709,0.1,4876.2,Debit Card,Regular
+ORD10570,2025-06-10,CUST1149,Mechanical Keyboard,Electronics,South,1,3117,0.15,2649.45,Credit Card,Regular
+ORD10571,2025-02-20,CUST1013,Coffee Maker,Home & Kitchen,West,2,4049,0.1,7288.2,Debit Card,Regular
+ORD10572,2025-08-12,CUST1009,Bluetooth Speaker,Electronics,South,4,1888,0.1,6796.8,Credit Card,New
+ORD10573,2025-10-10,CUST1140,Electric Kettle,Home & Kitchen,South,2,1876,0.05,3564.4,Credit Card,Regular
+ORD10574,2025-04-17,CUST1195,Air Fryer,Home & Kitchen,South,2,6587,0.05,12515.3,Credit Card,Regular
+ORD10575,2025-02-24,CUST1246,Coffee Maker,Home & Kitchen,West,2,4370,0.05,8303.0,UPI,Premium
+ORD10576,2025-06-22,CUST1155,Electric Kettle,Home & Kitchen,South,5,1911,0.05,9077.25,Debit Card,Regular
+ORD10577,2025-07-04,CUST1222,Smart Watch,Electronics,North,3,5756,0.05,16404.6,Debit Card,Premium
+ORD10578,2025-06-16,CUST1076,Running Shoes,Fashion,North,3,2817,0.1,7605.9,Credit Card,Regular
+ORD10579,2025-04-29,CUST1206,Programming Book,Books,South,3,1143,0.1,3086.1,UPI,Regular
+ORD10580,2025-11-06,CUST1076,Electric Kettle,Home & Kitchen,East,3,1991,0.05,5674.35,Debit Card,Regular
+ORD10581,2025-08-18,CUST1227,Body Lotion,Beauty,South,3,671,0.1,1811.7,Debit Card,Premium
+ORD10582,2025-08-18,CUST1345,Wireless Mouse,Electronics,East,3,835,0.1,2254.5,Debit Card,Premium
+ORD10583,2025-08-28,CUST1217,Body Lotion,Beauty,Central,2,669,0.1,1204.2,UPI,Regular
+ORD10584,2025-03-23,CUST1056,Business Book,Books,North,1,683,0.1,614.7,Credit Card,Regular
+ORD10585,2025-01-04,CUST1217,Bluetooth Speaker,Electronics,East,1,1844,0.0,1844.0,UPI,Regular
+ORD10586,2025-07-07,CUST1073,Self Help Book,Books,West,2,591,0.05,1122.9,Cash on Delivery,New
+ORD10587,2025-04-24,CUST1211,Mechanical Keyboard,Electronics,North,1,3197,0.05,3037.15,Cash on Delivery,Regular
+ORD10588,2025-08-30,CUST1209,Mechanical Keyboard,Electronics,South,3,3407,0.05,9709.95,UPI,Regular
+ORD10589,2025-08-13,CUST1224,Coffee Maker,Home & Kitchen,North,1,4411,0.1,3969.9,Credit Card,Premium
+ORD10590,2025-08-12,CUST1187,Casual Shirt,Fashion,South,2,1279,0.0,2558.0,Debit Card,Regular
+ORD10591,2025-07-04,CUST1209,Electric Kettle,Home & Kitchen,West,2,2031,0.05,3858.9,Debit Card,Premium
+ORD10592,2025-09-24,CUST1208,Hoodie,Fashion,North,2,1681,0.05,3193.9,UPI,New
+ORD10593,2025-07-11,CUST1269,Mechanical Keyboard,Electronics,Central,2,3140,0.15,5338.0,Debit Card,Regular
+ORD10594,2025-02-25,CUST1350,Wireless Mouse,Electronics,South,1,884,0.05,839.8,Debit Card,Regular
+ORD10595,2025-03-24,CUST1189,Programming Book,Books,South,1,1109,0.0,1109.0,Credit Card,Regular
+ORD10596,2025-11-27,CUST1106,Hoodie,Fashion,North,1,1609,0.0,1609.0,Cash on Delivery,Regular
+ORD10597,2025-05-11,CUST1145,Casual Shirt,Fashion,South,1,1300,0.05,1235.0,Credit Card,New
+ORD10598,2025-11-30,CUST1252,Bluetooth Speaker,Electronics,North,2,1793,0.05,3406.7,Credit Card,Regular
+ORD10599,2025-12-07,CUST1263,Smart Watch,Electronics,South,1,5749,0.05,5461.55,UPI,Premium
+ORD10600,2025-01-06,CUST1242,Electric Kettle,Home & Kitchen,West,1,2157,0.1,1941.3,Debit Card,New
+ORD10601,2025-04-18,CUST1077,Hoodie,Fashion,North,1,1730,0.15,1470.5,UPI,Regular
+ORD10602,2025-05-05,CUST1328,Fiction Novel,Books,North,1,508,0.1,457.2,Cash on Delivery,Premium
+ORD10603,2025-01-20,CUST1038,Body Lotion,Beauty,East,2,713,0.05,1354.7,Credit Card,Regular
+ORD10604,2025-03-07,CUST1105,Coffee Maker,Home & Kitchen,North,1,4586,0.2,3668.8,UPI,Regular
+ORD10605,2025-07-02,CUST1120,Programming Book,Books,East,1,1018,0.0,1018.0,Credit Card,Regular
+ORD10606,2025-10-10,CUST1170,Programming Book,Books,Central,1,1158,0.15,984.3,UPI,Premium
+ORD10607,2025-06-22,CUST1148,Smart Watch,Electronics,East,1,5114,0.0,5114.0,Credit Card,Regular
+ORD10608,2025-08-12,CUST1228,Business Book,Books,West,4,657,0.05,2496.6,UPI,Premium
+ORD10609,2025-05-02,CUST1331,Smart Watch,Electronics,North,2,5610,0.15,9537.0,UPI,Regular
+ORD10610,2025-07-21,CUST1135,Wireless Mouse,Electronics,North,2,903,0.1,1625.4,Credit Card,Regular
+ORD10611,2025-01-09,CUST1261,Business Book,Books,West,2,743,0.1,1337.4,UPI,Premium
+ORD10612,2025-10-01,CUST1264,Self Help Book,Books,East,5,594,0.05,2821.5,UPI,Regular
+ORD10613,2025-06-17,CUST1117,Bluetooth Speaker,Electronics,North,1,1753,0.0,1753.0,UPI,Regular
+ORD10614,2025-07-30,CUST1158,Electric Kettle,Home & Kitchen,South,4,2130,0.05,8094.0,UPI,Regular
+ORD10615,2025-02-07,CUST1151,USB-C Hub,Electronics,South,2,1403,0.0,2806.0,UPI,Regular
+ORD10616,2025-03-16,CUST1143,USB-C Hub,Electronics,South,1,1571,0.15,1335.35,Debit Card,Premium
+ORD10617,2025-02-09,CUST1341,Bluetooth Speaker,Electronics,South,1,1919,0.0,1919.0,UPI,Regular
+ORD10618,2025-09-12,CUST1288,Running Shoes,Fashion,East,2,2856,0.0,5712.0,UPI,Regular
+ORD10619,2025-10-02,CUST1289,Hair Dryer,Beauty,North,3,2438,0.05,6948.3,Credit Card,Premium
+ORD10620,2025-09-25,CUST1115,USB-C Hub,Electronics,Central,3,1467,0.0,4401.0,Cash on Delivery,Regular
+ORD10621,2025-11-16,CUST1345,Self Help Book,Books,East,3,633,0.05,1804.05,Debit Card,Regular
+ORD10622,2025-03-07,CUST1133,Perfume,Beauty,North,4,2711,0.2,8675.2,UPI,Premium
+ORD10623,2025-04-23,CUST1190,Hoodie,Fashion,West,2,1653,0.05,3140.7,Debit Card,Premium
+ORD10624,2025-09-28,CUST1194,Programming Book,Books,East,1,1057,0.0,1057.0,Debit Card,Regular
+ORD10625,2025-08-19,CUST1336,Bluetooth Speaker,Electronics,South,5,1837,0.0,9185.0,UPI,Regular
+ORD10626,2025-01-29,CUST1322,Running Shoes,Fashion,South,1,2949,0.0,2949.0,UPI,Regular
+ORD10627,2025-11-12,CUST1323,Hoodie,Fashion,Central,1,1603,0.0,1603.0,Credit Card,Regular
+ORD10628,2025-05-28,CUST1126,Perfume,Beauty,West,2,2686,0.0,5372.0,Debit Card,Premium
+ORD10629,2025-04-12,CUST1249,Business Book,Books,South,1,648,0.15,550.8,UPI,Premium
+ORD10630,2025-06-01,CUST1264,Hair Dryer,Beauty,West,2,2285,0.15,3884.5,Credit Card,New
+ORD10631,2025-08-06,CUST1146,Self Help Book,Books,North,1,586,0.15,498.1,UPI,New
+ORD10632,2025-01-16,CUST1290,Self Help Book,Books,South,4,592,0.1,2131.2,UPI,New
+ORD10633,2025-08-07,CUST1258,USB-C Hub,Electronics,South,2,1543,0.05,2931.7,Debit Card,Regular
+ORD10634,2025-01-21,CUST1273,Perfume,Beauty,North,3,2660,0.0,7980.0,UPI,Regular
+ORD10635,2025-07-25,CUST1042,Business Book,Books,South,1,753,0.05,715.35,UPI,Regular
+ORD10636,2025-08-17,CUST1135,Hair Dryer,Beauty,North,1,2469,0.0,2469.0,Credit Card,Premium
+ORD10637,2025-03-01,CUST1039,Water Bottle,Home & Kitchen,South,1,735,0.05,698.25,UPI,Premium
+ORD10638,2025-01-17,CUST1124,Denim Jeans,Fashion,South,1,2361,0.0,2361.0,Credit Card,Premium
+ORD10639,2025-12-07,CUST1227,Smart Watch,Electronics,East,2,5895,0.15,10021.5,UPI,Regular
+ORD10640,2025-07-04,CUST1291,Hoodie,Fashion,South,1,1762,0.0,1762.0,Cash on Delivery,Regular
+ORD10641,2025-10-24,CUST1167,Bluetooth Speaker,Electronics,West,3,1972,0.2,4732.8,UPI,Regular
+ORD10642,2025-11-23,CUST1062,Air Fryer,Home & Kitchen,Central,1,6576,0.1,5918.4,Credit Card,Regular
+ORD10643,2025-03-12,CUST1015,Backpack,Fashion,West,1,1852,0.0,1852.0,UPI,New
+ORD10644,2025-05-16,CUST1222,Face Wash,Beauty,North,1,500,0.0,500.0,Cash on Delivery,Regular
+ORD10645,2025-02-16,CUST1231,Face Wash,Beauty,North,1,495,0.1,445.5,UPI,Regular
+ORD10646,2025-10-27,CUST1051,Electric Kettle,Home & Kitchen,South,3,2131,0.15,5434.05,Debit Card,Regular
+ORD10647,2025-03-28,CUST1321,Hoodie,Fashion,South,1,1797,0.05,1707.15,UPI,Regular
+ORD10648,2025-05-05,CUST1307,Smart Watch,Electronics,South,2,5158,0.1,9284.4,UPI,Regular
+ORD10649,2025-08-04,CUST1257,Face Wash,Beauty,North,1,502,0.05,476.9,Cash on Delivery,Regular
+ORD10650,2025-04-15,CUST1088,Bluetooth Speaker,Electronics,South,1,1920,0.05,1824.0,Credit Card,Regular
+ORD10651,2025-04-22,CUST1256,Programming Book,Books,West,1,1179,0.15,1002.15,Credit Card,Regular
+ORD10652,2025-06-25,CUST1130,Business Book,Books,North,2,676,0.1,1216.8,Cash on Delivery,Regular
+ORD10653,2025-08-07,CUST1249,Backpack,Fashion,West,2,1739,0.2,2782.4,Credit Card,Regular
+ORD10654,2025-04-14,CUST1308,Mechanical Keyboard,Electronics,South,1,3128,0.1,2815.2,UPI,Premium
+ORD10655,2025-12-06,CUST1324,Bluetooth Speaker,Electronics,South,1,1778,0.0,1778.0,Credit Card,Regular
+ORD10656,2025-09-08,CUST1176,Smart Watch,Electronics,Central,3,5189,0.0,15567.0,UPI,Regular
+ORD10657,2025-09-05,CUST1191,Fiction Novel,Books,South,3,519,0.1,1401.3,Debit Card,Premium
+ORD10658,2025-12-10,CUST1215,Business Book,Books,South,2,676,0.05,1284.4,Debit Card,Premium
+ORD10659,2025-07-27,CUST1064,Smart Watch,Electronics,East,2,5864,0.05,11141.6,Credit Card,Regular
+ORD10660,2025-01-25,CUST1021,Fiction Novel,Books,East,4,503,0.1,1810.8,Credit Card,Premium
+ORD10661,2025-09-17,CUST1306,USB-C Hub,Electronics,South,1,1535,0.1,1381.5,Debit Card,Premium
+ORD10662,2025-03-01,CUST1216,Bluetooth Speaker,Electronics,North,1,1842,0.1,1657.8,Credit Card,Premium
+ORD10663,2025-01-22,CUST1341,Face Wash,Beauty,North,1,493,0.0,493.0,UPI,Premium
+ORD10664,2025-03-03,CUST1138,Coffee Maker,Home & Kitchen,West,2,3988,0.1,7178.4,Debit Card,Regular
+ORD10665,2025-03-25,CUST1099,Hoodie,Fashion,Central,2,1585,0.05,3011.5,Credit Card,Premium
+ORD10666,2025-10-18,CUST1280,Water Bottle,Home & Kitchen,North,1,666,0.15,566.1,Debit Card,Regular
+ORD10667,2025-07-12,CUST1332,Bluetooth Speaker,Electronics,Central,1,1811,0.1,1629.9,Credit Card,New
+ORD10668,2025-03-25,CUST1181,Running Shoes,Fashion,Central,3,2933,0.1,7919.1,UPI,Regular
+ORD10669,2025-05-16,CUST1262,Skin Care Kit,Beauty,South,3,1567,0.0,4701.0,UPI,Regular
+ORD10670,2025-02-01,CUST1037,USB-C Hub,Electronics,East,3,1593,0.1,4301.1,Debit Card,Premium
+ORD10671,2025-02-15,CUST1122,Water Bottle,Home & Kitchen,North,4,739,0.0,2956.0,UPI,Premium
+ORD10672,2025-10-11,CUST1021,Hoodie,Fashion,East,1,1809,0.15,1537.65,Debit Card,Regular
+ORD10673,2025-09-08,CUST1079,Programming Book,Books,North,1,1046,0.15,889.1,UPI,Premium
+ORD10674,2025-10-10,CUST1309,Smart Watch,Electronics,West,1,5841,0.1,5256.9,UPI,New
+ORD10675,2025-04-11,CUST1263,Water Bottle,Home & Kitchen,Central,3,719,0.15,1833.45,Credit Card,Premium
+ORD10676,2025-11-12,CUST1276,Data Analytics Book,Books,Central,1,931,0.1,837.9,Credit Card,Regular
+ORD10677,2025-12-15,CUST1266,Smart Watch,Electronics,West,4,5910,0.0,23640.0,Debit Card,Regular
+ORD10678,2025-01-07,CUST1019,Running Shoes,Fashion,North,1,2996,0.0,2996.0,Cash on Delivery,Premium
+ORD10679,2025-06-21,CUST1226,Programming Book,Books,West,1,1074,0.1,966.6,Debit Card,New
+ORD10680,2025-09-10,CUST1248,Air Fryer,Home & Kitchen,East,2,6211,0.0,12422.0,Debit Card,Regular
+ORD10681,2025-12-29,CUST1032,Programming Book,Books,Central,1,1163,0.05,1104.85,Debit Card,New
+ORD10682,2025-03-04,CUST1040,Denim Jeans,Fashion,West,3,2266,0.0,6798.0,Credit Card,Regular
+ORD10683,2025-08-29,CUST1240,Fiction Novel,Books,East,1,492,0.1,442.8,Credit Card,Premium
+ORD10684,2025-10-25,CUST1180,Perfume,Beauty,North,3,2603,0.1,7028.1,Credit Card,Premium
+ORD10685,2025-10-17,CUST1110,Denim Jeans,Fashion,West,1,2094,0.05,1989.3,Debit Card,Premium
+ORD10686,2025-09-23,CUST1087,USB-C Hub,Electronics,East,1,1417,0.1,1275.3,Debit Card,Premium
+ORD10687,2025-05-02,CUST1319,Electric Kettle,Home & Kitchen,East,2,2015,0.0,4030.0,Credit Card,Regular
+ORD10688,2025-02-24,CUST1162,Electric Kettle,Home & Kitchen,Central,1,1926,0.1,1733.4,Cash on Delivery,Regular
+ORD10689,2025-10-14,CUST1337,Smart Watch,Electronics,North,5,5819,0.0,29095.0,Debit Card,Premium
+ORD10690,2025-07-28,CUST1011,Running Shoes,Fashion,West,2,2880,0.1,5184.0,Debit Card,Premium
+ORD10691,2025-10-29,CUST1213,Air Fryer,Home & Kitchen,South,2,6112,0.0,12224.0,UPI,Regular
+ORD10692,2025-01-08,CUST1250,Mechanical Keyboard,Electronics,South,2,3356,0.0,6712.0,UPI,Regular
+ORD10693,2025-12-17,CUST1168,Perfume,Beauty,West,2,2594,0.05,4928.6,UPI,New
+ORD10694,2025-09-13,CUST1273,Casual Shirt,Fashion,North,2,1371,0.0,2742.0,Debit Card,Regular
+ORD10695,2025-11-01,CUST1289,Bluetooth Speaker,Electronics,Central,1,1789,0.1,1610.1,Credit Card,Premium
+ORD10696,2025-07-21,CUST1186,Coffee Maker,Home & Kitchen,South,1,4616,0.0,4616.0,UPI,Premium
+ORD10697,2025-10-11,CUST1246,Body Lotion,Beauty,West,3,676,0.05,1926.6,UPI,Regular
+ORD10698,2025-04-02,CUST1017,Wireless Mouse,Electronics,Central,3,945,0.15,2409.75,UPI,Regular
+ORD10699,2025-04-08,CUST1223,Water Bottle,Home & Kitchen,West,2,670,0.05,1273.0,Debit Card,Premium
+ORD10700,2025-03-03,CUST1020,Mechanical Keyboard,Electronics,West,3,3055,0.05,8706.75,UPI,Premium
+ORD10701,2025-06-16,CUST1074,Air Fryer,Home & Kitchen,East,1,6026,0.05,5724.7,UPI,Premium
+ORD10702,2025-02-27,CUST1109,Storage Box Set,Home & Kitchen,West,1,1133,0.05,1076.35,UPI,Premium
+ORD10703,2025-08-15,CUST1259,Air Fryer,Home & Kitchen,Central,3,6380,0.0,19140.0,Cash on Delivery,Regular
+ORD10704,2025-11-27,CUST1176,Hair Dryer,Beauty,East,1,2269,0.1,2042.1,Debit Card,Regular
+ORD10705,2025-05-14,CUST1334,Denim Jeans,Fashion,North,1,2156,0.2,1724.8,Credit Card,New
+ORD10706,2025-12-08,CUST1286,Fiction Novel,Books,Central,2,489,0.1,880.2,Debit Card,Regular
+ORD10707,2025-07-27,CUST1216,USB-C Hub,Electronics,West,1,1394,0.05,1324.3,Debit Card,New
+ORD10708,2025-07-17,CUST1043,Perfume,Beauty,North,2,2580,0.1,4644.0,UPI,New
+ORD10709,2025-12-13,CUST1226,Perfume,Beauty,West,5,2975,0.0,14875.0,Debit Card,Regular
+ORD10710,2025-01-18,CUST1160,Smart Watch,Electronics,North,4,5212,0.05,19805.6,UPI,New
+ORD10711,2025-11-30,CUST1142,Fiction Novel,Books,North,1,477,0.05,453.15,Debit Card,New
+ORD10712,2025-04-26,CUST1094,Backpack,Fashion,East,1,1768,0.0,1768.0,Credit Card,Regular
+ORD10713,2025-03-24,CUST1231,Self Help Book,Books,West,1,555,0.0,555.0,Debit Card,Premium
+ORD10714,2025-12-15,CUST1305,Coffee Maker,Home & Kitchen,East,1,4231,0.05,4019.45,UPI,Regular
+ORD10715,2025-12-02,CUST1036,Bluetooth Speaker,Electronics,East,1,1751,0.0,1751.0,Credit Card,Regular
+ORD10716,2025-02-12,CUST1201,Smart Watch,Electronics,North,3,5228,0.0,15684.0,UPI,New
+ORD10717,2025-03-30,CUST1018,Casual Shirt,Fashion,East,1,1347,0.0,1347.0,Credit Card,New
+ORD10718,2025-05-20,CUST1049,Water Bottle,Home & Kitchen,East,1,703,0.1,632.7,UPI,New
+ORD10719,2025-06-06,CUST1016,Self Help Book,Books,East,4,645,0.0,2580.0,UPI,Regular
+ORD10720,2025-06-22,CUST1136,Air Fryer,Home & Kitchen,North,4,6407,0.1,23065.2,Debit Card,Regular
+ORD10721,2025-05-14,CUST1087,USB-C Hub,Electronics,South,2,1461,0.0,2922.0,UPI,Regular
+ORD10722,2025-04-18,CUST1093,Bluetooth Speaker,Electronics,South,1,1942,0.1,1747.8,UPI,New
+ORD10723,2025-03-08,CUST1274,Smart Watch,Electronics,West,1,5226,0.0,5226.0,Credit Card,Premium
+ORD10724,2025-10-07,CUST1282,Face Wash,Beauty,West,1,532,0.1,478.8,UPI,Regular
+ORD10725,2025-02-05,CUST1106,Air Fryer,Home & Kitchen,West,1,6024,0.0,6024.0,Credit Card,Regular
+ORD10726,2025-09-26,CUST1162,Hoodie,Fashion,South,3,1740,0.1,4698.0,Debit Card,New
+ORD10727,2025-05-24,CUST1185,Coffee Maker,Home & Kitchen,South,1,4248,0.2,3398.4,UPI,Regular
+ORD10728,2025-09-08,CUST1070,Mechanical Keyboard,Electronics,West,2,3463,0.1,6233.4,Debit Card,Regular
+ORD10729,2025-08-11,CUST1188,Denim Jeans,Fashion,North,3,2071,0.0,6213.0,UPI,Premium
+ORD10730,2025-06-04,CUST1175,USB-C Hub,Electronics,East,1,1616,0.05,1535.2,UPI,Regular
+ORD10731,2025-05-25,CUST1183,Skin Care Kit,Beauty,West,1,1479,0.15,1257.15,UPI,Premium
+ORD10732,2025-05-18,CUST1069,Water Bottle,Home & Kitchen,South,1,703,0.1,632.7,Credit Card,Regular
+ORD10733,2025-02-23,CUST1055,Casual Shirt,Fashion,South,2,1219,0.05,2316.1,Credit Card,New
+ORD10734,2025-02-05,CUST1027,Running Shoes,Fashion,South,3,2867,0.05,8170.95,Credit Card,New
+ORD10735,2025-08-22,CUST1050,Hoodie,Fashion,North,1,1573,0.1,1415.7,Cash on Delivery,New
+ORD10736,2025-06-19,CUST1151,Casual Shirt,Fashion,South,1,1368,0.0,1368.0,Cash on Delivery,New
+ORD10737,2025-02-10,CUST1158,Hoodie,Fashion,North,2,1630,0.15,2771.0,Debit Card,Regular
+ORD10738,2025-03-03,CUST1010,Data Analytics Book,Books,South,1,942,0.0,942.0,UPI,Premium
+ORD10739,2025-01-13,CUST1067,Wireless Mouse,Electronics,North,2,857,0.1,1542.6,Debit Card,Regular
+ORD10740,2025-10-12,CUST1177,Storage Box Set,Home & Kitchen,Central,1,1264,0.1,1137.6,UPI,New
+ORD10741,2025-12-05,CUST1040,Body Lotion,Beauty,West,4,754,0.0,3016.0,Credit Card,Regular
+ORD10742,2025-08-09,CUST1057,Self Help Book,Books,West,1,599,0.05,569.05,UPI,Premium
+ORD10743,2025-05-08,CUST1015,Data Analytics Book,Books,North,2,850,0.15,1445.0,Debit Card,Regular
+ORD10744,2025-12-26,CUST1081,Hoodie,Fashion,South,2,1696,0.1,3052.8,Debit Card,Regular
+ORD10745,2025-03-09,CUST1024,Running Shoes,Fashion,South,3,3037,0.05,8655.45,Cash on Delivery,Regular
+ORD10746,2025-07-24,CUST1118,Running Shoes,Fashion,North,2,2941,0.05,5587.9,Debit Card,New
+ORD10747,2025-11-18,CUST1339,Data Analytics Book,Books,West,1,868,0.1,781.2,Credit Card,Premium
+ORD10748,2025-10-13,CUST1096,Body Lotion,Beauty,East,4,728,0.05,2766.4,UPI,New
+ORD10749,2025-06-22,CUST1152,Hoodie,Fashion,Central,1,1737,0.05,1650.15,UPI,Regular
+ORD10750,2025-04-12,CUST1019,Wireless Mouse,Electronics,Central,2,928,0.15,1577.6,Debit Card,Regular
+ORD10751,2025-04-19,CUST1180,Bluetooth Speaker,Electronics,Central,3,1836,0.05,5232.6,Credit Card,Premium
+ORD10752,2025-12-02,CUST1342,Mechanical Keyboard,Electronics,South,3,3181,0.0,9543.0,UPI,Premium
+ORD10753,2025-02-18,CUST1163,Water Bottle,Home & Kitchen,East,2,728,0.1,1310.4,Debit Card,Regular
+ORD10754,2025-02-13,CUST1254,Wireless Mouse,Electronics,Central,1,903,0.0,903.0,UPI,Premium
+ORD10755,2025-01-07,CUST1183,USB-C Hub,Electronics,North,2,1483,0.15,2521.1,Credit Card,Regular
+ORD10756,2025-09-11,CUST1235,Fiction Novel,Books,West,2,486,0.05,923.4,UPI,Regular
+ORD10757,2025-05-25,CUST1208,Bluetooth Speaker,Electronics,North,1,1789,0.05,1699.55,Cash on Delivery,Premium
+ORD10758,2025-03-31,CUST1202,Coffee Maker,Home & Kitchen,East,2,4171,0.15,7090.7,Cash on Delivery,New
+ORD10759,2025-03-24,CUST1004,Body Lotion,Beauty,West,1,720,0.05,684.0,UPI,Regular
+ORD10760,2025-09-27,CUST1166,Denim Jeans,Fashion,West,1,2258,0.1,2032.2,Credit Card,Premium
+ORD10761,2025-09-27,CUST1143,Wireless Mouse,Electronics,South,2,865,0.1,1557.0,Debit Card,New
+ORD10762,2025-09-06,CUST1199,Programming Book,Books,North,1,1118,0.2,894.4,UPI,Premium
+ORD10763,2025-04-01,CUST1347,Coffee Maker,Home & Kitchen,West,1,4476,0.05,4252.2,Cash on Delivery,New
+ORD10764,2025-05-13,CUST1092,Electric Kettle,Home & Kitchen,West,2,1846,0.2,2953.6,Debit Card,Regular
+ORD10765,2025-01-05,CUST1082,Data Analytics Book,Books,Central,1,895,0.05,850.25,UPI,Regular
+ORD10766,2025-04-02,CUST1017,Fiction Novel,Books,East,3,462,0.15,1178.1,Credit Card,Premium
+ORD10767,2025-03-07,CUST1223,Mechanical Keyboard,Electronics,West,2,3114,0.05,5916.6,UPI,Regular
+ORD10768,2025-02-06,CUST1120,Self Help Book,Books,Central,1,555,0.0,555.0,UPI,Regular
+ORD10769,2025-01-31,CUST1269,Running Shoes,Fashion,South,1,3235,0.1,2911.5,UPI,Regular
+ORD10770,2025-03-09,CUST1087,Casual Shirt,Fashion,Central,2,1349,0.15,2293.3,Credit Card,Regular
+ORD10771,2025-01-13,CUST1104,Programming Book,Books,South,2,1138,0.05,2162.2,Debit Card,Regular
+ORD10772,2025-08-02,CUST1307,Smart Watch,Electronics,South,1,5811,0.0,5811.0,Credit Card,Regular
+ORD10773,2025-12-11,CUST1268,USB-C Hub,Electronics,East,1,1545,0.1,1390.5,Debit Card,Premium
+ORD10774,2025-03-25,CUST1219,Backpack,Fashion,South,2,1830,0.05,3477.0,Debit Card,New
+ORD10775,2025-10-27,CUST1121,Business Book,Books,South,2,727,0.0,1454.0,UPI,New
+ORD10776,2025-05-29,CUST1153,Fiction Novel,Books,West,2,479,0.1,862.2,Cash on Delivery,Regular
+ORD10777,2025-04-08,CUST1297,Electric Kettle,Home & Kitchen,South,1,1965,0.0,1965.0,UPI,Premium
+ORD10778,2025-04-22,CUST1004,Wireless Mouse,Electronics,West,3,859,0.0,2577.0,UPI,Regular
+ORD10779,2025-12-26,CUST1330,Wireless Mouse,Electronics,South,1,886,0.15,753.1,Debit Card,Regular
+ORD10780,2025-12-28,CUST1225,Bluetooth Speaker,Electronics,East,1,1751,0.15,1488.35,UPI,Premium
+ORD10781,2025-01-23,CUST1159,Perfume,Beauty,North,3,2835,0.1,7654.5,Debit Card,Premium
+ORD10782,2025-10-01,CUST1119,Air Fryer,Home & Kitchen,East,1,6830,0.0,6830.0,UPI,Regular
+ORD10783,2025-12-01,CUST1221,Smart Watch,Electronics,East,1,5640,0.2,4512.0,Credit Card,Regular
+ORD10784,2025-06-02,CUST1117,Denim Jeans,Fashion,Central,4,2300,0.05,8740.0,UPI,New
+ORD10785,2025-09-19,CUST1311,Storage Box Set,Home & Kitchen,South,3,1195,0.0,3585.0,UPI,Regular
+ORD10786,2025-12-30,CUST1313,Electric Kettle,Home & Kitchen,North,2,1883,0.05,3577.7,Credit Card,Premium
+ORD10787,2025-08-05,CUST1010,Fiction Novel,Books,Central,3,477,0.05,1359.45,Credit Card,Regular
+ORD10788,2025-05-15,CUST1160,Hoodie,Fashion,South,1,1806,0.15,1535.1,UPI,Regular
+ORD10789,2025-07-23,CUST1021,Hair Dryer,Beauty,South,1,2446,0.2,1956.8,Credit Card,Regular
+ORD10790,2025-08-14,CUST1300,Casual Shirt,Fashion,South,2,1228,0.0,2456.0,Credit Card,Premium
+ORD10791,2025-09-28,CUST1295,Self Help Book,Books,South,3,611,0.05,1741.35,UPI,Regular
+ORD10792,2025-02-22,CUST1264,Air Fryer,Home & Kitchen,East,1,6015,0.05,5714.25,Debit Card,Regular
+ORD10793,2025-10-18,CUST1321,Business Book,Books,West,1,752,0.0,752.0,UPI,Premium
+ORD10794,2025-05-11,CUST1035,Coffee Maker,Home & Kitchen,East,1,3961,0.0,3961.0,Credit Card,Regular
+ORD10795,2025-01-07,CUST1169,Face Wash,Beauty,North,1,521,0.15,442.85,Debit Card,New
+ORD10796,2025-08-05,CUST1319,Coffee Maker,Home & Kitchen,West,1,3985,0.1,3586.5,UPI,Premium
+ORD10797,2025-06-23,CUST1031,Business Book,Books,South,3,687,0.05,1957.95,Cash on Delivery,Regular
+ORD10798,2025-07-03,CUST1254,Coffee Maker,Home & Kitchen,South,1,4332,0.05,4115.4,UPI,Premium
+ORD10799,2025-08-28,CUST1250,USB-C Hub,Electronics,West,2,1488,0.1,2678.4,UPI,Regular
+ORD10800,2025-07-05,CUST1271,Perfume,Beauty,North,2,2858,0.1,5144.4,Credit Card,Regular
+ORD10801,2025-08-31,CUST1097,Air Fryer,Home & Kitchen,East,2,6374,0.15,10835.8,Cash on Delivery,Regular
+ORD10802,2025-02-07,CUST1038,Perfume,Beauty,East,1,2703,0.05,2567.85,UPI,Premium
+ORD10803,2025-02-15,CUST1113,Wireless Mouse,Electronics,North,4,922,0.15,3134.8,Credit Card,Regular
+ORD10804,2025-10-01,CUST1173,USB-C Hub,Electronics,East,3,1528,0.1,4125.6,UPI,New
+ORD10805,2025-03-01,CUST1313,Electric Kettle,Home & Kitchen,West,1,2043,0.2,1634.4,Cash on Delivery,Premium
+ORD10806,2025-01-29,CUST1147,Electric Kettle,Home & Kitchen,South,2,1865,0.0,3730.0,Cash on Delivery,New
+ORD10807,2025-09-16,CUST1279,Coffee Maker,Home & Kitchen,South,1,4051,0.05,3848.45,UPI,Regular
+ORD10808,2025-06-19,CUST1185,Bluetooth Speaker,Electronics,South,4,1773,0.05,6737.4,Credit Card,Regular
+ORD10809,2025-07-25,CUST1044,Denim Jeans,Fashion,South,2,2223,0.05,4223.7,Credit Card,Regular
+ORD10810,2025-11-17,CUST1229,Air Fryer,Home & Kitchen,South,2,6092,0.0,12184.0,Debit Card,New
+ORD10811,2025-06-05,CUST1098,Programming Book,Books,South,1,1118,0.1,1006.2,UPI,Regular
+ORD10812,2025-11-12,CUST1211,Mechanical Keyboard,Electronics,Central,1,3524,0.0,3524.0,UPI,Regular
+ORD10813,2025-04-26,CUST1292,Body Lotion,Beauty,Central,2,734,0.1,1321.2,UPI,Premium
+ORD10814,2025-10-24,CUST1311,Hoodie,Fashion,South,2,1764,0.1,3175.2,Credit Card,Regular
+ORD10815,2025-10-02,CUST1193,Denim Jeans,Fashion,North,3,2171,0.05,6187.35,UPI,New
+ORD10816,2025-12-16,CUST1201,Air Fryer,Home & Kitchen,West,5,6230,0.1,28035.0,Credit Card,Premium
+ORD10817,2025-07-25,CUST1329,Programming Book,Books,East,1,1059,0.1,953.1,Credit Card,Regular
+ORD10818,2025-11-02,CUST1312,Hair Dryer,Beauty,East,2,2481,0.1,4465.8,Cash on Delivery,Regular
+ORD10819,2025-09-19,CUST1050,Backpack,Fashion,Central,2,1738,0.1,3128.4,UPI,Regular
+ORD10820,2025-03-25,CUST1189,Running Shoes,Fashion,North,1,2805,0.1,2524.5,Credit Card,Regular
+ORD10821,2025-05-12,CUST1288,Body Lotion,Beauty,West,1,749,0.1,674.1,UPI,Premium
+ORD10822,2025-05-22,CUST1269,Face Wash,Beauty,South,4,536,0.05,2036.8,Credit Card,Premium
+ORD10823,2025-01-02,CUST1268,Wireless Mouse,Electronics,East,1,845,0.05,802.75,Debit Card,New
+ORD10824,2025-05-26,CUST1261,Body Lotion,Beauty,Central,1,740,0.1,666.0,Credit Card,Regular
+ORD10825,2025-06-15,CUST1201,Self Help Book,Books,North,3,556,0.0,1668.0,Cash on Delivery,Regular
+ORD10826,2025-07-12,CUST1010,Hair Dryer,Beauty,North,1,2578,0.05,2449.1,Credit Card,New
+ORD10827,2025-05-04,CUST1095,Programming Book,Books,South,2,1029,0.05,1955.1,Credit Card,New
+ORD10828,2025-07-14,CUST1059,USB-C Hub,Electronics,East,1,1429,0.0,1429.0,UPI,Premium
+ORD10829,2025-12-05,CUST1160,Business Book,Books,Central,2,665,0.0,1330.0,Cash on Delivery,Regular
+ORD10830,2025-05-01,CUST1078,Air Fryer,Home & Kitchen,South,2,6282,0.2,10051.2,Credit Card,Regular
+ORD10831,2025-11-09,CUST1155,Air Fryer,Home & Kitchen,North,1,6586,0.05,6256.7,UPI,Regular
+ORD10832,2025-05-08,CUST1150,Water Bottle,Home & Kitchen,West,3,724,0.15,1846.2,Credit Card,Regular
+ORD10833,2025-07-13,CUST1159,Air Fryer,Home & Kitchen,North,3,6459,0.0,19377.0,Cash on Delivery,New
+ORD10834,2025-09-24,CUST1265,Programming Book,Books,West,3,1048,0.1,2829.6,UPI,Regular
+ORD10835,2025-06-25,CUST1319,Air Fryer,Home & Kitchen,South,2,6849,0.1,12328.2,Credit Card,Regular
+ORD10836,2025-10-30,CUST1201,Mechanical Keyboard,Electronics,North,1,3214,0.05,3053.3,UPI,Regular
+ORD10837,2025-07-27,CUST1198,Hoodie,Fashion,West,1,1603,0.2,1282.4,Credit Card,New
+ORD10838,2025-04-18,CUST1229,Fiction Novel,Books,South,1,514,0.0,514.0,UPI,New
+ORD10839,2025-04-17,CUST1296,Business Book,Books,South,5,679,0.05,3225.25,Credit Card,Premium
+ORD10840,2025-07-26,CUST1048,Smart Watch,Electronics,South,1,5331,0.1,4797.9,Debit Card,Regular
+ORD10841,2025-09-18,CUST1198,Air Fryer,Home & Kitchen,South,3,6078,0.15,15498.9,Debit Card,Premium
+ORD10842,2025-11-03,CUST1203,Denim Jeans,Fashion,West,2,2282,0.2,3651.2,Debit Card,New
+ORD10843,2025-03-12,CUST1061,Fiction Novel,Books,West,1,506,0.05,480.7,Cash on Delivery,Regular
+ORD10844,2025-03-07,CUST1177,Hair Dryer,Beauty,East,1,2412,0.0,2412.0,Debit Card,Premium
+ORD10845,2025-01-03,CUST1206,Water Bottle,Home & Kitchen,South,1,752,0.15,639.2,Credit Card,Premium
+ORD10846,2025-08-22,CUST1114,Air Fryer,Home & Kitchen,North,1,6398,0.05,6078.1,Credit Card,Regular
+ORD10847,2025-07-22,CUST1216,Storage Box Set,Home & Kitchen,Central,2,1256,0.2,2009.6,Debit Card,Premium
+ORD10848,2025-11-16,CUST1213,Water Bottle,Home & Kitchen,South,1,644,0.2,515.2,Credit Card,Regular
+ORD10849,2025-08-16,CUST1343,Bluetooth Speaker,Electronics,West,2,1986,0.1,3574.8,UPI,Premium
+ORD10850,2025-06-11,CUST1070,Perfume,Beauty,East,1,2663,0.0,2663.0,UPI,Premium
+ORD10851,2025-01-10,CUST1336,Mechanical Keyboard,Electronics,South,1,3136,0.2,2508.8,UPI,Regular
+ORD10852,2025-10-28,CUST1169,Running Shoes,Fashion,West,3,2934,0.1,7921.8,Credit Card,Regular
+ORD10853,2025-10-27,CUST1003,Perfume,Beauty,West,1,3017,0.15,2564.45,Credit Card,Regular
+ORD10854,2025-08-12,CUST1018,Casual Shirt,Fashion,South,3,1322,0.1,3569.4,Cash on Delivery,Premium
+ORD10855,2025-11-19,CUST1265,Mechanical Keyboard,Electronics,North,3,3324,0.0,9972.0,UPI,Premium
+ORD10856,2025-05-06,CUST1008,Fiction Novel,Books,South,1,528,0.15,448.8,Debit Card,Premium
+ORD10857,2025-08-28,CUST1018,Air Fryer,Home & Kitchen,North,2,6748,0.1,12146.4,UPI,New
+ORD10858,2025-11-12,CUST1066,Data Analytics Book,Books,South,3,844,0.1,2278.8,UPI,New
+ORD10859,2025-08-24,CUST1217,USB-C Hub,Electronics,West,5,1544,0.0,7720.0,Credit Card,Premium
+ORD10860,2025-01-11,CUST1026,Programming Book,Books,West,2,1105,0.05,2099.5,UPI,Regular
+ORD10861,2025-04-13,CUST1205,Coffee Maker,Home & Kitchen,Central,1,4380,0.05,4161.0,Cash on Delivery,Regular
+ORD10862,2025-12-20,CUST1326,Water Bottle,Home & Kitchen,West,1,647,0.05,614.65,UPI,New
+ORD10863,2025-04-12,CUST1152,Water Bottle,Home & Kitchen,West,1,667,0.15,566.95,UPI,New
+ORD10864,2025-02-16,CUST1192,Running Shoes,Fashion,South,2,2822,0.15,4797.4,Debit Card,Regular
+ORD10865,2025-07-15,CUST1112,Storage Box Set,Home & Kitchen,North,1,1195,0.05,1135.25,UPI,New
+ORD10866,2025-04-08,CUST1050,Casual Shirt,Fashion,South,2,1275,0.1,2295.0,Credit Card,Regular
+ORD10867,2025-11-24,CUST1335,Perfume,Beauty,West,3,2658,0.0,7974.0,Cash on Delivery,New
+ORD10868,2025-04-19,CUST1192,Water Bottle,Home & Kitchen,North,3,703,0.15,1792.65,UPI,New
+ORD10869,2025-05-08,CUST1073,Coffee Maker,Home & Kitchen,North,1,4216,0.15,3583.6,Debit Card,Regular
+ORD10870,2025-03-15,CUST1005,Wireless Mouse,Electronics,South,1,859,0.05,816.05,Debit Card,New
+ORD10871,2025-05-23,CUST1328,Fiction Novel,Books,South,1,539,0.1,485.1,UPI,Regular
+ORD10872,2025-11-27,CUST1207,Backpack,Fashion,South,1,1931,0.1,1737.9,Debit Card,Premium
+ORD10873,2025-08-06,CUST1041,Wireless Mouse,Electronics,South,2,947,0.0,1894.0,UPI,Regular
+ORD10874,2025-06-28,CUST1066,Smart Watch,Electronics,Central,1,5496,0.1,4946.4,UPI,Premium
+ORD10875,2025-10-31,CUST1308,Programming Book,Books,South,2,1137,0.0,2274.0,UPI,Regular
+ORD10876,2025-11-08,CUST1250,Wireless Mouse,Electronics,North,4,954,0.15,3243.6,UPI,Premium
+ORD10877,2025-05-15,CUST1224,Running Shoes,Fashion,South,2,2994,0.0,5988.0,Credit Card,New
+ORD10878,2025-05-10,CUST1229,Running Shoes,Fashion,East,2,3146,0.0,6292.0,Credit Card,Regular
+ORD10879,2025-12-14,CUST1327,Fiction Novel,Books,East,1,476,0.0,476.0,UPI,New
+ORD10880,2025-01-15,CUST1169,Storage Box Set,Home & Kitchen,South,1,1177,0.05,1118.15,Credit Card,New
+ORD10881,2025-12-01,CUST1021,Running Shoes,Fashion,South,2,3128,0.05,5943.2,UPI,Regular
+ORD10882,2025-02-02,CUST1038,Mechanical Keyboard,Electronics,Central,4,3563,0.1,12826.8,Debit Card,Regular
+ORD10883,2025-08-30,CUST1201,Backpack,Fashion,South,1,1799,0.1,1619.1,Credit Card,Premium
+ORD10884,2025-02-17,CUST1212,Data Analytics Book,Books,East,3,916,0.1,2473.2,UPI,Premium
+ORD10885,2025-07-07,CUST1218,Perfume,Beauty,North,3,2876,0.05,8196.6,UPI,Regular
+ORD10886,2025-09-09,CUST1270,Wireless Mouse,Electronics,South,1,860,0.1,774.0,UPI,Regular
+ORD10887,2025-05-23,CUST1215,Bluetooth Speaker,Electronics,West,1,1848,0.2,1478.4,UPI,Regular
+ORD10888,2025-06-24,CUST1193,Fiction Novel,Books,South,1,511,0.2,408.8,Credit Card,Regular
+ORD10889,2025-01-03,CUST1222,Mechanical Keyboard,Electronics,West,3,3389,0.05,9658.65,Cash on Delivery,Regular
+ORD10890,2025-01-27,CUST1103,Air Fryer,Home & Kitchen,North,3,6908,0.15,17615.4,Credit Card,Regular
+ORD10891,2025-01-14,CUST1040,Programming Book,Books,Central,2,1170,0.2,1872.0,UPI,Regular
+ORD10892,2025-09-18,CUST1007,Mechanical Keyboard,Electronics,South,5,3512,0.0,17560.0,UPI,New
+ORD10893,2025-10-16,CUST1211,Smart Watch,Electronics,East,2,5391,0.0,10782.0,Credit Card,Regular
+ORD10894,2025-12-12,CUST1311,Programming Book,Books,South,3,1154,0.1,3115.8,Debit Card,Regular
+ORD10895,2025-12-31,CUST1152,Casual Shirt,Fashion,Central,5,1302,0.1,5859.0,Debit Card,Regular
+ORD10896,2025-02-06,CUST1234,Electric Kettle,Home & Kitchen,South,3,2085,0.1,5629.5,UPI,New
+ORD10897,2025-09-07,CUST1114,Coffee Maker,Home & Kitchen,North,2,4536,0.05,8618.4,UPI,Regular
+ORD10898,2025-05-19,CUST1294,Mechanical Keyboard,Electronics,East,4,3511,0.0,14044.0,Debit Card,New
+ORD10899,2025-02-12,CUST1194,Running Shoes,Fashion,South,1,2998,0.15,2548.3,UPI,New
+ORD10900,2025-06-21,CUST1023,Coffee Maker,Home & Kitchen,South,2,4433,0.05,8422.7,UPI,Premium
+ORD10901,2025-03-23,CUST1073,Body Lotion,Beauty,West,2,648,0.0,1296.0,Debit Card,Regular
+ORD10902,2025-09-11,CUST1328,Denim Jeans,Fashion,North,1,2372,0.1,2134.8,Credit Card,Premium
+ORD10903,2025-08-19,CUST1280,Coffee Maker,Home & Kitchen,South,2,4637,0.0,9274.0,Credit Card,Regular
+ORD10904,2025-05-20,CUST1349,Electric Kettle,Home & Kitchen,West,4,2131,0.2,6819.2,Credit Card,New
+ORD10905,2025-11-01,CUST1143,Mechanical Keyboard,Electronics,North,2,3390,0.05,6441.0,Credit Card,Regular
+ORD10906,2025-09-02,CUST1291,Bluetooth Speaker,Electronics,North,1,1925,0.05,1828.75,Credit Card,Regular
+ORD10907,2025-07-21,CUST1069,Hoodie,Fashion,South,2,1679,0.05,3190.1,UPI,Premium
+ORD10908,2025-03-19,CUST1096,Water Bottle,Home & Kitchen,North,3,691,0.0,2073.0,Credit Card,New
+ORD10909,2025-06-09,CUST1198,Hair Dryer,Beauty,West,1,2539,0.0,2539.0,UPI,Regular
+ORD10910,2025-11-08,CUST1154,Air Fryer,Home & Kitchen,South,2,6137,0.1,11046.6,UPI,New
+ORD10911,2025-09-27,CUST1191,Coffee Maker,Home & Kitchen,South,1,4018,0.05,3817.1,Debit Card,New
+ORD10912,2025-01-02,CUST1101,Hair Dryer,Beauty,West,2,2415,0.1,4347.0,Debit Card,Regular
+ORD10913,2025-11-06,CUST1186,Fiction Novel,Books,South,1,532,0.0,532.0,Credit Card,Regular
+ORD10914,2025-04-18,CUST1002,Data Analytics Book,Books,West,1,868,0.1,781.2,UPI,New
+ORD10915,2025-01-20,CUST1108,Hair Dryer,Beauty,South,1,2241,0.2,1792.8,UPI,New
+ORD10916,2025-06-01,CUST1177,Mechanical Keyboard,Electronics,South,2,3438,0.05,6532.2,UPI,New
+ORD10917,2025-11-06,CUST1008,Body Lotion,Beauty,North,2,670,0.1,1206.0,UPI,Premium
+ORD10918,2025-02-04,CUST1095,Hair Dryer,Beauty,North,1,2543,0.05,2415.85,Debit Card,Regular
+ORD10919,2025-03-23,CUST1103,Casual Shirt,Fashion,North,2,1357,0.05,2578.3,UPI,Premium
+ORD10920,2025-01-04,CUST1194,Body Lotion,Beauty,West,1,705,0.05,669.75,Cash on Delivery,Regular
+ORD10921,2025-07-30,CUST1213,Denim Jeans,Fashion,West,1,2112,0.2,1689.6,UPI,New
+ORD10922,2025-05-31,CUST1243,Bluetooth Speaker,Electronics,East,4,1956,0.0,7824.0,UPI,Regular
+ORD10923,2025-09-28,CUST1251,Skin Care Kit,Beauty,East,1,1695,0.05,1610.25,UPI,Regular
+ORD10924,2025-04-04,CUST1192,Casual Shirt,Fashion,West,1,1240,0.1,1116.0,Credit Card,Regular
+ORD10925,2025-10-17,CUST1017,Storage Box Set,Home & Kitchen,East,1,1150,0.15,977.5,UPI,Regular
+ORD10926,2025-11-28,CUST1065,Denim Jeans,Fashion,East,2,2186,0.0,4372.0,Debit Card,Regular
+ORD10927,2025-04-06,CUST1013,Smart Watch,Electronics,West,1,5536,0.0,5536.0,Cash on Delivery,New
+ORD10928,2025-02-01,CUST1021,Storage Box Set,Home & Kitchen,South,1,1166,0.1,1049.4,UPI,Regular
+ORD10929,2025-08-29,CUST1245,Hair Dryer,Beauty,South,2,2557,0.0,5114.0,Credit Card,Premium
+ORD10930,2025-09-14,CUST1219,Wireless Mouse,Electronics,Central,4,871,0.05,3309.8,Credit Card,New
+ORD10931,2025-08-14,CUST1331,Bluetooth Speaker,Electronics,North,3,1902,0.05,5420.7,UPI,New
+ORD10932,2025-10-26,CUST1326,Programming Book,Books,South,5,1167,0.0,5835.0,Credit Card,Regular
+ORD10933,2025-07-30,CUST1254,Body Lotion,Beauty,North,3,665,0.0,1995.0,Debit Card,Regular
+ORD10934,2025-01-19,CUST1107,Backpack,Fashion,South,1,1704,0.1,1533.6,UPI,Regular
+ORD10935,2025-03-03,CUST1178,Hoodie,Fashion,South,1,1750,0.05,1662.5,Cash on Delivery,Regular
+ORD10936,2025-04-14,CUST1311,Coffee Maker,Home & Kitchen,North,4,4406,0.1,15861.6,Debit Card,Premium
+ORD10937,2025-04-04,CUST1101,Coffee Maker,Home & Kitchen,West,1,4602,0.0,4602.0,Debit Card,Regular
+ORD10938,2025-05-25,CUST1015,Skin Care Kit,Beauty,West,2,1688,0.0,3376.0,UPI,Regular
+ORD10939,2025-10-12,CUST1146,Bluetooth Speaker,Electronics,South,3,2002,0.2,4804.8,UPI,New
+ORD10940,2025-10-25,CUST1331,Programming Book,Books,Central,5,1146,0.0,5730.0,Credit Card,New
+ORD10941,2025-12-11,CUST1042,Hoodie,Fashion,North,1,1798,0.0,1798.0,Credit Card,Regular
+ORD10942,2025-05-27,CUST1010,Business Book,Books,West,2,743,0.05,1411.7,Debit Card,Regular
+ORD10943,2025-11-03,CUST1031,Hair Dryer,Beauty,South,2,2578,0.1,4640.4,UPI,Regular
+ORD10944,2025-08-28,CUST1069,Perfume,Beauty,South,2,2723,0.1,4901.4,Cash on Delivery,Regular
+ORD10945,2025-06-27,CUST1303,Storage Box Set,Home & Kitchen,East,1,1243,0.2,994.4,UPI,Regular
+ORD10946,2025-01-17,CUST1173,Coffee Maker,Home & Kitchen,North,1,4551,0.05,4323.45,Debit Card,Regular
+ORD10947,2025-11-03,CUST1239,Coffee Maker,Home & Kitchen,Central,1,4596,0.0,4596.0,Credit Card,Premium
+ORD10948,2025-10-08,CUST1328,Storage Box Set,Home & Kitchen,East,2,1277,0.1,2298.6,Credit Card,Regular
+ORD10949,2025-11-18,CUST1221,Hair Dryer,Beauty,Central,2,2297,0.1,4134.6,UPI,Regular
+ORD10950,2025-03-14,CUST1187,Storage Box Set,Home & Kitchen,South,1,1291,0.05,1226.45,Credit Card,New
+ORD10951,2025-01-04,CUST1212,Denim Jeans,Fashion,East,1,2367,0.2,1893.6,UPI,Regular
+ORD10952,2025-07-30,CUST1162,Bluetooth Speaker,Electronics,North,3,2033,0.0,6099.0,UPI,Regular
+ORD10953,2025-12-28,CUST1292,Electric Kettle,Home & Kitchen,South,1,2114,0.0,2114.0,Cash on Delivery,Regular
+ORD10954,2025-07-02,CUST1010,USB-C Hub,Electronics,South,2,1553,0.1,2795.4,Debit Card,Premium
+ORD10955,2025-04-19,CUST1326,Backpack,Fashion,Central,1,1928,0.1,1735.2,Credit Card,Regular
+ORD10956,2025-12-06,CUST1249,Water Bottle,Home & Kitchen,North,2,685,0.1,1233.0,Cash on Delivery,Regular
+ORD10957,2025-09-12,CUST1324,Storage Box Set,Home & Kitchen,West,2,1188,0.1,2138.4,Debit Card,Regular
+ORD10958,2025-04-25,CUST1114,Electric Kettle,Home & Kitchen,South,2,1853,0.1,3335.4,UPI,Regular
+ORD10959,2025-08-09,CUST1049,Storage Box Set,Home & Kitchen,North,2,1152,0.0,2304.0,Credit Card,Regular
+ORD10960,2025-04-02,CUST1305,Hoodie,Fashion,South,3,1733,0.2,4159.2,UPI,Regular
+ORD10961,2025-07-21,CUST1142,Coffee Maker,Home & Kitchen,West,1,4108,0.05,3902.6,Cash on Delivery,Regular
+ORD10962,2025-03-09,CUST1189,Storage Box Set,Home & Kitchen,North,4,1235,0.1,4446.0,Debit Card,Premium
+ORD10963,2025-07-16,CUST1312,Denim Jeans,Fashion,North,1,2113,0.1,1901.7,UPI,New
+ORD10964,2025-03-11,CUST1234,Coffee Maker,Home & Kitchen,West,1,4384,0.1,3945.6,UPI,New
+ORD10965,2025-07-09,CUST1329,Data Analytics Book,Books,North,2,858,0.05,1630.2,Cash on Delivery,Regular
+ORD10966,2025-09-03,CUST1118,Running Shoes,Fashion,West,1,2937,0.05,2790.15,Cash on Delivery,Regular
+ORD10967,2025-09-01,CUST1256,Self Help Book,Books,East,2,574,0.0,1148.0,UPI,New
+ORD10968,2025-03-16,CUST1094,Electric Kettle,Home & Kitchen,North,3,1944,0.15,4957.2,Debit Card,Regular
+ORD10969,2025-08-28,CUST1107,Fiction Novel,Books,Central,1,476,0.15,404.6,UPI,New
+ORD10970,2025-01-12,CUST1336,Denim Jeans,Fashion,Central,2,2154,0.0,4308.0,UPI,New
+ORD10971,2025-02-26,CUST1182,USB-C Hub,Electronics,North,1,1473,0.0,1473.0,Debit Card,New
+ORD10972,2025-08-31,CUST1266,Skin Care Kit,Beauty,East,1,1667,0.05,1583.65,UPI,Regular
+ORD10973,2025-12-09,CUST1343,Fiction Novel,Books,West,2,536,0.15,911.2,UPI,Regular
+ORD10974,2025-08-30,CUST1131,Wireless Mouse,Electronics,South,5,932,0.05,4427.0,Debit Card,New
+ORD10975,2025-06-22,CUST1203,Coffee Maker,Home & Kitchen,North,2,4226,0.05,8029.4,UPI,New
+ORD10976,2025-02-09,CUST1161,Water Bottle,Home & Kitchen,North,1,726,0.15,617.1,Credit Card,Regular
+ORD10977,2025-04-12,CUST1052,Face Wash,Beauty,South,1,487,0.1,438.3,Credit Card,Premium
+ORD10978,2025-02-06,CUST1340,Bluetooth Speaker,Electronics,Central,2,1950,0.05,3705.0,UPI,Regular
+ORD10979,2025-03-16,CUST1261,Electric Kettle,Home & Kitchen,South,2,2133,0.15,3626.1,UPI,Regular
+ORD10980,2025-11-08,CUST1245,Bluetooth Speaker,Electronics,East,4,2010,0.0,8040.0,Debit Card,Regular
+ORD10981,2025-08-22,CUST1100,Wireless Mouse,Electronics,West,1,911,0.0,911.0,UPI,Regular
+ORD10982,2025-12-03,CUST1125,Perfume,Beauty,West,1,2829,0.1,2546.1,Credit Card,Premium
+ORD10983,2025-01-09,CUST1256,Wireless Mouse,Electronics,North,1,957,0.15,813.45,Credit Card,Premium
+ORD10984,2025-10-21,CUST1061,Body Lotion,Beauty,Central,1,743,0.0,743.0,Credit Card,Regular
+ORD10985,2025-12-25,CUST1109,Hoodie,Fashion,South,1,1769,0.05,1680.55,Credit Card,Regular
+ORD10986,2025-03-12,CUST1293,Water Bottle,Home & Kitchen,South,2,708,0.1,1274.4,Credit Card,Regular
+ORD10987,2025-02-09,CUST1047,Running Shoes,Fashion,East,1,2842,0.05,2699.9,Credit Card,Regular
+ORD10988,2025-06-02,CUST1022,Hoodie,Fashion,East,1,1685,0.1,1516.5,Credit Card,Premium
+ORD10989,2025-10-18,CUST1183,Programming Book,Books,Central,2,1041,0.1,1873.8,Debit Card,Regular
+ORD10990,2025-02-21,CUST1176,Body Lotion,Beauty,West,3,719,0.1,1941.3,UPI,Regular
+ORD10991,2025-12-11,CUST1081,Self Help Book,Books,West,3,583,0.0,1749.0,Credit Card,New
+ORD10992,2025-07-26,CUST1338,Air Fryer,Home & Kitchen,East,2,6801,0.0,13602.0,UPI,Regular
+ORD10993,2025-08-24,CUST1140,Fiction Novel,Books,Central,3,522,0.05,1487.7,UPI,Premium
+ORD10994,2025-10-10,CUST1008,Storage Box Set,Home & Kitchen,South,1,1182,0.15,1004.7,Credit Card,Regular
+ORD10995,2025-12-10,CUST1177,Body Lotion,Beauty,North,1,660,0.2,528.0,Cash on Delivery,New
+ORD10996,2025-07-22,CUST1231,Casual Shirt,Fashion,West,2,1386,0.1,2494.8,Credit Card,Regular
+ORD10997,2025-07-03,CUST1081,Water Bottle,Home & Kitchen,South,2,683,0.05,1297.7,UPI,Regular
+ORD10998,2025-10-22,CUST1284,Smart Watch,Electronics,North,3,5454,0.05,15543.9,UPI,New
+ORD10999,2025-10-10,CUST1103,Running Shoes,Fashion,West,3,3211,0.0,9633.0,UPI,New
+ORD11000,2025-01-05,CUST1056,Storage Box Set,Home & Kitchen,Central,3,1219,0.05,3474.15,Credit Card,Regular
+ORD11001,2025-10-11,CUST1120,Smart Watch,Electronics,East,1,5586,0.1,5027.4,UPI,New
+ORD11002,2025-04-18,CUST1337,Business Book,Books,South,1,702,0.05,666.9,Credit Card,New
+ORD11003,2025-07-20,CUST1258,Smart Watch,Electronics,South,1,5602,0.05,5321.9,UPI,New
+ORD11004,2025-08-07,CUST1225,Programming Book,Books,North,2,1143,0.05,2171.7,UPI,New
+ORD11005,2025-03-26,CUST1051,Perfume,Beauty,North,1,3000,0.0,3000.0,UPI,Regular
+ORD11006,2025-11-27,CUST1193,Business Book,Books,West,1,699,0.1,629.1,Credit Card,Premium
+ORD11007,2025-10-19,CUST1123,Running Shoes,Fashion,West,2,3139,0.0,6278.0,UPI,New
+ORD11008,2025-07-21,CUST1146,Storage Box Set,Home & Kitchen,South,1,1269,0.05,1205.55,Debit Card,Regular
+ORD11009,2025-10-17,CUST1178,Face Wash,Beauty,Central,2,534,0.1,961.2,Credit Card,Regular
+ORD11010,2025-02-09,CUST1127,Coffee Maker,Home & Kitchen,East,2,4063,0.1,7313.4,UPI,New
+ORD11011,2025-02-21,CUST1009,Coffee Maker,Home & Kitchen,North,1,4289,0.1,3860.1,Debit Card,Regular
+ORD11012,2025-08-29,CUST1150,USB-C Hub,Electronics,South,3,1537,0.1,4149.9,Credit Card,Regular
+ORD11013,2025-12-27,CUST1013,Air Fryer,Home & Kitchen,South,2,6415,0.0,12830.0,UPI,Regular
+ORD11014,2025-12-15,CUST1222,Perfume,Beauty,East,2,2606,0.0,5212.0,Credit Card,Regular
+ORD11015,2025-12-08,CUST1241,Face Wash,Beauty,North,2,475,0.1,855.0,UPI,New
+ORD11016,2025-05-19,CUST1002,Air Fryer,Home & Kitchen,West,3,6508,0.05,18547.8,UPI,Regular
+ORD11017,2025-05-24,CUST1181,Storage Box Set,Home & Kitchen,North,2,1106,0.05,2101.4,UPI,Regular
+ORD11018,2025-01-05,CUST1226,Electric Kettle,Home & Kitchen,South,2,1918,0.05,3644.2,Cash on Delivery,New
+ORD11019,2025-05-06,CUST1014,Bluetooth Speaker,Electronics,South,1,1804,0.05,1713.8,UPI,Regular
+ORD11020,2025-06-04,CUST1160,Fiction Novel,Books,West,4,465,0.1,1674.0,Credit Card,New
+ORD11021,2025-05-08,CUST1166,Wireless Mouse,Electronics,West,5,853,0.0,4265.0,Credit Card,Premium
+ORD11022,2025-04-23,CUST1303,Perfume,Beauty,South,1,2847,0.1,2562.3,UPI,Premium
+ORD11023,2025-01-12,CUST1068,Water Bottle,Home & Kitchen,North,3,700,0.05,1995.0,Debit Card,Regular
+ORD11024,2025-06-04,CUST1097,Wireless Mouse,Electronics,East,1,851,0.0,851.0,UPI,Regular
+ORD11025,2025-06-03,CUST1062,Casual Shirt,Fashion,West,1,1203,0.0,1203.0,UPI,Premium
+ORD11026,2025-08-02,CUST1020,Skin Care Kit,Beauty,East,1,1478,0.0,1478.0,UPI,New
+ORD11027,2025-09-23,CUST1306,Hoodie,Fashion,South,2,1701,0.15,2891.7,UPI,Regular
+ORD11028,2025-12-17,CUST1268,Smart Watch,Electronics,South,2,5392,0.05,10244.8,Credit Card,Regular
+ORD11029,2025-08-22,CUST1256,Perfume,Beauty,East,1,2871,0.0,2871.0,UPI,Premium
+ORD11030,2025-06-16,CUST1145,Self Help Book,Books,West,3,603,0.1,1628.1,Debit Card,Regular
+ORD11031,2025-04-09,CUST1320,Bluetooth Speaker,Electronics,North,1,1866,0.0,1866.0,UPI,Premium
+ORD11032,2025-02-06,CUST1198,Coffee Maker,Home & Kitchen,North,1,4504,0.2,3603.2,UPI,New
+ORD11033,2025-10-02,CUST1054,Hair Dryer,Beauty,Central,2,2276,0.05,4324.4,UPI,Premium
+ORD11034,2025-02-19,CUST1081,Mechanical Keyboard,Electronics,East,4,3168,0.1,11404.8,Credit Card,Regular
+ORD11035,2025-11-20,CUST1203,Body Lotion,Beauty,East,3,680,0.1,1836.0,Credit Card,Premium
+ORD11036,2025-09-27,CUST1045,USB-C Hub,Electronics,South,1,1422,0.05,1350.9,Debit Card,Regular
+ORD11037,2025-10-15,CUST1135,Wireless Mouse,Electronics,East,4,954,0.15,3243.6,Cash on Delivery,New
+ORD11038,2025-09-25,CUST1314,Electric Kettle,Home & Kitchen,South,3,2093,0.1,5651.1,UPI,Premium
+ORD11039,2025-11-18,CUST1177,Body Lotion,Beauty,Central,3,724,0.2,1737.6,UPI,Regular
+ORD11040,2025-07-26,CUST1227,Wireless Mouse,Electronics,West,2,883,0.0,1766.0,UPI,Premium
+ORD11041,2025-02-20,CUST1007,Bluetooth Speaker,Electronics,West,1,1929,0.1,1736.1,Credit Card,Premium
+ORD11042,2025-09-25,CUST1210,Fiction Novel,Books,East,1,471,0.0,471.0,UPI,New
+ORD11043,2025-04-03,CUST1339,Programming Book,Books,East,1,1049,0.05,996.55,UPI,Regular
+ORD11044,2025-10-06,CUST1193,Smart Watch,Electronics,Central,1,5414,0.1,4872.6,UPI,Premium
+ORD11045,2025-04-22,CUST1121,Smart Watch,Electronics,West,3,5667,0.0,17001.0,Cash on Delivery,Premium
+ORD11046,2025-04-07,CUST1210,USB-C Hub,Electronics,West,2,1416,0.0,2832.0,UPI,Premium
+ORD11047,2025-10-02,CUST1199,Perfume,Beauty,South,1,2751,0.0,2751.0,UPI,Regular
+ORD11048,2025-05-03,CUST1332,Bluetooth Speaker,Electronics,South,4,1985,0.05,7543.0,UPI,New
+ORD11049,2025-03-27,CUST1262,Storage Box Set,Home & Kitchen,South,1,1199,0.1,1079.1,UPI,Regular
+ORD11050,2025-09-01,CUST1262,USB-C Hub,Electronics,North,3,1558,0.05,4440.3,UPI,Regular
+ORD11051,2025-10-01,CUST1306,Running Shoes,Fashion,South,4,2941,0.05,11175.8,UPI,New
+ORD11052,2025-08-05,CUST1154,Perfume,Beauty,Central,4,2673,0.0,10692.0,UPI,Regular
+ORD11053,2025-10-07,CUST1317,Bluetooth Speaker,Electronics,South,3,1958,0.0,5874.0,UPI,Regular
+ORD11054,2025-09-21,CUST1131,Denim Jeans,Fashion,West,1,2364,0.05,2245.8,Credit Card,Regular
+ORD11055,2025-03-30,CUST1227,Backpack,Fashion,North,1,1858,0.1,1672.2,Credit Card,Regular
+ORD11056,2025-12-18,CUST1290,Business Book,Books,North,2,740,0.05,1406.0,UPI,Regular
+ORD11057,2025-12-02,CUST1300,Wireless Mouse,Electronics,West,2,917,0.1,1650.6,Debit Card,Premium
+ORD11058,2025-02-12,CUST1136,Hair Dryer,Beauty,Central,1,2582,0.0,2582.0,UPI,Regular
+ORD11059,2025-06-06,CUST1039,Water Bottle,Home & Kitchen,West,4,737,0.05,2800.6,Debit Card,Regular
+ORD11060,2025-10-25,CUST1042,Hoodie,Fashion,East,1,1565,0.1,1408.5,Debit Card,Regular
+ORD11061,2025-09-07,CUST1054,Electric Kettle,Home & Kitchen,West,3,1935,0.2,4644.0,UPI,Premium
+ORD11062,2025-06-08,CUST1170,Body Lotion,Beauty,West,1,754,0.15,640.9,Credit Card,Premium
+ORD11063,2025-01-09,CUST1162,Programming Book,Books,Central,1,1070,0.15,909.5,Credit Card,Regular
+ORD11064,2025-11-28,CUST1039,Business Book,Books,North,2,683,0.0,1366.0,UPI,Premium
+ORD11065,2025-01-24,CUST1232,Water Bottle,Home & Kitchen,North,1,689,0.2,551.2,Credit Card,New
+ORD11066,2025-03-16,CUST1349,Skin Care Kit,Beauty,North,3,1709,0.1,4614.3,Debit Card,New
+ORD11067,2025-06-24,CUST1095,Fiction Novel,Books,East,3,475,0.1,1282.5,Credit Card,Regular
+ORD11068,2025-03-12,CUST1260,Bluetooth Speaker,Electronics,North,1,1949,0.1,1754.1,Debit Card,Premium
+ORD11069,2025-05-03,CUST1314,Smart Watch,Electronics,North,1,5376,0.0,5376.0,UPI,Regular
+ORD11070,2025-01-13,CUST1190,Skin Care Kit,Beauty,North,2,1580,0.1,2844.0,UPI,Regular
+ORD11071,2025-06-18,CUST1133,Hoodie,Fashion,East,1,1714,0.2,1371.2,Credit Card,Premium
+ORD11072,2025-04-25,CUST1284,Skin Care Kit,Beauty,South,2,1523,0.05,2893.7,Cash on Delivery,Regular
+ORD11073,2025-06-23,CUST1050,Denim Jeans,Fashion,East,1,2321,0.0,2321.0,Debit Card,Premium
+ORD11074,2025-06-22,CUST1336,Fiction Novel,Books,South,3,487,0.15,1241.85,Credit Card,Regular
+ORD11075,2025-02-04,CUST1013,Casual Shirt,Fashion,West,2,1282,0.1,2307.6,Credit Card,Premium
+ORD11076,2025-09-14,CUST1080,Water Bottle,Home & Kitchen,West,1,692,0.15,588.2,UPI,Premium
+ORD11077,2025-06-14,CUST1134,Bluetooth Speaker,Electronics,East,1,1781,0.05,1691.95,Cash on Delivery,Regular
+ORD11078,2025-03-18,CUST1143,Business Book,Books,South,1,655,0.0,655.0,Debit Card,Premium
+ORD11079,2025-06-29,CUST1318,Running Shoes,Fashion,South,1,3053,0.0,3053.0,UPI,Premium
+ORD11080,2025-02-11,CUST1171,Wireless Mouse,Electronics,East,1,957,0.2,765.6,Debit Card,Regular
+ORD11081,2025-02-06,CUST1045,Storage Box Set,Home & Kitchen,West,1,1292,0.1,1162.8,Credit Card,Premium
+ORD11082,2025-08-21,CUST1091,Hoodie,Fashion,East,1,1643,0.05,1560.85,UPI,Regular
+ORD11083,2025-04-18,CUST1261,Air Fryer,Home & Kitchen,South,2,6148,0.2,9836.8,UPI,New
+ORD11084,2025-01-04,CUST1331,Backpack,Fashion,South,1,1726,0.1,1553.4,UPI,Regular
+ORD11085,2025-09-29,CUST1254,Mechanical Keyboard,Electronics,Central,5,3559,0.1,16015.5,UPI,Regular
+ORD11086,2025-01-06,CUST1272,Face Wash,Beauty,West,1,525,0.2,420.0,UPI,Regular
+ORD11087,2025-08-06,CUST1121,Perfume,Beauty,West,4,2627,0.05,9982.6,Debit Card,New
+ORD11088,2025-12-18,CUST1131,Air Fryer,Home & Kitchen,East,2,6009,0.05,11417.1,Credit Card,Regular
+ORD11089,2025-10-30,CUST1315,Casual Shirt,Fashion,West,1,1266,0.1,1139.4,UPI,Regular
+ORD11090,2025-06-09,CUST1040,Self Help Book,Books,West,1,592,0.2,473.6,Debit Card,Regular
+ORD11091,2025-06-21,CUST1088,Skin Care Kit,Beauty,West,3,1703,0.15,4342.65,Cash on Delivery,Premium
+ORD11092,2025-05-28,CUST1110,Casual Shirt,Fashion,Central,1,1373,0.0,1373.0,Cash on Delivery,New
+ORD11093,2025-03-06,CUST1025,Casual Shirt,Fashion,South,2,1216,0.15,2067.2,UPI,Regular
+ORD11094,2025-07-14,CUST1138,Fiction Novel,Books,North,2,466,0.0,932.0,Cash on Delivery,Premium
+ORD11095,2025-10-15,CUST1151,Bluetooth Speaker,Electronics,South,1,1821,0.1,1638.9,Debit Card,New
+ORD11096,2025-02-08,CUST1089,Water Bottle,Home & Kitchen,East,2,668,0.1,1202.4,UPI,New
+ORD11097,2025-05-03,CUST1051,Programming Book,Books,North,3,1028,0.1,2775.6,Credit Card,Regular
+ORD11098,2025-11-16,CUST1211,Running Shoes,Fashion,East,2,2788,0.0,5576.0,UPI,Regular
+ORD11099,2025-08-28,CUST1001,Running Shoes,Fashion,South,3,2961,0.1,7994.7,UPI,Regular
+ORD11100,2025-01-01,CUST1140,Fiction Novel,Books,West,1,509,0.1,458.1,Debit Card,Regular
+ORD11101,2025-07-05,CUST1060,Hair Dryer,Beauty,Central,1,2486,0.1,2237.4,Credit Card,Premium
+ORD11102,2025-07-26,CUST1180,Bluetooth Speaker,Electronics,West,1,1883,0.1,1694.7,UPI,Premium
+ORD11103,2025-10-07,CUST1035,Body Lotion,Beauty,Central,3,742,0.0,2226.0,Credit Card,Regular
+ORD11104,2025-11-08,CUST1163,Self Help Book,Books,South,1,583,0.0,583.0,Credit Card,New
+ORD11105,2025-07-07,CUST1343,Denim Jeans,Fashion,East,3,2311,0.0,6933.0,Debit Card,Regular
+ORD11106,2025-11-15,CUST1303,Wireless Mouse,Electronics,West,2,923,0.1,1661.4,Credit Card,Premium
+ORD11107,2025-07-11,CUST1265,Backpack,Fashion,North,1,1859,0.1,1673.1,Debit Card,Premium
+ORD11108,2025-06-30,CUST1302,Coffee Maker,Home & Kitchen,East,1,4125,0.2,3300.0,UPI,Premium
+ORD11109,2025-12-23,CUST1142,Backpack,Fashion,East,1,1665,0.1,1498.5,Debit Card,Regular
+ORD11110,2025-09-18,CUST1073,Air Fryer,Home & Kitchen,East,2,6846,0.05,13007.4,Credit Card,Premium
+ORD11111,2025-04-12,CUST1063,Hoodie,Fashion,Central,2,1704,0.0,3408.0,Debit Card,Regular
+ORD11112,2025-04-04,CUST1087,Hair Dryer,Beauty,South,1,2415,0.05,2294.25,Cash on Delivery,Regular
+ORD11113,2025-09-01,CUST1013,Hair Dryer,Beauty,East,2,2260,0.0,4520.0,Cash on Delivery,New
+ORD11114,2025-03-15,CUST1083,Wireless Mouse,Electronics,South,1,850,0.2,680.0,Credit Card,Regular
+ORD11115,2025-09-02,CUST1321,USB-C Hub,Electronics,Central,1,1384,0.0,1384.0,Credit Card,Premium
+ORD11116,2025-12-12,CUST1350,Air Fryer,Home & Kitchen,West,2,6984,0.05,13269.6,Debit Card,Regular
+ORD11117,2025-07-06,CUST1150,Casual Shirt,Fashion,Central,4,1383,0.05,5255.4,Credit Card,Regular
+ORD11118,2025-06-01,CUST1075,Smart Watch,Electronics,West,1,5154,0.2,4123.2,Credit Card,Premium
+ORD11119,2025-07-31,CUST1162,Smart Watch,Electronics,North,2,5561,0.0,11122.0,Credit Card,Regular
+ORD11120,2025-10-29,CUST1310,Storage Box Set,Home & Kitchen,South,3,1137,0.15,2899.35,UPI,Regular
+ORD11121,2025-08-18,CUST1326,Programming Book,Books,East,1,1101,0.0,1101.0,UPI,New
+ORD11122,2025-04-20,CUST1173,Coffee Maker,Home & Kitchen,Central,2,4395,0.2,7032.0,UPI,New
+ORD11123,2025-09-16,CUST1098,Bluetooth Speaker,Electronics,East,1,2047,0.2,1637.6,Credit Card,Regular
+ORD11124,2025-12-16,CUST1322,Hair Dryer,Beauty,North,2,2409,0.0,4818.0,Credit Card,Regular
+ORD11125,2025-01-08,CUST1170,Wireless Mouse,Electronics,West,1,919,0.05,873.05,UPI,Regular
+ORD11126,2025-09-03,CUST1284,Denim Jeans,Fashion,North,2,2219,0.05,4216.1,Credit Card,Regular
+ORD11127,2025-06-02,CUST1212,Running Shoes,Fashion,West,2,2784,0.1,5011.2,UPI,Regular
+ORD11128,2025-12-28,CUST1284,Face Wash,Beauty,West,1,477,0.15,405.45,UPI,Regular
+ORD11129,2025-02-19,CUST1104,Body Lotion,Beauty,East,2,654,0.15,1111.8,Credit Card,Regular
+ORD11130,2025-10-02,CUST1069,Storage Box Set,Home & Kitchen,West,2,1207,0.05,2293.3,UPI,Regular
+ORD11131,2025-07-04,CUST1227,Fiction Novel,Books,West,2,537,0.05,1020.3,Credit Card,Regular
+ORD11132,2025-02-21,CUST1209,Smart Watch,Electronics,West,1,5068,0.0,5068.0,UPI,Premium
+ORD11133,2025-09-29,CUST1006,Programming Book,Books,Central,3,1134,0.0,3402.0,Credit Card,Premium
+ORD11134,2025-04-26,CUST1009,Business Book,Books,East,1,679,0.1,611.1,Debit Card,Premium
+ORD11135,2025-09-22,CUST1314,Electric Kettle,Home & Kitchen,East,1,2125,0.0,2125.0,Credit Card,Regular
+ORD11136,2025-04-20,CUST1058,Smart Watch,Electronics,West,1,5807,0.1,5226.3,Debit Card,New
+ORD11137,2025-01-18,CUST1126,Coffee Maker,Home & Kitchen,South,4,4227,0.05,16062.6,Debit Card,Regular
+ORD11138,2025-10-22,CUST1305,Perfume,Beauty,South,4,3021,0.15,10271.4,Cash on Delivery,New
+ORD11139,2025-05-27,CUST1162,Casual Shirt,Fashion,South,1,1318,0.1,1186.2,Credit Card,Regular
+ORD11140,2025-06-21,CUST1300,Fiction Novel,Books,Central,1,470,0.0,470.0,UPI,Regular
+ORD11141,2025-03-09,CUST1123,Water Bottle,Home & Kitchen,South,2,650,0.1,1170.0,Credit Card,Regular
+ORD11142,2025-01-03,CUST1098,Bluetooth Speaker,Electronics,South,1,1782,0.2,1425.6,UPI,Premium
+ORD11143,2025-10-16,CUST1025,Self Help Book,Books,West,2,629,0.05,1195.1,UPI,Regular
+ORD11144,2025-01-23,CUST1256,Electric Kettle,Home & Kitchen,Central,1,2110,0.0,2110.0,Credit Card,Regular
+ORD11145,2025-10-21,CUST1259,Hoodie,Fashion,South,1,1631,0.1,1467.9,UPI,New
+ORD11146,2025-06-09,CUST1064,Smart Watch,Electronics,East,1,5578,0.0,5578.0,Credit Card,Regular
+ORD11147,2025-07-30,CUST1085,Water Bottle,Home & Kitchen,Central,2,733,0.1,1319.4,Debit Card,Regular
+ORD11148,2025-11-24,CUST1212,Self Help Book,Books,South,3,582,0.0,1746.0,Debit Card,Regular
+ORD11149,2025-03-31,CUST1326,Mechanical Keyboard,Electronics,South,3,3055,0.1,8248.5,Credit Card,Regular
+ORD11150,2025-07-26,CUST1261,Running Shoes,Fashion,West,2,2800,0.05,5320.0,Credit Card,Premium
+ORD11151,2025-02-13,CUST1143,USB-C Hub,Electronics,East,2,1545,0.15,2626.5,Credit Card,Regular
+ORD11152,2025-05-22,CUST1076,Casual Shirt,Fashion,Central,2,1240,0.05,2356.0,UPI,Regular
+ORD11153,2025-01-17,CUST1056,Smart Watch,Electronics,North,1,5594,0.0,5594.0,UPI,Regular
+ORD11154,2025-03-13,CUST1304,Running Shoes,Fashion,West,2,3110,0.0,6220.0,UPI,Regular
+ORD11155,2025-04-24,CUST1119,Perfume,Beauty,North,1,2857,0.0,2857.0,UPI,Regular
+ORD11156,2025-09-13,CUST1187,Electric Kettle,Home & Kitchen,South,3,2101,0.15,5357.55,UPI,Regular
+ORD11157,2025-07-01,CUST1068,Fiction Novel,Books,West,1,500,0.1,450.0,Debit Card,New
+ORD11158,2025-07-06,CUST1338,Bluetooth Speaker,Electronics,East,1,1890,0.15,1606.5,UPI,Regular
+ORD11159,2025-03-18,CUST1136,Backpack,Fashion,North,2,1895,0.05,3600.5,UPI,Premium
+ORD11160,2025-12-10,CUST1231,Air Fryer,Home & Kitchen,East,1,6089,0.0,6089.0,Credit Card,Regular
+ORD11161,2025-07-02,CUST1329,USB-C Hub,Electronics,North,1,1601,0.0,1601.0,Debit Card,Regular
+ORD11162,2025-04-05,CUST1088,Fiction Novel,Books,South,1,525,0.1,472.5,UPI,New
+ORD11163,2025-03-05,CUST1335,Fiction Novel,Books,South,1,478,0.0,478.0,UPI,New
+ORD11164,2025-02-26,CUST1202,Perfume,Beauty,East,3,2593,0.15,6612.15,UPI,New
+ORD11165,2025-10-29,CUST1116,Hoodie,Fashion,South,2,1780,0.1,3204.0,UPI,Premium
+ORD11166,2025-12-31,CUST1276,Hoodie,Fashion,South,2,1756,0.1,3160.8,Debit Card,Regular
+ORD11167,2025-11-21,CUST1138,Hoodie,Fashion,South,1,1652,0.05,1569.4,UPI,New
+ORD11168,2025-02-06,CUST1034,USB-C Hub,Electronics,Central,2,1522,0.0,3044.0,Credit Card,Regular
+ORD11169,2025-07-05,CUST1026,Hair Dryer,Beauty,Central,1,2468,0.05,2344.6,UPI,Regular
+ORD11170,2025-10-21,CUST1081,Air Fryer,Home & Kitchen,West,3,6713,0.15,17118.15,Credit Card,Regular
+ORD11171,2025-10-26,CUST1340,Mechanical Keyboard,Electronics,Central,1,3369,0.1,3032.1,Debit Card,Regular
+ORD11172,2025-01-25,CUST1157,Face Wash,Beauty,South,2,519,0.0,1038.0,Credit Card,Regular
+ORD11173,2025-12-23,CUST1230,Wireless Mouse,Electronics,North,1,829,0.05,787.55,Credit Card,Premium
+ORD11174,2025-12-06,CUST1039,Mechanical Keyboard,Electronics,West,5,3213,0.1,14458.5,Debit Card,Regular
+ORD11175,2025-04-13,CUST1346,USB-C Hub,Electronics,Central,1,1616,0.1,1454.4,Debit Card,New
+ORD11176,2025-08-17,CUST1130,Storage Box Set,Home & Kitchen,North,1,1159,0.05,1101.05,UPI,Regular
+ORD11177,2025-03-02,CUST1075,Storage Box Set,Home & Kitchen,South,1,1195,0.1,1075.5,UPI,Regular
+ORD11178,2025-07-20,CUST1112,Mechanical Keyboard,Electronics,West,1,3552,0.0,3552.0,Credit Card,Regular
+ORD11179,2025-12-08,CUST1170,Bluetooth Speaker,Electronics,West,1,1940,0.1,1746.0,UPI,Regular
+ORD11180,2025-03-04,CUST1324,Air Fryer,Home & Kitchen,North,5,6202,0.0,31010.0,Debit Card,Premium
+ORD11181,2025-10-02,CUST1188,Running Shoes,Fashion,Central,2,2812,0.2,4499.2,Credit Card,Regular
+ORD11182,2025-05-12,CUST1231,Hoodie,Fashion,South,1,1699,0.1,1529.1,Credit Card,Premium
+ORD11183,2025-12-18,CUST1112,Electric Kettle,Home & Kitchen,South,2,1839,0.0,3678.0,Debit Card,Regular
+ORD11184,2025-10-18,CUST1310,Mechanical Keyboard,Electronics,East,1,3424,0.2,2739.2,Debit Card,Regular
+ORD11185,2025-12-04,CUST1105,Denim Jeans,Fashion,East,1,2361,0.0,2361.0,Cash on Delivery,Regular
+ORD11186,2025-07-25,CUST1062,Face Wash,Beauty,West,1,519,0.1,467.1,Debit Card,Regular
+ORD11187,2025-02-18,CUST1192,Mechanical Keyboard,Electronics,West,4,3381,0.1,12171.6,UPI,Regular
+ORD11188,2025-02-12,CUST1305,Denim Jeans,Fashion,West,1,2076,0.1,1868.4,UPI,New
+ORD11189,2025-03-26,CUST1323,Bluetooth Speaker,Electronics,West,5,1981,0.15,8419.25,UPI,Regular
+ORD11190,2025-06-09,CUST1105,Programming Book,Books,South,3,1074,0.05,3060.9,Debit Card,Regular
+ORD11191,2025-12-11,CUST1007,Storage Box Set,Home & Kitchen,South,2,1189,0.05,2259.1,UPI,Regular
+ORD11192,2025-09-01,CUST1044,Wireless Mouse,Electronics,South,1,829,0.2,663.2,Debit Card,Regular
+ORD11193,2025-11-05,CUST1154,Denim Jeans,Fashion,South,2,2097,0.1,3774.6,UPI,Regular
+ORD11194,2025-03-17,CUST1323,Self Help Book,Books,North,1,564,0.05,535.8,UPI,Regular
+ORD11195,2025-06-23,CUST1156,Face Wash,Beauty,South,3,463,0.05,1319.55,Credit Card,Premium
+ORD11196,2025-05-10,CUST1132,Air Fryer,Home & Kitchen,East,2,6131,0.1,11035.8,UPI,New
+ORD11197,2025-10-29,CUST1336,Fiction Novel,Books,Central,3,471,0.05,1342.35,UPI,Regular
+ORD11198,2025-08-05,CUST1232,Skin Care Kit,Beauty,Central,1,1658,0.05,1575.1,Credit Card,Regular
+ORD11199,2025-01-17,CUST1121,Bluetooth Speaker,Electronics,South,1,1923,0.05,1826.85,Cash on Delivery,Regular
+ORD11200,2025-05-24,CUST1035,Air Fryer,Home & Kitchen,West,2,5980,0.15,10166.0,Credit Card,New
+ORD11201,2025-10-08,CUST1037,Hoodie,Fashion,East,1,1696,0.1,1526.4,UPI,Regular
+ORD11202,2025-01-07,CUST1198,Coffee Maker,Home & Kitchen,West,1,4242,0.0,4242.0,Credit Card,Premium
+ORD11203,2025-01-22,CUST1216,Bluetooth Speaker,Electronics,West,2,1991,0.1,3583.8,Debit Card,Premium
+ORD11204,2025-06-19,CUST1185,Perfume,Beauty,West,1,2603,0.05,2472.85,UPI,Regular
+ORD11205,2025-04-02,CUST1249,Perfume,Beauty,South,3,2654,0.05,7563.9,UPI,Regular
+ORD11206,2025-11-03,CUST1137,Coffee Maker,Home & Kitchen,North,1,4495,0.0,4495.0,Cash on Delivery,Premium
+ORD11207,2025-11-29,CUST1035,Self Help Book,Books,South,1,617,0.05,586.15,UPI,New
+ORD11208,2025-11-02,CUST1106,Programming Book,Books,South,4,1023,0.05,3887.4,Credit Card,Regular
+ORD11209,2025-03-23,CUST1104,Hair Dryer,Beauty,North,2,2534,0.1,4561.2,UPI,Premium
+ORD11210,2025-03-26,CUST1296,Running Shoes,Fashion,South,1,3231,0.1,2907.9,Cash on Delivery,Regular
+ORD11211,2025-11-21,CUST1065,Bluetooth Speaker,Electronics,West,3,1899,0.0,5697.0,Debit Card,Regular
+ORD11212,2025-04-11,CUST1205,Bluetooth Speaker,Electronics,Central,2,1972,0.05,3746.8,UPI,Regular
+ORD11213,2025-07-20,CUST1150,Hoodie,Fashion,West,3,1728,0.05,4924.8,UPI,Regular
+ORD11214,2025-01-30,CUST1298,Casual Shirt,Fashion,South,2,1403,0.1,2525.4,Credit Card,New
+ORD11215,2025-10-22,CUST1123,Electric Kettle,Home & Kitchen,North,2,1911,0.1,3439.8,UPI,Regular
+ORD11216,2025-09-12,CUST1195,Air Fryer,Home & Kitchen,North,3,6382,0.15,16274.1,UPI,New
+ORD11217,2025-12-06,CUST1166,Denim Jeans,Fashion,North,1,2275,0.1,2047.5,Cash on Delivery,Regular
+ORD11218,2025-04-22,CUST1290,Programming Book,Books,South,2,1110,0.05,2109.0,Credit Card,Regular
+ORD11219,2025-06-22,CUST1045,Skin Care Kit,Beauty,West,2,1595,0.1,2871.0,Debit Card,Regular
+ORD11220,2025-11-23,CUST1278,Mechanical Keyboard,Electronics,South,2,3076,0.0,6152.0,Credit Card,New
+ORD11221,2025-01-08,CUST1312,Smart Watch,Electronics,East,1,5274,0.1,4746.6,UPI,Regular
+ORD11222,2025-11-27,CUST1286,Mechanical Keyboard,Electronics,West,2,3359,0.0,6718.0,UPI,Premium
+ORD11223,2025-02-22,CUST1210,Denim Jeans,Fashion,East,1,2263,0.15,1923.55,Credit Card,Regular
+ORD11224,2025-07-31,CUST1325,USB-C Hub,Electronics,North,1,1595,0.1,1435.5,Credit Card,Premium
+ORD11225,2025-03-15,CUST1168,Wireless Mouse,Electronics,East,3,924,0.1,2494.8,UPI,Regular
+ORD11226,2025-09-02,CUST1030,Running Shoes,Fashion,North,1,3222,0.05,3060.9,Debit Card,Regular
+ORD11227,2025-06-04,CUST1163,Wireless Mouse,Electronics,West,1,916,0.05,870.2,Credit Card,Premium
+ORD11228,2025-10-04,CUST1105,Wireless Mouse,Electronics,Central,2,868,0.05,1649.2,UPI,New
+ORD11229,2025-06-03,CUST1107,Programming Book,Books,East,1,1078,0.2,862.4,UPI,New
+ORD11230,2025-09-09,CUST1314,Mechanical Keyboard,Electronics,West,1,3180,0.05,3021.0,UPI,Regular
+ORD11231,2025-07-12,CUST1327,Body Lotion,Beauty,West,1,687,0.1,618.3,UPI,Premium
+ORD11232,2025-04-26,CUST1164,Electric Kettle,Home & Kitchen,South,3,1962,0.0,5886.0,UPI,Regular
+ORD11233,2025-11-01,CUST1157,Perfume,Beauty,North,1,2605,0.05,2474.75,Debit Card,New
+ORD11234,2025-11-17,CUST1223,USB-C Hub,Electronics,North,3,1534,0.05,4371.9,UPI,New
+ORD11235,2025-04-03,CUST1285,Hoodie,Fashion,Central,1,1821,0.05,1729.95,UPI,Premium
+ORD11236,2025-11-29,CUST1060,Hoodie,Fashion,East,3,1663,0.0,4989.0,Debit Card,Premium
+ORD11237,2025-01-31,CUST1146,Hoodie,Fashion,North,1,1776,0.1,1598.4,UPI,New
+ORD11238,2025-06-15,CUST1334,Mechanical Keyboard,Electronics,Central,1,3380,0.1,3042.0,Debit Card,Regular
+ORD11239,2025-11-24,CUST1039,Running Shoes,Fashion,East,1,3221,0.1,2898.9,Debit Card,Regular
+ORD11240,2025-03-03,CUST1242,Water Bottle,Home & Kitchen,West,2,661,0.05,1255.9,Credit Card,New
+ORD11241,2025-06-22,CUST1287,Business Book,Books,East,1,730,0.05,693.5,UPI,Regular
+ORD11242,2025-02-03,CUST1011,Hoodie,Fashion,West,4,1621,0.15,5511.4,Cash on Delivery,Regular
+ORD11243,2025-10-21,CUST1080,Smart Watch,Electronics,North,3,5355,0.05,15261.75,Credit Card,Regular
+ORD11244,2025-06-18,CUST1200,Smart Watch,Electronics,East,3,5345,0.15,13629.75,Credit Card,Regular
+ORD11245,2025-09-05,CUST1259,Hair Dryer,Beauty,West,3,2369,0.05,6751.65,UPI,Regular
+ORD11246,2025-02-17,CUST1341,Casual Shirt,Fashion,North,1,1337,0.1,1203.3,Credit Card,Regular
+ORD11247,2025-08-13,CUST1300,Hair Dryer,Beauty,East,1,2515,0.05,2389.25,UPI,New
+ORD11248,2025-10-31,CUST1152,Skin Care Kit,Beauty,North,3,1695,0.1,4576.5,UPI,New
+ORD11249,2025-10-08,CUST1041,Programming Book,Books,East,1,1045,0.15,888.25,UPI,Regular
+ORD11250,2025-09-13,CUST1155,Face Wash,Beauty,Central,4,521,0.05,1979.8,Credit Card,Regular
+ORD11251,2025-03-28,CUST1218,Perfume,Beauty,South,1,2958,0.1,2662.2,Cash on Delivery,Premium
+ORD11252,2025-11-04,CUST1192,Casual Shirt,Fashion,South,1,1396,0.15,1186.6,Debit Card,New
+ORD11253,2025-12-23,CUST1179,Hair Dryer,Beauty,South,2,2330,0.05,4427.0,UPI,Premium
+ORD11254,2025-11-12,CUST1094,Electric Kettle,Home & Kitchen,West,3,1885,0.05,5372.25,Debit Card,Regular
+ORD11255,2025-02-18,CUST1149,Denim Jeans,Fashion,East,2,2372,0.1,4269.6,UPI,Regular
+ORD11256,2025-11-17,CUST1103,Bluetooth Speaker,Electronics,West,1,1807,0.1,1626.3,Cash on Delivery,Regular
+ORD11257,2025-10-01,CUST1161,Casual Shirt,Fashion,West,1,1284,0.05,1219.8,Debit Card,Premium
+ORD11258,2025-04-18,CUST1345,Hoodie,Fashion,Central,3,1800,0.05,5130.0,Credit Card,Regular
+ORD11259,2025-10-11,CUST1139,Wireless Mouse,Electronics,West,1,895,0.1,805.5,Debit Card,Regular
+ORD11260,2025-07-31,CUST1344,Smart Watch,Electronics,East,2,5219,0.1,9394.2,Credit Card,Premium
+ORD11261,2025-06-08,CUST1243,Programming Book,Books,East,2,1042,0.1,1875.6,Debit Card,Regular
+ORD11262,2025-11-21,CUST1060,Running Shoes,Fashion,Central,1,2893,0.0,2893.0,Cash on Delivery,Premium
+ORD11263,2025-10-11,CUST1109,Running Shoes,Fashion,Central,3,3008,0.0,9024.0,UPI,Regular
+ORD11264,2025-08-18,CUST1330,Storage Box Set,Home & Kitchen,West,1,1241,0.05,1178.95,UPI,New
+ORD11265,2025-07-08,CUST1136,Body Lotion,Beauty,South,2,737,0.05,1400.3,UPI,Premium
+ORD11266,2025-09-20,CUST1170,Wireless Mouse,Electronics,Central,2,894,0.15,1519.8,Cash on Delivery,Regular
+ORD11267,2025-03-20,CUST1199,Skin Care Kit,Beauty,South,3,1634,0.05,4656.9,Debit Card,Premium
+ORD11268,2025-09-23,CUST1053,Bluetooth Speaker,Electronics,South,1,1876,0.1,1688.4,Debit Card,Regular
+ORD11269,2025-06-26,CUST1348,Skin Care Kit,Beauty,Central,1,1630,0.05,1548.5,Debit Card,Premium
+ORD11270,2025-04-12,CUST1286,Bluetooth Speaker,Electronics,East,1,1800,0.15,1530.0,Cash on Delivery,Regular
+ORD11271,2025-03-08,CUST1020,Denim Jeans,Fashion,South,1,2354,0.15,2000.9,Credit Card,Regular
+ORD11272,2025-07-24,CUST1081,Casual Shirt,Fashion,Central,2,1256,0.05,2386.4,UPI,Premium
+ORD11273,2025-09-14,CUST1006,Water Bottle,Home & Kitchen,South,1,651,0.1,585.9,UPI,New
+ORD11274,2025-03-14,CUST1228,Mechanical Keyboard,Electronics,West,1,3262,0.05,3098.9,Credit Card,Premium
+ORD11275,2025-10-05,CUST1214,Water Bottle,Home & Kitchen,North,1,678,0.1,610.2,UPI,Premium
+ORD11276,2025-02-16,CUST1086,Bluetooth Speaker,Electronics,West,2,1983,0.1,3569.4,UPI,New
+ORD11277,2025-01-20,CUST1085,Skin Care Kit,Beauty,East,3,1601,0.05,4562.85,Debit Card,New
+ORD11278,2025-02-19,CUST1173,Coffee Maker,Home & Kitchen,South,2,4427,0.1,7968.6,Debit Card,Regular
+ORD11279,2025-07-19,CUST1073,USB-C Hub,Electronics,Central,1,1387,0.0,1387.0,Credit Card,Regular
+ORD11280,2025-01-19,CUST1082,Perfume,Beauty,East,1,3021,0.1,2718.9,UPI,Premium
+ORD11281,2025-11-09,CUST1311,Bluetooth Speaker,Electronics,East,3,2009,0.15,5122.95,Debit Card,Regular
+ORD11282,2025-01-30,CUST1163,Bluetooth Speaker,Electronics,West,1,1821,0.15,1547.85,Cash on Delivery,Regular
+ORD11283,2025-01-09,CUST1241,Hair Dryer,Beauty,East,1,2269,0.05,2155.55,UPI,Regular
+ORD11284,2025-04-07,CUST1249,Hair Dryer,Beauty,East,1,2518,0.15,2140.3,Credit Card,Premium
+ORD11285,2025-12-18,CUST1036,Data Analytics Book,Books,East,1,916,0.1,824.4,Credit Card,Premium
+ORD11286,2025-08-16,CUST1322,Water Bottle,Home & Kitchen,Central,1,663,0.1,596.7,UPI,Regular
+ORD11287,2025-09-22,CUST1343,Perfume,Beauty,East,2,2749,0.0,5498.0,UPI,New
+ORD11288,2025-06-05,CUST1329,Denim Jeans,Fashion,Central,4,2190,0.05,8322.0,Cash on Delivery,New
+ORD11289,2025-03-18,CUST1183,Running Shoes,Fashion,Central,1,3209,0.05,3048.55,Cash on Delivery,New
+ORD11290,2025-12-12,CUST1066,Denim Jeans,Fashion,Central,2,2371,0.0,4742.0,Credit Card,Regular
+ORD11291,2025-07-07,CUST1008,USB-C Hub,Electronics,Central,4,1524,0.05,5791.2,Cash on Delivery,Regular
+ORD11292,2025-06-11,CUST1187,Backpack,Fashion,East,1,1785,0.0,1785.0,UPI,Regular
+ORD11293,2025-02-20,CUST1154,Mechanical Keyboard,Electronics,South,2,3152,0.0,6304.0,Debit Card,Premium
+ORD11294,2025-01-15,CUST1290,Body Lotion,Beauty,South,2,663,0.15,1127.1,Debit Card,Regular
+ORD11295,2025-10-21,CUST1280,Data Analytics Book,Books,North,1,954,0.2,763.2,Debit Card,Premium
+ORD11296,2025-10-08,CUST1235,Storage Box Set,Home & Kitchen,South,3,1212,0.15,3090.6,Cash on Delivery,Regular
+ORD11297,2025-05-28,CUST1144,Hoodie,Fashion,Central,1,1750,0.05,1662.5,Debit Card,Regular
+ORD11298,2025-02-15,CUST1328,Body Lotion,Beauty,South,1,736,0.05,699.2,UPI,New
+ORD11299,2025-11-12,CUST1058,Casual Shirt,Fashion,West,4,1303,0.05,4951.4,Cash on Delivery,Regular
+ORD11300,2025-10-09,CUST1311,Hair Dryer,Beauty,South,1,2442,0.1,2197.8,UPI,Regular
+ORD11301,2025-05-14,CUST1322,Wireless Mouse,Electronics,South,3,887,0.05,2527.95,UPI,New
+ORD11302,2025-07-22,CUST1099,Mechanical Keyboard,Electronics,South,1,3340,0.0,3340.0,UPI,New
+ORD11303,2025-06-02,CUST1043,Air Fryer,Home & Kitchen,South,1,6982,0.0,6982.0,Cash on Delivery,Regular
+ORD11304,2025-03-13,CUST1231,Smart Watch,Electronics,West,2,5260,0.1,9468.0,UPI,Premium
+ORD11305,2025-12-31,CUST1156,Electric Kettle,Home & Kitchen,East,2,2028,0.15,3447.6,UPI,Premium
+ORD11306,2025-09-12,CUST1236,Coffee Maker,Home & Kitchen,North,1,4516,0.0,4516.0,Credit Card,New
+ORD11307,2025-09-01,CUST1057,Smart Watch,Electronics,South,2,5822,0.0,11644.0,Credit Card,Regular
+ORD11308,2025-04-15,CUST1229,Storage Box Set,Home & Kitchen,East,2,1124,0.05,2135.6,UPI,Regular
+ORD11309,2025-09-02,CUST1299,Electric Kettle,Home & Kitchen,Central,4,2015,0.1,7254.0,UPI,Regular
+ORD11310,2025-04-16,CUST1099,Wireless Mouse,Electronics,North,1,941,0.05,893.95,Cash on Delivery,Premium
+ORD11311,2025-11-11,CUST1270,Self Help Book,Books,South,4,597,0.0,2388.0,Debit Card,Regular
+ORD11312,2025-03-26,CUST1039,Bluetooth Speaker,Electronics,West,2,1785,0.0,3570.0,UPI,Regular
+ORD11313,2025-10-02,CUST1075,Mechanical Keyboard,Electronics,North,1,3054,0.15,2595.9,UPI,Regular
+ORD11314,2025-11-04,CUST1206,Body Lotion,Beauty,North,1,747,0.15,634.95,Debit Card,Premium
+ORD11315,2025-01-27,CUST1313,Perfume,Beauty,East,2,2935,0.2,4696.0,Credit Card,Premium
+ORD11316,2025-06-26,CUST1217,Fiction Novel,Books,Central,2,477,0.0,954.0,UPI,Regular
+ORD11317,2025-07-03,CUST1205,Business Book,Books,West,1,683,0.05,648.85,Credit Card,Premium
+ORD11318,2025-03-31,CUST1035,Casual Shirt,Fashion,West,1,1231,0.0,1231.0,UPI,Premium
+ORD11319,2025-02-13,CUST1265,Bluetooth Speaker,Electronics,North,1,1902,0.1,1711.8,Credit Card,Premium
+ORD11320,2025-05-13,CUST1311,Electric Kettle,Home & Kitchen,South,1,1889,0.0,1889.0,Credit Card,Premium
+ORD11321,2025-08-25,CUST1118,Air Fryer,Home & Kitchen,South,1,6479,0.0,6479.0,Debit Card,Premium
+ORD11322,2025-12-23,CUST1290,Skin Care Kit,Beauty,West,1,1725,0.0,1725.0,Credit Card,Regular
+ORD11323,2025-09-28,CUST1204,Perfume,Beauty,West,1,2930,0.0,2930.0,Debit Card,Regular
+ORD11324,2025-07-29,CUST1162,USB-C Hub,Electronics,West,2,1439,0.05,2734.1,UPI,Regular
+ORD11325,2025-01-19,CUST1020,Denim Jeans,Fashion,East,1,2148,0.05,2040.6,Debit Card,Regular
+ORD11326,2025-08-24,CUST1240,Air Fryer,Home & Kitchen,North,1,6121,0.1,5508.9,UPI,Regular
+ORD11327,2025-12-16,CUST1274,Water Bottle,Home & Kitchen,North,1,650,0.05,617.5,UPI,Regular
+ORD11328,2025-09-11,CUST1302,Wireless Mouse,Electronics,South,2,899,0.0,1798.0,Cash on Delivery,New
+ORD11329,2025-03-25,CUST1233,Water Bottle,Home & Kitchen,East,3,683,0.0,2049.0,Debit Card,Premium
+ORD11330,2025-06-12,CUST1346,Fiction Novel,Books,Central,2,510,0.05,969.0,Debit Card,Premium
+ORD11331,2025-04-05,CUST1341,Backpack,Fashion,East,3,1658,0.0,4974.0,Credit Card,Regular
+ORD11332,2025-03-10,CUST1243,USB-C Hub,Electronics,South,1,1463,0.0,1463.0,UPI,Regular
+ORD11333,2025-11-10,CUST1174,Backpack,Fashion,West,1,1753,0.1,1577.7,Cash on Delivery,Premium
+ORD11334,2025-07-27,CUST1013,Data Analytics Book,Books,South,1,887,0.0,887.0,Credit Card,Regular
+ORD11335,2025-08-12,CUST1095,USB-C Hub,Electronics,East,1,1457,0.0,1457.0,Debit Card,Regular
+ORD11336,2025-10-20,CUST1015,Storage Box Set,Home & Kitchen,North,4,1113,0.05,4229.4,Credit Card,Regular
+ORD11337,2025-12-03,CUST1342,Backpack,Fashion,Central,1,1686,0.15,1433.1,UPI,Premium
+ORD11338,2025-07-25,CUST1285,Fiction Novel,Books,North,1,523,0.1,470.7,Credit Card,Regular
+ORD11339,2025-01-23,CUST1048,Programming Book,Books,South,1,1169,0.05,1110.55,Credit Card,Regular
+ORD11340,2025-05-01,CUST1050,Backpack,Fashion,West,2,1751,0.05,3326.9,UPI,Regular
+ORD11341,2025-06-15,CUST1184,Coffee Maker,Home & Kitchen,West,2,4249,0.15,7223.3,Debit Card,Regular
+ORD11342,2025-04-20,CUST1061,Self Help Book,Books,East,3,606,0.0,1818.0,UPI,Premium
+ORD11343,2025-07-07,CUST1020,Air Fryer,Home & Kitchen,East,1,6140,0.0,6140.0,Cash on Delivery,Premium
+ORD11344,2025-12-27,CUST1253,Body Lotion,Beauty,North,2,734,0.15,1247.8,Credit Card,Regular
+ORD11345,2025-09-10,CUST1249,Bluetooth Speaker,Electronics,North,3,1795,0.0,5385.0,UPI,Premium
+ORD11346,2025-06-06,CUST1084,Programming Book,Books,West,2,1106,0.05,2101.4,Debit Card,Regular
+ORD11347,2025-04-08,CUST1147,Coffee Maker,Home & Kitchen,South,1,4148,0.0,4148.0,Debit Card,Regular
+ORD11348,2025-08-16,CUST1263,Self Help Book,Books,North,4,586,0.0,2344.0,UPI,Regular
+ORD11349,2025-01-02,CUST1215,Self Help Book,Books,Central,2,592,0.1,1065.6,Debit Card,Regular
+ORD11350,2025-09-08,CUST1120,Air Fryer,Home & Kitchen,North,3,6766,0.05,19283.1,UPI,Regular
+ORD11351,2025-02-25,CUST1195,Mechanical Keyboard,Electronics,East,3,3456,0.15,8812.8,UPI,Premium
+ORD11352,2025-06-23,CUST1082,Storage Box Set,Home & Kitchen,West,2,1286,0.15,2186.2,UPI,Regular
+ORD11353,2025-03-04,CUST1165,Smart Watch,Electronics,East,2,5379,0.0,10758.0,UPI,Regular
+ORD11354,2025-03-24,CUST1106,Hoodie,Fashion,East,2,1730,0.15,2941.0,UPI,New
+ORD11355,2025-04-10,CUST1338,Electric Kettle,Home & Kitchen,South,5,2026,0.0,10130.0,Cash on Delivery,Regular
+ORD11356,2025-12-23,CUST1302,Bluetooth Speaker,Electronics,North,2,1870,0.0,3740.0,Debit Card,Premium
+ORD11357,2025-09-22,CUST1270,Bluetooth Speaker,Electronics,North,3,1930,0.1,5211.0,Debit Card,Regular
+ORD11358,2025-08-22,CUST1283,Water Bottle,Home & Kitchen,West,2,661,0.1,1189.8,UPI,Regular
+ORD11359,2025-05-13,CUST1140,Self Help Book,Books,West,2,608,0.05,1155.2,UPI,New
+ORD11360,2025-09-15,CUST1072,Running Shoes,Fashion,Central,1,3097,0.05,2942.15,Debit Card,Premium
+ORD11361,2025-07-18,CUST1243,Programming Book,Books,South,1,1044,0.0,1044.0,Debit Card,Regular
+ORD11362,2025-03-13,CUST1316,Backpack,Fashion,West,3,1941,0.05,5531.85,UPI,Regular
+ORD11363,2025-08-31,CUST1345,Wireless Mouse,Electronics,South,2,898,0.1,1616.4,Debit Card,New
+ORD11364,2025-10-14,CUST1148,Skin Care Kit,Beauty,South,1,1500,0.0,1500.0,Cash on Delivery,Premium
+ORD11365,2025-04-10,CUST1269,Electric Kettle,Home & Kitchen,West,1,1991,0.1,1791.9,UPI,Regular
+ORD11366,2025-01-25,CUST1138,Data Analytics Book,Books,North,1,842,0.1,757.8,UPI,Regular
+ORD11367,2025-03-26,CUST1318,Running Shoes,Fashion,North,3,3171,0.0,9513.0,UPI,Regular
+ORD11368,2025-01-10,CUST1288,Skin Care Kit,Beauty,South,1,1598,0.1,1438.2,UPI,New
+ORD11369,2025-09-02,CUST1272,Air Fryer,Home & Kitchen,East,2,6514,0.0,13028.0,Credit Card,Premium
+ORD11370,2025-07-03,CUST1027,Face Wash,Beauty,South,4,537,0.1,1933.2,Credit Card,Premium
+ORD11371,2025-08-01,CUST1203,Bluetooth Speaker,Electronics,East,1,1850,0.15,1572.5,Credit Card,Regular
+ORD11372,2025-08-31,CUST1051,USB-C Hub,Electronics,Central,2,1459,0.1,2626.2,Debit Card,Regular
+ORD11373,2025-05-22,CUST1223,Electric Kettle,Home & Kitchen,South,2,2049,0.1,3688.2,Credit Card,Regular
+ORD11374,2025-07-04,CUST1076,Hoodie,Fashion,South,2,1774,0.0,3548.0,Cash on Delivery,Regular
+ORD11375,2025-05-28,CUST1044,Electric Kettle,Home & Kitchen,West,1,2117,0.2,1693.6,UPI,Regular
+ORD11376,2025-03-08,CUST1070,Hoodie,Fashion,South,2,1618,0.1,2912.4,UPI,New
+ORD11377,2025-07-13,CUST1222,Body Lotion,Beauty,South,3,734,0.05,2091.9,Credit Card,Regular
+ORD11378,2025-10-12,CUST1229,Storage Box Set,Home & Kitchen,East,2,1118,0.05,2124.2,UPI,Regular
+ORD11379,2025-11-04,CUST1059,Storage Box Set,Home & Kitchen,Central,3,1162,0.1,3137.4,UPI,Regular
+ORD11380,2025-09-01,CUST1159,Backpack,Fashion,West,1,1669,0.0,1669.0,Debit Card,Regular
+ORD11381,2025-05-18,CUST1315,Programming Book,Books,West,4,1032,0.15,3508.8,Debit Card,Regular
+ORD11382,2025-05-27,CUST1102,Body Lotion,Beauty,South,2,691,0.2,1105.6,Cash on Delivery,Regular
+ORD11383,2025-04-24,CUST1254,USB-C Hub,Electronics,East,2,1585,0.0,3170.0,Credit Card,Premium
+ORD11384,2025-09-23,CUST1151,Self Help Book,Books,East,1,580,0.1,522.0,UPI,Regular
+ORD11385,2025-01-25,CUST1217,Fiction Novel,Books,South,2,519,0.0,1038.0,Credit Card,Regular
+ORD11386,2025-09-13,CUST1121,Running Shoes,Fashion,South,1,2771,0.0,2771.0,Cash on Delivery,Regular
+ORD11387,2025-07-30,CUST1007,Hoodie,Fashion,South,2,1737,0.0,3474.0,Debit Card,Regular
+ORD11388,2025-01-21,CUST1235,Perfume,Beauty,West,2,2867,0.0,5734.0,Credit Card,Regular
+ORD11389,2025-04-16,CUST1323,USB-C Hub,Electronics,West,3,1477,0.1,3987.9,Credit Card,Premium
+ORD11390,2025-11-10,CUST1164,Denim Jeans,Fashion,Central,1,2320,0.2,1856.0,Cash on Delivery,Regular
+ORD11391,2025-08-23,CUST1023,Skin Care Kit,Beauty,South,1,1483,0.05,1408.85,Debit Card,Premium
+ORD11392,2025-12-07,CUST1087,Perfume,Beauty,North,1,2786,0.0,2786.0,UPI,Regular
+ORD11393,2025-06-11,CUST1313,Casual Shirt,Fashion,West,1,1374,0.05,1305.3,UPI,New
+ORD11394,2025-07-10,CUST1169,Programming Book,Books,West,2,1105,0.05,2099.5,Credit Card,Regular
+ORD11395,2025-02-16,CUST1067,Smart Watch,Electronics,South,1,5383,0.15,4575.55,UPI,Regular
+ORD11396,2025-01-07,CUST1294,Running Shoes,Fashion,West,2,3216,0.2,5145.6,UPI,Regular
+ORD11397,2025-10-14,CUST1079,Storage Box Set,Home & Kitchen,West,1,1145,0.0,1145.0,UPI,Regular
+ORD11398,2025-09-16,CUST1218,Storage Box Set,Home & Kitchen,East,3,1111,0.0,3333.0,Debit Card,Premium
+ORD11399,2025-04-25,CUST1072,Self Help Book,Books,North,1,645,0.0,645.0,Credit Card,Regular
+ORD11400,2025-05-12,CUST1120,Denim Jeans,Fashion,South,3,2035,0.0,6105.0,UPI,New
+ORD11401,2025-06-04,CUST1161,Mechanical Keyboard,Electronics,East,1,3183,0.05,3023.85,Debit Card,Regular
+ORD11402,2025-03-14,CUST1095,Denim Jeans,Fashion,Central,3,2323,0.15,5923.65,Debit Card,Premium
+ORD11403,2025-12-25,CUST1335,Hoodie,Fashion,West,1,1765,0.1,1588.5,UPI,Regular
+ORD11404,2025-05-30,CUST1276,Storage Box Set,Home & Kitchen,East,2,1240,0.15,2108.0,UPI,Premium
+ORD11405,2025-08-23,CUST1266,Business Book,Books,East,3,755,0.05,2151.75,Credit Card,Regular
+ORD11406,2025-10-20,CUST1151,Storage Box Set,Home & Kitchen,East,1,1224,0.0,1224.0,Credit Card,New
+ORD11407,2025-01-31,CUST1198,Air Fryer,Home & Kitchen,North,5,6858,0.1,30861.0,Debit Card,Regular
+ORD11408,2025-06-30,CUST1089,Denim Jeans,Fashion,North,1,2288,0.05,2173.6,Debit Card,Regular
+ORD11409,2025-05-02,CUST1018,Casual Shirt,Fashion,North,3,1242,0.15,3167.1,UPI,Regular
+ORD11410,2025-03-18,CUST1082,Running Shoes,Fashion,South,1,3184,0.05,3024.8,UPI,Regular
+ORD11411,2025-02-09,CUST1283,Air Fryer,Home & Kitchen,South,1,6954,0.1,6258.6,Debit Card,Regular
+ORD11412,2025-05-23,CUST1287,Smart Watch,Electronics,East,3,5112,0.05,14569.2,Credit Card,Regular
+ORD11413,2025-12-28,CUST1140,Bluetooth Speaker,Electronics,West,1,1825,0.0,1825.0,Credit Card,New
+ORD11414,2025-06-14,CUST1019,Smart Watch,Electronics,Central,3,5112,0.05,14569.2,Cash on Delivery,Premium
+ORD11415,2025-04-12,CUST1234,Smart Watch,Electronics,East,1,5343,0.0,5343.0,Cash on Delivery,Regular
+ORD11416,2025-06-06,CUST1270,Storage Box Set,Home & Kitchen,North,2,1140,0.1,2052.0,UPI,New
+ORD11417,2025-07-14,CUST1241,Running Shoes,Fashion,Central,2,3036,0.0,6072.0,UPI,Regular
+ORD11418,2025-07-31,CUST1247,Body Lotion,Beauty,East,2,686,0.1,1234.8,UPI,Regular
+ORD11419,2025-12-03,CUST1337,Electric Kettle,Home & Kitchen,East,2,1954,0.15,3321.8,UPI,Premium
+ORD11420,2025-07-25,CUST1059,Skin Care Kit,Beauty,Central,3,1554,0.05,4428.9,UPI,Premium
+ORD11421,2025-02-27,CUST1340,Perfume,Beauty,South,1,2594,0.1,2334.6,Cash on Delivery,Regular
+ORD11422,2025-01-02,CUST1238,Electric Kettle,Home & Kitchen,Central,4,2119,0.05,8052.2,Debit Card,Premium
+ORD11423,2025-01-27,CUST1212,Wireless Mouse,Electronics,South,2,899,0.0,1798.0,Credit Card,Regular
+ORD11424,2025-09-28,CUST1052,Air Fryer,Home & Kitchen,South,1,6879,0.1,6191.1,UPI,Premium
+ORD11425,2025-08-24,CUST1002,Hoodie,Fashion,South,2,1591,0.05,3022.9,Credit Card,Premium
+ORD11426,2025-04-30,CUST1252,Wireless Mouse,Electronics,North,2,871,0.05,1654.9,UPI,Regular
+ORD11427,2025-03-14,CUST1346,Skin Care Kit,Beauty,West,4,1726,0.15,5868.4,UPI,New
+ORD11428,2025-03-16,CUST1305,Running Shoes,Fashion,East,1,2916,0.1,2624.4,Credit Card,Premium
+ORD11429,2025-10-07,CUST1019,Self Help Book,Books,South,1,613,0.15,521.05,UPI,Regular
+ORD11430,2025-06-13,CUST1315,Face Wash,Beauty,West,1,502,0.0,502.0,Credit Card,Premium
+ORD11431,2025-11-05,CUST1011,Bluetooth Speaker,Electronics,East,2,1784,0.2,2854.4,UPI,Premium
+ORD11432,2025-08-18,CUST1097,Wireless Mouse,Electronics,East,1,894,0.2,715.2,Credit Card,New
+ORD11433,2025-07-22,CUST1015,Air Fryer,Home & Kitchen,South,4,6325,0.05,24035.0,UPI,Regular
+ORD11434,2025-12-28,CUST1137,Body Lotion,Beauty,North,4,714,0.1,2570.4,UPI,Regular
+ORD11435,2025-08-27,CUST1144,USB-C Hub,Electronics,North,1,1400,0.05,1330.0,UPI,Regular
+ORD11436,2025-05-06,CUST1220,Running Shoes,Fashion,Central,2,3168,0.1,5702.4,Credit Card,Premium
+ORD11437,2025-04-30,CUST1160,Water Bottle,Home & Kitchen,West,1,660,0.1,594.0,Debit Card,Regular
+ORD11438,2025-10-25,CUST1242,Wireless Mouse,Electronics,West,1,876,0.2,700.8,Credit Card,Premium
+ORD11439,2025-01-25,CUST1127,Perfume,Beauty,East,1,2581,0.05,2451.95,Credit Card,New
+ORD11440,2025-05-09,CUST1240,Smart Watch,Electronics,South,1,5866,0.15,4986.1,Cash on Delivery,Premium
+ORD11441,2025-03-23,CUST1125,Hair Dryer,Beauty,East,2,2523,0.15,4289.1,Debit Card,Regular
+ORD11442,2025-12-12,CUST1009,Coffee Maker,Home & Kitchen,North,1,4042,0.1,3637.8,Cash on Delivery,Premium
+ORD11443,2025-04-24,CUST1220,Mechanical Keyboard,Electronics,South,3,3256,0.05,9279.6,Debit Card,Regular
+ORD11444,2025-09-24,CUST1305,Backpack,Fashion,North,1,1668,0.0,1668.0,UPI,Regular
+ORD11445,2025-06-12,CUST1310,Skin Care Kit,Beauty,North,4,1641,0.1,5907.6,Cash on Delivery,New
+ORD11446,2025-02-24,CUST1270,Storage Box Set,Home & Kitchen,Central,2,1142,0.1,2055.6,UPI,Premium
+ORD11447,2025-03-22,CUST1173,Hair Dryer,Beauty,North,2,2459,0.1,4426.2,UPI,Regular
+ORD11448,2025-09-19,CUST1234,Smart Watch,Electronics,South,1,5832,0.05,5540.4,UPI,New
+ORD11449,2025-05-09,CUST1004,Denim Jeans,Fashion,West,4,2198,0.0,8792.0,UPI,New
+ORD11450,2025-05-19,CUST1146,Backpack,Fashion,North,1,1902,0.05,1806.9,UPI,Regular
+ORD11451,2025-08-03,CUST1229,Wireless Mouse,Electronics,West,1,859,0.1,773.1,Debit Card,Regular
+ORD11452,2025-09-19,CUST1255,Bluetooth Speaker,Electronics,East,2,1775,0.05,3372.5,Credit Card,New
+ORD11453,2025-11-18,CUST1157,Mechanical Keyboard,Electronics,Central,3,3257,0.0,9771.0,UPI,New
+ORD11454,2025-08-26,CUST1150,Casual Shirt,Fashion,Central,1,1324,0.0,1324.0,UPI,New
+ORD11455,2025-01-19,CUST1212,Business Book,Books,Central,2,662,0.1,1191.6,Cash on Delivery,Regular
+ORD11456,2025-09-22,CUST1054,Hoodie,Fashion,North,1,1808,0.0,1808.0,UPI,Regular
+ORD11457,2025-11-13,CUST1009,USB-C Hub,Electronics,West,3,1440,0.1,3888.0,UPI,Regular
+ORD11458,2025-07-08,CUST1264,Coffee Maker,Home & Kitchen,South,1,4358,0.1,3922.2,Credit Card,Premium
+ORD11459,2025-01-27,CUST1314,USB-C Hub,Electronics,East,1,1433,0.05,1361.35,Credit Card,Premium
+ORD11460,2025-07-16,CUST1185,Casual Shirt,Fashion,South,1,1389,0.1,1250.1,Credit Card,Premium
+ORD11461,2025-10-13,CUST1328,Face Wash,Beauty,Central,4,535,0.1,1926.0,UPI,Premium
+ORD11462,2025-02-11,CUST1004,Smart Watch,Electronics,South,1,5321,0.05,5054.95,UPI,Premium
+ORD11463,2025-12-31,CUST1036,Business Book,Books,Central,1,672,0.15,571.2,Debit Card,Regular
+ORD11464,2025-10-14,CUST1295,Wireless Mouse,Electronics,West,1,905,0.05,859.75,Credit Card,Regular
+ORD11465,2025-03-01,CUST1307,Hoodie,Fashion,South,2,1728,0.15,2937.6,Debit Card,Premium
+ORD11466,2025-12-15,CUST1141,Hair Dryer,Beauty,West,2,2543,0.0,5086.0,UPI,New
+ORD11467,2025-02-15,CUST1121,Electric Kettle,Home & Kitchen,North,1,2109,0.1,1898.1,UPI,Regular
+ORD11468,2025-08-04,CUST1209,Skin Care Kit,Beauty,West,1,1526,0.0,1526.0,Credit Card,Regular
+ORD11469,2025-06-22,CUST1266,Business Book,Books,East,3,715,0.0,2145.0,Credit Card,Regular
+ORD11470,2025-12-24,CUST1091,Electric Kettle,Home & Kitchen,East,3,1908,0.0,5724.0,Debit Card,Premium
+ORD11471,2025-06-16,CUST1320,Data Analytics Book,Books,North,1,860,0.0,860.0,UPI,New
+ORD11472,2025-04-29,CUST1300,Denim Jeans,Fashion,West,1,2271,0.05,2157.45,UPI,Regular
+ORD11473,2025-09-14,CUST1055,Water Bottle,Home & Kitchen,North,2,727,0.05,1381.3,UPI,Regular
+ORD11474,2025-01-01,CUST1054,Running Shoes,Fashion,West,4,2874,0.1,10346.4,UPI,Premium
+ORD11475,2025-03-07,CUST1237,Smart Watch,Electronics,Central,2,5389,0.05,10239.1,UPI,Regular
+ORD11476,2025-01-11,CUST1030,Business Book,Books,East,2,679,0.1,1222.2,Credit Card,Premium
+ORD11477,2025-03-14,CUST1029,Business Book,Books,East,1,687,0.1,618.3,Credit Card,New
+ORD11478,2025-06-22,CUST1090,Air Fryer,Home & Kitchen,South,1,6293,0.1,5663.7,UPI,Premium
+ORD11479,2025-05-08,CUST1135,Self Help Book,Books,South,1,591,0.05,561.45,Credit Card,New
+ORD11480,2025-09-16,CUST1148,Hoodie,Fashion,Central,1,1728,0.05,1641.6,UPI,Regular
+ORD11481,2025-03-07,CUST1032,Bluetooth Speaker,Electronics,North,2,1975,0.1,3555.0,Credit Card,Regular
+ORD11482,2025-10-20,CUST1129,Skin Care Kit,Beauty,West,2,1694,0.1,3049.2,Debit Card,New
+ORD11483,2025-08-25,CUST1052,Coffee Maker,Home & Kitchen,North,1,4463,0.15,3793.55,UPI,Premium
+ORD11484,2025-07-17,CUST1240,Hoodie,Fashion,North,4,1648,0.15,5603.2,UPI,Premium
+ORD11485,2025-10-17,CUST1181,Smart Watch,Electronics,West,2,5479,0.05,10410.1,Debit Card,Premium
+ORD11486,2025-10-12,CUST1096,Hoodie,Fashion,South,4,1722,0.05,6543.6,Debit Card,Regular
+ORD11487,2025-12-14,CUST1242,Perfume,Beauty,West,1,2619,0.1,2357.1,Credit Card,Regular
+ORD11488,2025-06-29,CUST1146,Casual Shirt,Fashion,Central,2,1262,0.05,2397.8,UPI,Regular
+ORD11489,2025-06-05,CUST1125,Smart Watch,Electronics,South,1,5728,0.0,5728.0,Credit Card,Regular
+ORD11490,2025-08-04,CUST1114,Perfume,Beauty,East,4,2674,0.2,8556.8,Debit Card,Regular
+ORD11491,2025-01-25,CUST1277,Air Fryer,Home & Kitchen,Central,2,6412,0.15,10900.4,UPI,Premium
+ORD11492,2025-10-28,CUST1082,Air Fryer,Home & Kitchen,East,1,6077,0.1,5469.3,Cash on Delivery,Regular
+ORD11493,2025-02-22,CUST1006,Smart Watch,Electronics,North,1,5467,0.1,4920.3,Credit Card,Regular
+ORD11494,2025-01-26,CUST1283,Running Shoes,Fashion,West,4,2899,0.05,11016.2,Debit Card,Premium
+ORD11495,2025-07-15,CUST1147,Casual Shirt,Fashion,West,2,1340,0.1,2412.0,UPI,Regular
+ORD11496,2025-11-15,CUST1230,Air Fryer,Home & Kitchen,East,1,6669,0.0,6669.0,UPI,Regular
+ORD11497,2025-09-25,CUST1076,Hoodie,Fashion,North,1,1626,0.05,1544.7,Cash on Delivery,Regular
+ORD11498,2025-12-06,CUST1228,Wireless Mouse,Electronics,Central,3,923,0.05,2630.55,UPI,Regular
+ORD11499,2025-10-12,CUST1145,Data Analytics Book,Books,West,5,872,0.15,3706.0,Debit Card,Regular
+ORD11500,2025-09-11,CUST1298,Bluetooth Speaker,Electronics,South,2,2003,0.0,4006.0,UPI,Regular

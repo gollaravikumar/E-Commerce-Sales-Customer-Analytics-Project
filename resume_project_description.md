@@ -1,0 +1,3 @@
+- Analyzed 1,500 synthetic e-commerce orders in Excel and Python, comparing sales by month, product, region, payment method, and customer segment.
+- Created a formula-based Excel workbook with PivotTables and charts, and a Python script that checks the data and saves six visualizations.
+- Wrote MySQL queries and a Power BI dashboard guide; running the SQL and building the `.pbix` remain future tasks.

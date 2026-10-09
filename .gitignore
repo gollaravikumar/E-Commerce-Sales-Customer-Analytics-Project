@@ -1,0 +1,29 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors and operating system files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Excel temporary lock files
+~$*.xlsx
+
+# Temporary files and build output
+*.tmp
+*.log
+build/
+dist/
